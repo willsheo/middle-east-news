@@ -1,0 +1,107 @@
+{
+  "generated": "2026-06-25T00:20:00+00:00",
+  "window_hours": 24,
+  "count": 10,
+  "articles": [
+    {
+      "title": "Rubio tours Gulf, presses Iran on Hormuz tolls and skips Israel in apparent Netanyahu snub",
+      "link": "https://www.thenationalnews.com/news/gulf/2026/06/24/rubio-uae-gulf-tour-iran-us-deal-strait-of-hormuz/",
+      "summary": "US Secretary of State Marco Rubio met UAE President Sheikh Mohammed bin Zayed in Abu Dhabi to discuss the US-Iran memorandum of understanding, securing free transit through the Strait of Hormuz and Gulf security. Rubio said Iran would not be permitted to charge tolls on Hormuz shipping under any final deal, a position shared by Washington's Gulf allies. Notably, Rubio did not visit Israel on his three-country Gulf tour, which analysts described as another snub of Prime Minister Benjamin Netanyahu amid US frustration over Israel's actions in Lebanon.",
+      "published": "2026-06-24T13:30:00+00:00",
+      "source": "The National",
+      "perspective": "Emirati",
+      "paywalled": false,
+      "also_reported_by": ["Times of Israel", "Associated Press", "Arab News", "CNN"]
+    },
+    {
+      "title": "Israel vows to keep troops in south Lebanon as Jerusalem-Beirut talks resume in Washington",
+      "link": "https://www.timesofisrael.com/katz-vows-no-idf-withdrawal-from-south-lebanon-even-if-theres-an-american-demand/",
+      "summary": "Defense Minister Israel Katz said the IDF will not withdraw from its southern Lebanon security zone 'even if there is an American demand,' adding no such demand had been made. The vow came as a fifth round of direct Israel-Lebanon talks continued at the State Department and Pentagon, focused on creating 'pilot areas' from which Israeli troops would withdraw and Lebanese army units deploy. Axios reported the first day ended with no progress and a sense of regression, underscoring the fragility of the US-brokered ceasefire.",
+      "published": "2026-06-24T16:10:00+00:00",
+      "source": "Times of Israel",
+      "perspective": "Israeli",
+      "paywalled": false,
+      "also_reported_by": ["Jerusalem Post", "Reuters", "US News", "Associated Press"]
+    },
+    {
+      "title": "UN nuclear chief says Iran inspections will resume; Tehran disputes any new commitment",
+      "link": "https://www.aljazeera.com/news/2026/6/24/un-nuclear-chief-says-iran-inspections-will-happen-tehran-says-after-deal",
+      "summary": "IAEA chief Rafael Grossi said inspections of Iran's nuclear sites will happen, echoing US Vice-President JD Vance's claim that Tehran agreed to readmit inspectors. Iran's foreign ministry countered that it had made 'no new commitments' beyond existing procedures, saying cooperation with the UN watchdog would continue only under current frameworks. The public back-and-forth highlighted how much of the emerging US-Iran framework remains unresolved.",
+      "published": "2026-06-24T10:45:00+00:00",
+      "source": "Al Jazeera",
+      "perspective": "Qatari",
+      "paywalled": false,
+      "also_reported_by": ["BBC", "PBS", "Arab News"]
+    },
+    {
+      "title": "Strait of Hormuz traffic doubles and oil falls below $70 as peace optimism grows",
+      "link": "https://www.cnn.com/2026/06/24/world/live-news/iran-war-trump-israel-lebanon",
+      "summary": "Vessel traffic through the Strait of Hormuz doubled over 24 hours to its highest level since late February as shipowners gained confidence following IMO safety assurances. Crude oil fell below $70 a barrel, its lowest since before the US-Iran war, easing supply fears amid progress in peace talks. The IEA estimated the UAE was exporting at nearly 85 percent of pre-war levels, though traffic remained below normal and the strait's long-term governance stayed contested.",
+      "published": "2026-06-24T17:00:00+00:00",
+      "source": "CNN",
+      "perspective": "international",
+      "paywalled": false,
+      "also_reported_by": ["BBC", "Al Jazeera", "Arab News", "The National"]
+    },
+    {
+      "title": "Iran's Pezeshkian says missile programme is non-negotiable: 'without them we'd be like Gaza'",
+      "link": "https://www.aljazeera.com/amp/news/liveblog/2026/6/23/iran-war-live-tehran-to-access-billions-in-frozen-funds",
+      "summary": "Iranian President Masoud Pezeshkian said Tehran's ballistic missile programme was excluded from the US memorandum of understanding and 'will never' be negotiated, speaking alongside Pakistan's prime minister in Islamabad. He said that without its missiles Iran would have ended up 'just like Gaza,' calling its defensive capabilities non-negotiable under any circumstances. The remarks set a hard limit on US hopes to fold missiles into a final agreement.",
+      "published": "2026-06-24T08:30:00+00:00",
+      "source": "Al Jazeera",
+      "perspective": "Qatari",
+      "paywalled": false,
+      "also_reported_by": ["Arab News", "The National", "Iran International"]
+    },
+    {
+      "title": "Treasury to oversee release of frozen Iranian funds as sides clash over terms",
+      "link": "https://www.cnbc.com/2026/06/24/us-treasury-will-oversee-frozen-iranian-funds-when-theyre-released-bessent-says.html",
+      "summary": "Treasury Secretary Scott Bessent said the department would oversee frozen Iranian funds when released, with a large share earmarked for US food and medicine and initial money likely flowing from Qatar under Treasury supervision. A senior US official rejected Iranian claims that Tehran would receive billions upfront, calling the deal 'pay-for-performance.' Iran's foreign ministry spokesman dismissed any conditions, insisting the assets would be used 'with absolute liberty' to buy whatever goods the nation needs.",
+      "published": "2026-06-24T15:20:00+00:00",
+      "source": "CNBC",
+      "perspective": "international",
+      "paywalled": false,
+      "also_reported_by": ["The National", "Iran International", "Al Jazeera"]
+    },
+    {
+      "title": "US reopens embassy in Kuwait during Rubio visit, months after Iranian attack",
+      "link": "https://www.arabnews.com/node/2648443/middle-east",
+      "summary": "The US Embassy in Kuwait resumed operations during Secretary of State Marco Rubio's visit, months after services were suspended in March when Iranian drones struck US missions following American-Israeli strikes on Iran. The embassy will immediately restore emergency services for US citizens, with other services phased in. The reopening signalled a normalisation of Gulf diplomacy following the US-Iran truce.",
+      "published": "2026-06-24T12:00:00+00:00",
+      "source": "Arab News",
+      "perspective": "Saudi",
+      "paywalled": false,
+      "also_reported_by": ["Al-Monitor", "Asharq Al-Awsat", "Associated Press"]
+    },
+    {
+      "title": "Demand for tunnel maps and privately held arms tests stalled Gaza talks",
+      "link": "https://www.aljazeera.com/news/2026/6/23/demand-for-tunnel-maps-and-family-arms-tests-gaza-talks",
+      "summary": "Gaza ceasefire negotiations remained deadlocked over disarmament, paralysing reconstruction, said Nickolay Mladenov, the diplomat overseeing the US-brokered truce. Mediators are pressing Hamas to surrender tunnel maps, manufacturing workshops, heavy and light weapons, and even arms privately held by Palestinians, under 'Clause 8' of the plan. Hamas has tied any demilitarisation to Israeli troop withdrawals, arguing Israel is already violating the first phase of the agreement.",
+      "published": "2026-06-24T07:00:00+00:00",
+      "source": "Al Jazeera",
+      "perspective": "Qatari",
+      "paywalled": false,
+      "also_reported_by": ["PBS", "Associated Press", "Times of Israel"]
+    },
+    {
+      "title": "Defense Ministry civilian contractor killed in building collapse in Gaza",
+      "link": "https://www.timesofisrael.com/liveblog-june-24-2026/",
+      "summary": "A civilian contractor working for Israel's Defense Ministry was killed when a building collapsed in the Gaza Strip, the ministry said. The death came as Israeli forces maintained operations in the enclave despite the broader ceasefire framework, and as talks over Hamas disarmament and reconstruction remained stalled.",
+      "published": "2026-06-24T14:00:00+00:00",
+      "source": "Times of Israel",
+      "perspective": "Israeli",
+      "paywalled": false,
+      "also_reported_by": ["Jerusalem Post"]
+    },
+    {
+      "title": "Settler arson torches Palestinian wheat fields across the West Bank ahead of harvest",
+      "link": "https://www.middleeastmonitor.com/20260624-tales-of-the-palestinian-wheat-sheaves-when-a-harvest-turns-to-ash/",
+      "summary": "Middle East Monitor reported a systematic campaign of arson and violence by Israeli settlers across towns in Ramallah, Salfit and villages south of Nablus, with wheat fields set ablaze days before harvest. Farmers described being attacked with live ammunition and stones, forced off their land at gunpoint under army protection, and having tractors confiscated and machinery vandalised. Rights monitors say the first four months of 2026 marked the most violent start to a year since tracking of settler violence began in 2013.",
+      "published": "2026-06-24T09:30:00+00:00",
+      "source": "Middle East Monitor",
+      "perspective": "pro-Palestinian",
+      "paywalled": false,
+      "also_reported_by": ["Amnesty International", "UN News"]
+    }
+  ]
+}

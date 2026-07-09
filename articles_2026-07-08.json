@@ -1,0 +1,87 @@
+{
+  "generated": "2026-07-08T08:15:00+00:00",
+  "window_hours": 24,
+  "count": 8,
+  "articles": [
+    {
+      "title": "US launches 'powerful strikes' on Iran after tankers attacked in Strait of Hormuz; Tehran threatens to halt talks",
+      "link": "https://www.aljazeera.com/news/2026/7/7/ships-attacked-in-the-strait-of-hormuz-what-that-means-for-ongoing-talks",
+      "summary": "US Central Command said it launched 'a series of powerful strikes' against Iran after at least three commercial vessels were attacked in and around the Strait of Hormuz, testing the fragile ceasefire that ended the 2026 war. Iranian state TV implied Tehran was behind the assault on a Qatari LNG tanker but issued no official claim; Qatar and Saudi Arabia said their vessels al-Rakiyat and Wedyan were struck, one catching fire off Oman with no casualties reported. Iran threatened a 'decisive' response and a 'complete halt' to negotiations, though a US official said talks expected to resume around July 11 would continue. The US Treasury separately revoked a June authorization that had allowed Iran to legally export its oil.",
+      "published": "2026-07-07T13:00:00+00:00",
+      "source": "Al Jazeera",
+      "perspective": "Qatari",
+      "paywalled": false,
+      "also_reported_by": ["NPR", "CNBC", "CBS News", "Bloomberg", "The Washington Post", "CNN", "Time", "BBC", "The Times of Israel", "The Jerusalem Post", "Reuters"]
+    },
+    {
+      "title": "Explosions wound at least 18 in Damascus during Macron's visit to Syria",
+      "link": "https://www.al-monitor.com/originals/2026/07/two-explosions-hit-damascus-macron-visits-syria",
+      "summary": "Two explosive devices, one placed in a rubbish bin and one in a parked car, detonated near Syria's tourism ministry and a hotel where French President Emmanuel Macron was expected to stay, wounding at least 18 people including four police officers. Macron, the first Western head of state to visit Syria since the fall of Bashar al-Assad, did not hear the blasts and continued talks with President Ahmed al-Sharaa. No group immediately claimed responsibility. The bombing followed a July 3 cafe blast near Damascus's Palace of Justice that killed nine, underscoring the fragility of security under Syria's new government.",
+      "published": "2026-07-07T18:03:00+00:00",
+      "source": "Al-Monitor",
+      "perspective": "independent",
+      "paywalled": false,
+      "also_reported_by": ["BBC", "Al Jazeera", "NPR", "CNN", "PBS", "Euronews", "Fox News"]
+    },
+    {
+      "title": "Saudi Arabia and Qatar say Iran struck their tankers in Strait of Hormuz",
+      "link": "https://english.alarabiya.net/News/middle-east",
+      "summary": "Saudi Arabia's Foreign Ministry said Iran attacked its crude carrier Wedyan as it transited the Strait of Hormuz, while Qatar said its LNG tanker al-Rakiyat was hit while 'passing near' the waterway; a US official said three vessels were targeted in Oman's territorial waters. The UKMTO reported a tanker struck on its port side about eight nautical miles east of Limah, Oman, igniting a fire, with no casualties or environmental damage. The strikes on Gulf shipping drew condemnation from Riyadh and Doha and prompted the US military response, reviving fears for regional energy exports even as Iran continued to limit and toll traffic through the strait.",
+      "published": "2026-07-07T11:00:00+00:00",
+      "source": "Al Arabiya",
+      "perspective": "Saudi",
+      "paywalled": false,
+      "also_reported_by": ["CNN", "Al Jazeera", "Reuters", "NPR", "Arab News"]
+    },
+    {
+      "title": "Rights groups demand release of detained Gaza doctor Abu Safiya as lawyer reports severe beatings",
+      "link": "https://www.thenationalnews.com/news/mena/2026/07/06/un-rights-body-calls-on-israel-to-release-gaza-doctor-hussam-abu-safiya/",
+      "summary": "A UN human rights body and Amnesty International demanded Israel release detained Gaza paediatrician Dr Hussam Abu Safiya, as his lawyer said the former Kamal Adwan Hospital director had been beaten so badly at the underground Rakevet detention facility that he was barely recognisable. The attorney reported fresh bruises and torture marks and described Abu Safiya as weak and near unconsciousness; his family said he recounted being struck with a hammer. He has been held without charge for over a year since his December 2024 arrest. Israeli authorities have not addressed the specific allegations.",
+      "published": "2026-07-07T09:00:00+00:00",
+      "source": "The National",
+      "perspective": "independent",
+      "paywalled": false,
+      "also_reported_by": ["BBC", "Amnesty International", "Middle East Eye", "Democracy Now"]
+    },
+    {
+      "title": "Khamenei's coffin heads toward July 9 Mashhad burial as new supreme leader stays hidden",
+      "link": "https://www.bbc.co.uk/news/articles/c07yy3j3nljo",
+      "summary": "Ayatollah Ali Khamenei's coffin was carried through Qom and toward the Shia shrine cities of Najaf and Karbala in Iraq during the final days of a six-day state funeral, ahead of burial on July 9 at the Imam Reza shrine in Mashhad. New Supreme Leader Mojtaba Khamenei, reportedly wounded and disfigured in the February 28 strike that killed his father, again did not appear in public. The BBC's Lyse Doucet described three days of mourning staged as a political spectacle projecting resistance and revenge, a message Iran's leaders wanted the world to see.",
+      "published": "2026-07-07T00:46:00+00:00",
+      "source": "BBC",
+      "perspective": "international",
+      "paywalled": false,
+      "also_reported_by": ["Al Jazeera", "CNN", "Time", "Arab News", "The Jerusalem Post"]
+    },
+    {
+      "title": "Israeli police open probe after officer filmed throwing stun grenade into car in West Bank",
+      "link": "https://www.bbc.co.uk/news/articles/c1eyyyl8ye0o",
+      "summary": "Israeli police said they had opened an investigation after an officer was filmed throwing a stun grenade into a car during an incident in the occupied West Bank, stating the officer had acted 'not in accordance with procedure.' The footage circulated amid mounting reports of settler and security-force violence against Palestinians, including a settler attack days earlier that burned down a Palestinian restaurant near Nablus.",
+      "published": "2026-07-06T18:52:00+00:00",
+      "source": "BBC",
+      "perspective": "international",
+      "paywalled": false,
+      "also_reported_by": ["The Times of Israel", "Middle East Monitor"]
+    },
+    {
+      "title": "Ex-Syrian intelligence chief convicted of torture and sexual abuse by Austrian court",
+      "link": "https://www.bbc.co.uk/news/articles/cy8ddd1m3mpo",
+      "summary": "An Austrian court found a former Syrian intelligence chief guilty of torture and sexual abuse committed against opponents of ousted president Bashar al-Assad, in one of the first European trials of senior figures from the former Damascus government. Two ex-officials had gone on trial in Vienna under universal-jurisdiction laws covering crimes against humanity.",
+      "published": "2026-07-06T17:22:00+00:00",
+      "source": "BBC",
+      "perspective": "international",
+      "paywalled": false,
+      "also_reported_by": []
+    },
+    {
+      "title": "Netanyahu says he and Trump are 'set on same goal' on Iran, warns against F-35s for Turkey",
+      "link": "https://www.timesofisrael.com/liveblog-july-7-2026/",
+      "summary": "Visiting a naval base in Haifa, Prime Minister Benjamin Netanyahu said he and President Trump are 'set on the same goal' of preventing a nuclear-armed Iran and that Israel would ensure it 'even if' Washington's deal fails. He warned that supplying Turkey with F-35 jets could upset the regional balance and threaten Israeli air superiority, while Israel's ambassador to Washington said Jerusalem views its new framework with Lebanon as superseding the US-Iran memorandum. Israeli cyber firm Check Point separately reported an Iran-linked group targeting Israeli government and IT networks.",
+      "published": "2026-07-07T12:00:00+00:00",
+      "source": "The Times of Israel",
+      "perspective": "Israeli",
+      "paywalled": false,
+      "also_reported_by": ["The Jerusalem Post"]
+    }
+  ]
+}

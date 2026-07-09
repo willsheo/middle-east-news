@@ -1,0 +1,167 @@
+{
+  "generated": "2026-06-14T17:00:00+00:00",
+  "window_hours": 24,
+  "count": 16,
+  "articles": [
+    {
+      "title": "Trump says US-Iran peace deal scheduled to be signed today; Strait of Hormuz to open immediately",
+      "link": "https://www.cbsnews.com/live-updates/iran-war-us-trump-peace-deal-agreement/",
+      "summary": "President Trump wrote on Truth Social that 'The Deal is scheduled to get signed tomorrow, and immediately after it is signed, the Hormuz Strait is OPEN TO ALL.' The reported agreement includes a 60-day ceasefire extension, reopening of the Strait of Hormuz, and in principle Iran committing not to enrich uranium for 15-20 years and dismantling nuclear sites.",
+      "published": "Sun, 14 Jun 2026 06:00:00 GMT",
+      "source": "CBS News",
+      "perspective": "international",
+      "paywalled": false,
+      "also_reported_by": ["NBC News", "Arab News", "Times of Israel", "Al Jazeera", "Radio Free Europe"]
+    },
+    {
+      "title": "Qatari mediators arrive in Tehran as Iran said to still be undecided on US deal",
+      "link": "https://www.timesofisrael.com/liveblog-june-14-2026/",
+      "summary": "Qatari mediators flew to Tehran on Sunday as Iran held 'final' deliberations over whether to sign the Islamabad memorandum of understanding with the United States. Iran's Foreign Ministry spokesman said on Saturday that the signing was unlikely to take place on June 14. Pakistani PM Shehbaz Sharif said finalization was 'likely expected in the next 24 hours.'",
+      "published": "Sun, 14 Jun 2026 07:30:00 GMT",
+      "source": "Times of Israel",
+      "perspective": "Israeli",
+      "paywalled": false,
+      "also_reported_by": ["NBC News", "CBS News", "Radio Free Europe"]
+    },
+    {
+      "title": "Iran downplays claims of imminent peace agreement, says nuclear issues remain unresolved",
+      "link": "https://www.rferl.org/a/iran-war-us-hormuz-oil-blockade-gulf-israel/33640284.html",
+      "summary": "Iran's Foreign Ministry pushed back on reports that a deal was imminent, saying nuclear issues and other key concerns remain unresolved. Senior Israeli officials said the MOU endangers Israel's security and that the US is giving up military leverage. Iran has described reports of the deal as preliminary.",
+      "published": "Sat, 13 Jun 2026 18:00:00 GMT",
+      "source": "Radio Free Europe",
+      "perspective": "independent",
+      "paywalled": false,
+      "also_reported_by": ["NBC News", "Times of Israel"]
+    },
+    {
+      "title": "Netanyahu convenes security cabinet Sunday evening amid emerging US-Iran deal",
+      "link": "https://www.timesofisrael.com/liveblog-june-13-2026/",
+      "summary": "Israeli PM Netanyahu called an emergency security cabinet session for Sunday evening to discuss the emerging US-Iran memorandum of understanding. Netanyahu has said Israel is not a party to the deal. Senior Israeli officials warned that the terms endanger Israel's security and that nuclear and other key issues remain unresolved.",
+      "published": "Sat, 13 Jun 2026 20:00:00 GMT",
+      "source": "Times of Israel",
+      "perspective": "Israeli",
+      "paywalled": false,
+      "also_reported_by": ["NBC News", "Al Jazeera"]
+    },
+    {
+      "title": "Hezbollah drone sirens sound in communities across Upper Galilee; no injuries reported",
+      "link": "https://www.timesofisrael.com/liveblog-june-14-2026/",
+      "summary": "Sirens warning of a suspected Hezbollah drone attack from Lebanon sounded in several communities in Israel's Upper Galilee on Sunday. No injuries were reported. The incident comes as Israel continues military operations north of the Litani River in Lebanon despite the June 4 Lebanon-Israel ceasefire.",
+      "published": "Sun, 14 Jun 2026 08:00:00 GMT",
+      "source": "Times of Israel",
+      "perspective": "Israeli",
+      "paywalled": false,
+      "also_reported_by": ["Al Jazeera"]
+    },
+    {
+      "title": "Israeli military strikes in Khan Younis as Gaza operations continue",
+      "link": "https://www.aljazeera.com/middle-east/",
+      "summary": "Smoke rose following Israeli military strikes in Khan Younis in southern Gaza on Sunday. Israel has recorded more than 40 attacks on Hamas and allied groups in May 2026, the highest monthly total since the ceasefire took effect in October 2025. Netanyahu had directed the IDF to increase control of Gaza to 70%.",
+      "published": "Sun, 14 Jun 2026 07:00:00 GMT",
+      "source": "Al Jazeera",
+      "perspective": "Qatari",
+      "paywalled": false,
+      "also_reported_by": ["Times of Israel", "ACLED"]
+    },
+    {
+      "title": "Dozens protest against Iran-US peace deal outside Tehran foreign ministry",
+      "link": "https://www.arabnews.com/node/2646308/middle-east",
+      "summary": "Dozens of protesters gathered outside Iran's foreign ministry in Tehran on Sunday to demonstrate against the proposed US-Iran peace deal. Hardliners in Iran oppose concessions on uranium enrichment and nuclear sites. The protest reflects internal divisions within Iran over how to respond to international pressure.",
+      "published": "Sun, 14 Jun 2026 09:00:00 GMT",
+      "source": "Arab News",
+      "perspective": "Saudi",
+      "paywalled": false,
+      "also_reported_by": ["Radio Free Europe", "Al Jazeera"]
+    },
+    {
+      "title": "Lebanon fighting continues despite June 4 ceasefire; Israel strikes north of Litani River",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/6/4/iran-war-live-tensions-simmer-after-latest-us-iran-clashes-in-gulf",
+      "summary": "Despite the US-brokered ceasefire between Lebanon and Israel reached on June 4, Israeli airstrikes have continued in southern Lebanon, mainly in the al-Nabatieh district. Israeli forces expanded ground presence and took control of strategic positions north of the Litani River. A Hezbollah ceasefire has not held.",
+      "published": "Sun, 14 Jun 2026 06:30:00 GMT",
+      "source": "Al Jazeera",
+      "perspective": "Qatari",
+      "paywalled": false,
+      "also_reported_by": ["Times of Israel", "BBC"]
+    },
+    {
+      "title": "US maintains maritime blockade on Iranian ports; 120+ vessels redirected",
+      "link": "https://www.nbcnews.com/world/iran/us-iran-deal-expected-reopen-strait-hormuz-signed-days-both-sides-say-rcna349916",
+      "summary": "US forces continued enforcing a maritime blockade on ships entering and exiting Iranian ports, redirecting over 120 vessels and disabling another six. The Strait of Hormuz reopening is central to any peace deal, as the closure has caused significant disruption to global oil markets and shipping since Iran announced its shutdown following US strikes on June 11.",
+      "published": "Sat, 13 Jun 2026 14:00:00 GMT",
+      "source": "NBC News",
+      "perspective": "international",
+      "paywalled": false,
+      "also_reported_by": ["Al Jazeera", "Arab News", "CBS News"]
+    },
+    {
+      "title": "Israel's senior officials warn US-Iran MOU endangers security, nuclear issues left unaddressed",
+      "link": "https://www.timesofisrael.com/liveblog_entry/senior-israeli-officials-us-agreed-to-irans-main-conditions-israels-concerns-left-unaddressed/",
+      "summary": "Senior Israeli officials said the memorandum of understanding terms give Iran its main conditions while leaving Israel's concerns unaddressed. Officials said the US is giving up military leverage and key issues including ballistic missiles and support for terrorist proxies are not covered in the draft. Trump has moved away from earlier demands, with officials noting Israel is not a party to the agreement.",
+      "published": "Sun, 14 Jun 2026 05:00:00 GMT",
+      "source": "Times of Israel",
+      "perspective": "Israeli",
+      "paywalled": false,
+      "also_reported_by": ["NBC News", "Al Jazeera"]
+    },
+    {
+      "title": "Pakistan says US-Iran deal text finalized; Iran holding 'final' deliberations",
+      "link": "https://www.nbcnews.com/world/iran/live-blog/live-updates-us-iran-drones-trump-deal-war-hormuz-tehran-rcna349750",
+      "summary": "Pakistani officials said the deal text has been agreed and Iran is holding its 'final' internal deliberations. Pakistan has played a key mediating role alongside Qatar. Pakistani PM Shehbaz Sharif said Sunday that the deal was closer 'than ever before.' The agreement was expected to be signed virtually with Pakistan and Qatar serving as witnesses.",
+      "published": "Sun, 14 Jun 2026 08:30:00 GMT",
+      "source": "NBC News",
+      "perspective": "international",
+      "paywalled": false,
+      "also_reported_by": ["CBS News", "Times of Israel", "Arab News"]
+    },
+    {
+      "title": "Haaretz: Israeli elections loom as Netanyahu squeezed between US, Iran deal, and Hezbollah war",
+      "link": "https://www.haaretz.com/",
+      "summary": "With Israeli elections approaching in 2026, Netanyahu faces mounting pressure from his right-wing coalition partners who oppose any deal that doesn't fully neutralize Iran's nuclear and military capabilities. Past indications that Netanyahu may be prioritizing US concerns have given his political opponents new ammunition as he attempts to balance between Washington, domestic politics, and ongoing wars in Lebanon and Gaza.",
+      "published": "Sun, 14 Jun 2026 07:00:00 GMT",
+      "source": "Haaretz",
+      "perspective": "Israeli",
+      "paywalled": true,
+      "also_reported_by": ["Times of Israel"]
+    },
+    {
+      "title": "Israel strikes southern Beirut, killing 3; Trump says strike 'shouldn't have happened'",
+      "link": "https://www.aljazeera.com/news/2026/6/14/israel-issues-forced-displacement-orders-for-29-towns-in-southern-lebanon",
+      "summary": "Israeli airstrikes hit the Dahiyeh area of Beirut's southern suburbs on Sunday, killing at least three people and wounding seven others. The IDF said it was responding to three Hezbollah projectiles fired at northern Israel. Lebanon's NNA reported a strike hit the Ghobeiry neighbourhood. US President Trump publicly stated the strike 'shouldn't have happened' and that no part of Lebanon should be hit in the future, putting public distance between Washington and the Israeli military action.",
+      "published": "Sun, 14 Jun 2026 12:00:00 GMT",
+      "source": "Al Jazeera",
+      "perspective": "Qatari",
+      "paywalled": false,
+      "also_reported_by": ["NBC News", "Times of Israel", "Jerusalem Post", "NPR", "Express Tribune"]
+    },
+    {
+      "title": "IDF strikes over 70 Hezbollah sites; 36th Division advances toward Nabatieh",
+      "link": "https://www.timesofisrael.com/idf-says-over-70-hezbollah-sites-hit-as-troops-advance-near-south-lebanons-nabatieh/",
+      "summary": "The IDF's 36th Division struck over 70 Hezbollah sites in southern Lebanon and advanced toward Nabatieh, a major Hezbollah stronghold, with forces reported within three kilometres of the city. The Lebanese army withdrew from nearby Kfar Tebnit. Separately, the Israeli government is reported to be restraining further IDF action in Lebanon to avoid derailing US-Iran peace talks, with the IDF said to be preparing to pause its ground advance pending a deal.",
+      "published": "Sun, 14 Jun 2026 11:00:00 GMT",
+      "source": "Times of Israel",
+      "perspective": "Israeli",
+      "paywalled": false,
+      "also_reported_by": ["Jerusalem Post", "Sunday Guardian Live"]
+    },
+    {
+      "title": "Palestinian detainee dies in Israeli custody after 25 years in prison",
+      "link": "https://www.middleeastmonitor.com/20260614-palestinian-detainee-dies-after-25-years-in-israeli-prisons/",
+      "summary": "Imad Rajih Sarhan, 47, died at Gilboa Prison in northern Israel on Sunday. Israeli authorities attributed his death to a heart attack. Sarhan, from Haifa, had been serving a life sentence since October 2001. Palestinian prisoner advocacy groups called for an independent investigation and said conditions in Israeli prisons have deteriorated sharply during the war.",
+      "published": "Sun, 14 Jun 2026 10:00:00 GMT",
+      "source": "Middle East Monitor",
+      "perspective": "pro-Palestinian",
+      "paywalled": false,
+      "also_reported_by": []
+    },
+    {
+      "title": "Israel vows to maintain occupation of Gaza, Lebanon and Syria regardless of US-Iran deal",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-vows-keep-occupying-gaza-lebanon-and-syria-despite-possible-us",
+      "summary": "Israeli officials stated publicly that Israel will continue to hold territory it controls in Gaza, Lebanon and Syria even if a US-Iran peace deal is finalised. Israel now physically occupies more than 50 percent of the Gaza Strip, with 40 identified military outposts entrenched inside the enclave built since the October 2025 ceasefire. Eight of these bases were constructed entirely from scratch after the truce went into effect.",
+      "published": "Sun, 14 Jun 2026 09:30:00 GMT",
+      "source": "Middle East Eye",
+      "perspective": "independent",
+      "paywalled": false,
+      "also_reported_by": ["Al Jazeera"]
+    }
+  ]
+}

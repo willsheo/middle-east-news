@@ -1,0 +1,87 @@
+{
+  "generated": "2026-06-23T00:20:34+00:00",
+  "window_hours": 24,
+  "count": 8,
+  "articles": [
+    {
+      "title": "US-Iran talks in Switzerland yield 60-day roadmap; sides set up Strait of Hormuz 'de-confliction' line",
+      "link": "https://www.bbc.com/news/articles/cwy0q41v1lzo",
+      "summary": "The first round of high-level US-Iran negotiations at Lake Lucerne concluded early Monday with both sides agreeing on 'a road map' to reach a final deal within 60 days and a communication line to 'avoid incidents' in the Strait of Hormuz. After a marathon 18-hour session, a high-level committee was set up to oversee the mediation, with working groups on the nuclear file, sanctions and dispute resolution. Lower-level technical talks were due to continue through the week at the Burgenstock resort.",
+      "published": "2026-06-22T10:46:45+00:00",
+      "source": "BBC",
+      "perspective": "international",
+      "paywalled": false,
+      "also_reported_by": ["Al Jazeera", "Arab News", "Times of Israel", "CNN", "Fox News", "NPR", "CNBC"]
+    },
+    {
+      "title": "Vance says Iran agreed to readmit IAEA inspectors; Tehran denies making any nuclear commitment",
+      "link": "https://www.aljazeera.com/news/2026/6/22/what-are-the-key-outcomes-of-the-iran-us-talks-in-switzerland-what-next",
+      "summary": "VP JD Vance told reporters in Switzerland that one outcome of the talks was Iran's agreement to invite IAEA inspectors back into the country. Iran's foreign ministry and semi-official outlets (Fars, IRGC-linked media) rejected the claim as 'false', saying the nuclear issue was not negotiated and that cooperation with the UN watchdog would continue only 'under current procedures' per parliament and Supreme National Security Council decisions. The conflicting statements underscored how fragile the emerging framework remains.",
+      "published": "2026-06-22T16:00:00+00:00",
+      "source": "Al Jazeera",
+      "perspective": "Qatari",
+      "paywalled": false,
+      "also_reported_by": ["CNN", "France 24", "Anadolu Agency", "Iran International", "The New Republic"]
+    },
+    {
+      "title": "Rubio heads to UAE, Kuwait and Bahrain to present US-Iran deal to Gulf allies",
+      "link": "https://www.middleeastmonitor.com/20260622-rubio-to-visit-uae-kuwait-bahrain-to-discuss-iran-deal",
+      "summary": "Secretary of State Marco Rubio will travel to the United Arab Emirates, Kuwait and Bahrain from Tuesday through Thursday, the first cabinet official to visit the region since the US-Iran memorandum of understanding was signed. The trip is aimed at reassuring Gulf partners and discussing the Strait of Hormuz reopening and Iran MoU as Washington works to lock in the ceasefire.",
+      "published": "2026-06-22T13:30:00+00:00",
+      "source": "Middle East Monitor",
+      "perspective": "pro-Palestinian",
+      "paywalled": false,
+      "also_reported_by": ["Al Jazeera", "Times of Israel", "US State Department", "JNS", "The Daily Caller"]
+    },
+    {
+      "title": "Mediators announce new Lebanon 'de-confliction cell' to contain Israel-Hezbollah violence",
+      "link": "https://www.arabnews.com/node/2648091/middle-east",
+      "summary": "Qatar and Pakistan, mediating the US-Iran track, announced a new de-confliction mechanism emerging from the Switzerland talks to halt military operations in Lebanon. Lebanon welcomed the proposal but tied its support to an Israeli withdrawal from occupied territory. Israeli reporting said the proposed cell would include Iran, Qatar and Pakistan while excluding Israel and limiting Israeli responses to threats; PM Netanyahu countered that the IDF faces 'no restrictions'.",
+      "published": "2026-06-22T12:00:00+00:00",
+      "source": "Arab News",
+      "perspective": "Saudi",
+      "paywalled": false,
+      "also_reported_by": ["Times of Israel", "CNN", "Al Jazeera"]
+    },
+    {
+      "title": "Netanyahu under coalition fire over Iran deal as Ben-Gvir demands Hezbollah be dismantled",
+      "link": "https://www.timesofisrael.com/liveblog-june-22-2026/",
+      "summary": "Hawkish members of Netanyahu's coalition slammed the US-Iran agreement and pressed the PM to continue the Lebanon campaign even at the risk of upsetting Washington. National Security Minister Itamar Ben-Gvir said Israel 'must not compromise on anything less than the dismantling of Hezbollah'. With elections set for October and polls showing the coalition losing its majority, Netanyahu stressed that ties with the US remain 'vital' despite the rift.",
+      "published": "2026-06-22T18:00:00+00:00",
+      "source": "Times of Israel",
+      "perspective": "Israeli",
+      "paywalled": false,
+      "also_reported_by": ["Jerusalem Post", "PBS NewsHour", "Newsweek", "NBC News"]
+    },
+    {
+      "title": "Israeli soldiers shoot dead two Palestinian teenagers in the occupied West Bank",
+      "link": "https://www.arabnews.com/node/2648107/middle-east",
+      "summary": "Israeli forces shot and killed two Palestinians, aged 15 and 19, in the occupied West Bank on Monday, according to Palestinian officials. The deaths added to a steady toll of West Bank fatalities that has continued through the regional ceasefire diplomacy.",
+      "published": "2026-06-22T11:00:00+00:00",
+      "source": "Arab News",
+      "perspective": "Saudi",
+      "paywalled": false,
+      "also_reported_by": ["Middle East Eye", "Middle East Monitor", "Wafa"]
+    },
+    {
+      "title": "Israeli strikes shake Lebanon's coastal city of Tyre as war damage estimated at $1.38bn",
+      "link": "https://www.arabnews.com/node/2648098/middle-east",
+      "summary": "Fresh Israeli strikes rattled the ancient coastal city of Tyre as the fragile Israel-Hezbollah ceasefire continued to fray. A survey put direct building damage in south Lebanon from the latest war at around $1.38 billion, illustrating the scale of reconstruction needed even if the truce holds.",
+      "published": "2026-06-22T09:30:00+00:00",
+      "source": "Arab News",
+      "perspective": "Saudi",
+      "paywalled": false,
+      "also_reported_by": ["Al Jazeera", "Middle East Eye", "BBC"]
+    },
+    {
+      "title": "Syria arrests former general and three others in widening Assad-era abuses crackdown",
+      "link": "https://www.arabnews.com/node/2648067/middle-east",
+      "summary": "Syrian authorities arrested a former military officer and three other individuals accused of crimes committed during Bashar al-Assad's rule, part of an expanding campaign against remnants of the deposed regime. Separately, the UN said Damascus had made no progress on its plan to reintegrate the Druze-majority Sweida region.",
+      "published": "2026-06-22T08:00:00+00:00",
+      "source": "Arab News",
+      "perspective": "Saudi",
+      "paywalled": false,
+      "also_reported_by": ["Reuters", "Al Arabiya"]
+    }
+  ]
+}

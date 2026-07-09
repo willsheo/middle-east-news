@@ -1,0 +1,137 @@
+{
+  "generated": "2026-07-06T23:15:00+00:00",
+  "window_hours": 24,
+  "count": 13,
+  "articles": [
+    {
+      "title": "Huge crowds fill Tehran for main day of Khamenei's funeral as new supreme leader stays hidden",
+      "link": "https://www.aljazeera.com/news/2026/7/6/huge-crowd-joins-funeral-procession-for-irans-supreme-leader-khamenei",
+      "summary": "The main day of Ayatollah Ali Khamenei's state funeral drew the week's largest crowds as a truck bore the coffins of the slain supreme leader and four family members along a 10km route from Imam Hossein Square to Azadi Square in Tehran. Mourners in black waved red 'revenge' flags and chanted against the US and Israel, and an effigy of President Trump was hanged. New Supreme Leader Mojtaba Khamenei, Ali's son, again did not appear in public. The body is to pass through Qom, Najaf and Karbala before burial on July 9 at the Imam Reza shrine in Mashhad. Khamenei was killed on February 28 in a joint US-Israeli strike at the start of the 2026 war.",
+      "published": "2026-07-06T09:00:00+00:00",
+      "source": "Al Jazeera",
+      "perspective": "Qatari",
+      "paywalled": false,
+      "also_reported_by": ["CNN", "NPR", "NBC News", "PBS", "BBC", "The Jerusalem Post", "Arab News", "Middle East Eye"]
+    },
+    {
+      "title": "Hamas announces dissolution of its Gaza government in nod to Trump plan",
+      "link": "https://www.middleeasteye.net/news/hamas-decision-dissolve-gaza-government-a-nod-trump-expert-says",
+      "summary": "Hamas said it is dissolving the administrative body that has governed the Gaza Strip for nearly two decades, a step analysts described as a concession to President Trump's postwar plan and its demand that the group cede governance. Under the October 2025 ceasefire a Palestinian technocratic committee is meant to take over, though the handover and a proposed international stabilisation force have yet to materialise. Israel continues near-daily strikes and controls roughly 70 percent of the enclave, with the death toll since the truce above 1,000.",
+      "published": "2026-07-06T13:00:00+00:00",
+      "source": "Middle East Eye",
+      "perspective": "independent",
+      "paywalled": false,
+      "also_reported_by": ["Al Jazeera", "Middle East Monitor"]
+    },
+    {
+      "title": "Israeli strike on car in south Lebanon kills 4, including a school principal",
+      "link": "https://www.aljazeera.com/news/2026/7/6/israeli-attack-on-vehicle-in-lebanon-kills-at-least-four",
+      "summary": "An Israeli airstrike on a vehicle in southern Lebanon killed four people, Lebanon's health ministry said, in one of the deadliest attacks since the June ceasefire. The victims were named as school principal Esperanza Ghandour, her mother, a female domestic worker and a male foreign labourer; Ghandour had been checking repairs at her war-damaged home in Nabatieh. The IDF said the car was approaching a 'security zone' and posed a threat to its forces. The strike tested the July 1 trilateral framework between Israel, Lebanon and the US aimed at disarming Hezbollah.",
+      "published": "2026-07-06T10:00:00+00:00",
+      "source": "Al Jazeera",
+      "perspective": "Qatari",
+      "paywalled": false,
+      "also_reported_by": ["The Times of Israel", "CBC", "Asharq Al-Awsat", "BBC"]
+    },
+    {
+      "title": "Trump says Iran offered concessions in nuclear talks but they are 'not final'",
+      "link": "https://www.timesofisrael.com/liveblog-july-6-2026/",
+      "summary": "President Trump said Iran had offered concessions in nuclear talks but cautioned the proposals were not final, telling reporters in the Oval Office, 'We've gotten concessions, now they have to hold to those concessions.' The comments came during the pause in US-Iran negotiations for Khamenei's funeral week; indirect talks mediated by Qatar are expected to resume around July 11. Netanyahu has signalled he is ready to renew strikes on Iran if it moves toward a weapon.",
+      "published": "2026-07-06T18:00:00+00:00",
+      "source": "The Times of Israel",
+      "perspective": "Israeli",
+      "paywalled": false,
+      "also_reported_by": ["Al Arabiya", "Al Jazeera"]
+    },
+    {
+      "title": "US-Iran negotiations to resume July 11 after funeral; sanctions and frozen funds on agenda",
+      "link": "https://english.alarabiya.net/News/middle-east",
+      "summary": "US-Iran negotiations are set to resume on July 11 after the days-long funeral for Ali Khamenei, according to Al Arabiya, with the agenda expected to cover sanctions relief, Iran's frozen funds and the unresolved nuclear file. The talks follow the June 17 memorandum that extended the ceasefire by 60 days. Iran's chief negotiator Kazem Gharibabadi warned Britain and France against pledging to patrol the Strait of Hormuz, saying its security 'lies with the coastal states' and warning of consequences for 'adventurism.'",
+      "published": "2026-07-06T11:00:00+00:00",
+      "source": "Al Arabiya",
+      "perspective": "Saudi",
+      "paywalled": false,
+      "also_reported_by": ["The Times of Israel", "Al Jazeera"]
+    },
+    {
+      "title": "Israeli attacks kill at least 6 in Gaza as ceasefire violations continue",
+      "link": "https://www.aljazeera.com/news/2026/7/6/israeli-attacks-on-gaza-kill-at-least-6-as-ceasefire-violations-continue",
+      "summary": "Israeli air attacks across the Gaza Strip killed at least six Palestinians and wounded more than 20 despite the ceasefire, medical sources said. Two people died in a drone strike on a vehicle on al-Rashid Street in Khan Younis, two more in a strike on a tent sheltering displaced people in al-Mawasi, and a married couple in a strike on a Gaza City apartment. Gaza's health ministry says Israeli violations have killed more than 1,070 people and wounded some 3,460 since the truce took effect in October 2025.",
+      "published": "2026-07-06T14:00:00+00:00",
+      "source": "Al Jazeera",
+      "perspective": "Qatari",
+      "paywalled": false,
+      "also_reported_by": ["Middle East Monitor"]
+    },
+    {
+      "title": "Netanyahu says Gaza reconstruction depends on Hamas disarmament",
+      "link": "https://www.middleeastmonitor.com/20260706-netanyahu-says-gaza-reconstruction-depends-on-hamas-disarmament/",
+      "summary": "Prime Minister Netanyahu said reconstruction of the Gaza Strip will not begin unless Hamas is disarmed, reaffirming Israel's position that rebuilding must be tied to dismantling the group's military capabilities. The stance underscores the core impasse in the stalled second phase of the ceasefire plan, under which the decommissioning of Hamas weapons, deployment of an international force and a phased Israeli withdrawal have yet to advance.",
+      "published": "2026-07-06T08:30:00+00:00",
+      "source": "Middle East Monitor",
+      "perspective": "pro-Palestinian",
+      "paywalled": false,
+      "also_reported_by": ["Middle East Eye"]
+    },
+    {
+      "title": "US to press Israel to curb settler and army violence in West Bank, Israeli media report",
+      "link": "https://www.middleeastmonitor.com/20260706-us-to-urge-israel-to-curb-violence-against-palestinians-in-west-bank-israeli-media/",
+      "summary": "The US administration intends to present Israel with 'official demands' including a halt to settler attacks and to violence by Israeli soldiers against Palestinians in the occupied West Bank, according to Israeli media cited by Middle East Monitor. The requests are expected to be raised at a meeting between Trump and Netanyahu in Washington next week, amid a documented rise in settler assaults and army raids; separately, rights groups reported growing looting of Palestinian homes during military raids.",
+      "published": "2026-07-06T12:30:00+00:00",
+      "source": "Middle East Monitor",
+      "perspective": "pro-Palestinian",
+      "paywalled": false,
+      "also_reported_by": ["The Times of Israel"]
+    },
+    {
+      "title": "Macron arrives in Damascus, first Western head of state to visit Syria since Assad's fall",
+      "link": "https://www.thenationalnews.com/news/mena/2026/07/06/macron-arrives-in-damascus-on-historic-syria-trip/",
+      "summary": "Emmanuel Macron landed in Damascus, becoming the first Western head of state to visit Syria since the fall of Bashar al-Assad. He held talks with President Ahmed al-Sharaa and pledged France's support 'for a sovereign Syria, united in its diversity and at peace with its neighbours.' Al-Sharaa said the two countries would sign bilateral economic agreements, with reconstruction a central theme; Macron travelled with business leaders including the chief executives of TotalEnergies and shipping group CMA CGM.",
+      "published": "2026-07-06T11:30:00+00:00",
+      "source": "The National",
+      "perspective": "international",
+      "paywalled": false,
+      "also_reported_by": ["The Times of Israel", "Washington Post", "SANA", "Cyprus Mail"]
+    },
+    {
+      "title": "Knesset advances Oct 7 inquiry bill 59-0 as opposition boycotts vote",
+      "link": "https://www.timesofisrael.com/liveblog-july-6-2026/",
+      "summary": "Israel's Knesset advanced a bill on a commission of inquiry into the October 7, 2023 attack, passing it in a first reading 59-0 after opposition parties boycotted the vote in protest. Critics argue the proposed panel would let the governing coalition shape its composition and is designed to shield the government from an independent reckoning over the security and intelligence failures that preceded the attack.",
+      "published": "2026-07-06T16:00:00+00:00",
+      "source": "The Times of Israel",
+      "perspective": "Israeli",
+      "paywalled": false,
+      "also_reported_by": []
+    },
+    {
+      "title": "Ahmadinejad and Kataib Hezbollah figures attend Khamenei funeral as Iran vows revenge",
+      "link": "https://www.jpost.com/middle-east/iran-news/article-901537",
+      "summary": "Former Iranian president Mahmoud Ahmadinejad and figures from Iraq's Kataib Hezbollah were among those attending Khamenei's funeral, the Jerusalem Post reported, as Iranian officials renewed vows of revenge for his killing. Israeli officials highlighted the presence of delegations from designated militant groups, including Hezbollah and Hamas, as evidence that Tehran still leads the 'axis of resistance' after a war that reshaped its leadership.",
+      "published": "2026-07-06T07:30:00+00:00",
+      "source": "The Jerusalem Post",
+      "perspective": "Israeli",
+      "paywalled": false,
+      "also_reported_by": ["Al Jazeera"]
+    },
+    {
+      "title": "Iran's 'funeral diplomacy': Quran verses and seating sent a message to Saudi Arabia",
+      "link": "https://www.middleeasteye.net/news/irans-funeral-diplomacy-quran-verses-ranked-allies-rivals-and-message-saudi-arabia",
+      "summary": "Middle East Eye reported on Iran's 'funeral diplomacy,' noting how the Quranic verses recited and the seating choreography during Khamenei's ceremonies were used to rank allies and rivals and to send a pointed message to Saudi Arabia. The analysis framed the funeral as a stage for Tehran to project regional influence even after a war that killed thousands and left its new supreme leader out of public view.",
+      "published": "2026-07-06T15:00:00+00:00",
+      "source": "Middle East Eye",
+      "perspective": "independent",
+      "paywalled": false,
+      "also_reported_by": []
+    },
+    {
+      "title": "Cargo ship attacked off Yemen's Hodeidah as Houthis kill 16 government troops",
+      "link": "https://www.cbsnews.com/news/yemen-houthi-rebels-red-sea-attack-cargo-ship/",
+      "summary": "A cargo ship was attacked off Hodeidah in the Red Sea, the British military's UKMTO said, reporting that a skiff opened fire on the bulk carrier about 30 nautical miles southwest of the Houthi-held port before security guards returned fire. Separately, Houthi forces were reported to have killed 16 Yemeni government troops in ground fighting. The incidents renew concern over Red Sea shipping security amid Houthi threats to resume targeting vessels linked to Israel.",
+      "published": "2026-07-05T18:00:00+00:00",
+      "source": "CBS News",
+      "perspective": "international",
+      "paywalled": false,
+      "also_reported_by": []
+    }
+  ]
+}

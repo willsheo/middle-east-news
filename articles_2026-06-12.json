@@ -1,0 +1,127 @@
+{
+  "generated": "2026-06-12T19:56:35Z",
+  "window_hours": 24,
+  "count": 12,
+  "articles": [
+    {
+      "title": "Iran war day 105: Trump halts attacks after Kharg Island threat, claims Tehran deal 'approved'",
+      "link": "https://www.aljazeera.com/news/2026/6/12/iran-war-day-105-trump-halts-attacks-after-kharg-island-threat",
+      "summary": "Trump cancels planned strikes on Iran, saying talks are close to a result as Tehran reviews a proposed US deal. Trump says a 'great settlement' has been reached and a signing could take place as soon as this weekend, likely in Europe; Iran's foreign ministry says the deal is not finalized.",
+      "published": "2026-06-12T08:00:00Z",
+      "source": "Al Jazeera",
+      "perspective": "Qatari",
+      "paywalled": false,
+      "also_reported_by": ["NPR", "CBS News", "NBC News", "CNN"]
+    },
+    {
+      "title": "Pakistani mediator says final text of US-Iran MOU reached; Vance insists it's a good deal for US",
+      "link": "https://www.timesofisrael.com/liveblog-june-12-2026/",
+      "summary": "Key mediator Pakistan says a 'final, agreed upon text' of the peace deal has been reached, though neither Washington nor Tehran immediately confirmed. The interim memorandum would extend the ceasefire and pave the way for talks on Iran's nuclear program.",
+      "published": "2026-06-12T10:00:00Z",
+      "source": "Times of Israel",
+      "perspective": "Israeli",
+      "paywalled": false,
+      "also_reported_by": ["NBC News", "Al Jazeera"]
+    },
+    {
+      "title": "Proposed US-Iran memo would reopen Strait of Hormuz toll-free, with 60-day ceasefire on all fronts",
+      "link": "https://www.cnbc.com/2026/06/12/iran-us-peace-memo-strait-hormuz-oil-sanctions.html",
+      "summary": "The draft MOU reportedly calls for a 60-day cessation of hostilities including Lebanon, immediate toll-free reopening of the Strait of Hormuz, Iranian mine clearance, lifting of the US port blockade, sanctions waivers for Iranian oil exports, and an Iranian commitment to never pursue nuclear weapons.",
+      "published": "2026-06-12T12:00:00Z",
+      "source": "CNBC",
+      "perspective": "international",
+      "paywalled": false,
+      "also_reported_by": ["Axios", "Arab News", "Iran International"]
+    },
+    {
+      "title": "Trump accuses Iran of leaking false details of proposed deal, calls negotiators 'very dishonorable'",
+      "link": "https://www.rferl.org/a/iran-war-us-hormuz-oil-blockade-gulf-israel/33640284.html",
+      "summary": "Trump accused Iranian officials of negotiating in bad faith after Iranian media published purported elements of the draft agreement, including Tehran's insistence on retaining the right to enrich uranium and control over shipping through the Strait of Hormuz. IRNA said the draft includes 'no new commitments' on nuclear weapons.",
+      "published": "2026-06-12T09:00:00Z",
+      "source": "RFE/RL",
+      "perspective": "international",
+      "paywalled": false,
+      "also_reported_by": ["NBC News", "Arab News"]
+    },
+    {
+      "title": "US shoots down two Iranian drones near Strait of Hormuz; Iran reports blocking tanker after explosions near Bandar Abbas",
+      "link": "https://www.timesofisrael.com/liveblog_entry/iran-reports-blocking-tanker-from-entering-hormuz-after-explosions-heard-near-bandar-abbas/",
+      "summary": "The US military shot down two Iranian attack drones near the Strait of Hormuz early on June 12 after Tehran's forces reportedly fired on a transiting vessel; Iran reported blocking a tanker from entering Hormuz after explosions were heard near Bandar Abbas.",
+      "published": "2026-06-12T06:00:00Z",
+      "source": "Times of Israel",
+      "perspective": "Israeli",
+      "paywalled": false,
+      "also_reported_by": ["CNN", "NBC News"]
+    },
+    {
+      "title": "Netanyahu says Israel not party to emerging Iran deal announced by Trump; reportedly caught off guard",
+      "link": "https://www.timesofisrael.com/liveblog-june-11-2026/",
+      "summary": "Netanyahu said Israel is not a party to the emerging US-Iran deal announced by Trump and was reportedly not given a heads-up before the announcement.",
+      "published": "2026-06-11T20:00:00Z",
+      "source": "Times of Israel",
+      "perspective": "Israeli",
+      "paywalled": false,
+      "also_reported_by": ["Channel 12"]
+    },
+    {
+      "title": "Katz: Israel will not withdraw from security zones in Lebanon, Syria and Gaza",
+      "link": "https://www.cnn.com/2026/06/12/world/live-news/iran-war-trump-israel",
+      "summary": "Israeli Defense Minister Israel Katz said Friday that Israel will not withdraw from the security zones it occupies in Lebanon, Syria and Gaza, after Iranian media reported the US-Iran agreement under negotiation includes an end to the war on all fronts including Lebanon. A US administration statement made no mention of a Lebanon ceasefire.",
+      "published": "2026-06-12T14:00:00Z",
+      "source": "CNN",
+      "perspective": "international",
+      "paywalled": false,
+      "also_reported_by": ["Times of Israel"]
+    },
+    {
+      "title": "IRC warns people displaced by Israeli attacks in Lebanon are at 'breaking point'",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/6/12/iran-war-live-trump-claims-tehran-deal-approved-cancels-new-strikes",
+      "summary": "The International Rescue Committee warned that people displaced by Israeli attacks in Lebanon are at 'breaking point'. More than 1 million people — over 20% of Lebanon's population — have been displaced since the war with Hezbollah began in March.",
+      "published": "2026-06-12T07:00:00Z",
+      "source": "Al Jazeera",
+      "perspective": "Qatari",
+      "paywalled": false,
+      "also_reported_by": []
+    },
+    {
+      "title": "Overnight US strikes hit cities across Iran as Tehran targets US facilities in Kuwait, Bahrain and Jordan",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-558",
+      "summary": "The US and Iran exchanged strikes overnight into Thursday morning. Washington cited Tehran's 'unwarranted and continued aggression', with explosions reported near Tehran, Sirik, Karaj and Abyek; Iran launched assaults on US structures in Kuwait, Bahrain and Jordan, prompting shelter alerts for civilians.",
+      "published": "2026-06-11T08:00:00Z",
+      "source": "Middle East Eye",
+      "perspective": "independent",
+      "paywalled": false,
+      "also_reported_by": []
+    },
+    {
+      "title": "Knesset advances Basic Law bill equating Torah study with IDF service, despite coalition revolt",
+      "link": "https://www.timesofisrael.com/knesset-advances-basic-law-bill-enshrining-torah-study-despite-coalition-revolt/",
+      "summary": "The Knesset advanced a Basic Law bill that would enshrine Torah study as equivalent to IDF military service, despite a revolt within the governing coalition.",
+      "published": "2026-06-11T16:00:00Z",
+      "source": "Times of Israel",
+      "perspective": "Israeli",
+      "paywalled": false,
+      "also_reported_by": []
+    },
+    {
+      "title": "US and Iran close to signing peace deal: Axios",
+      "link": "https://www.arabnews.com/node/2646877/middle-east",
+      "summary": "The US and Iran are close to signing a memorandum of understanding calling for the immediate reopening of the Strait of Hormuz without tolls and a 60-day ceasefire extension including Lebanon, during which nuclear negotiations would be held, with sanctions relief for Iran based on compliance.",
+      "published": "2026-06-11T18:00:00Z",
+      "source": "Arab News",
+      "perspective": "Saudi",
+      "paywalled": false,
+      "also_reported_by": ["Axios"]
+    },
+    {
+      "title": "Iran media says draft US deal sees release of $24 billion in frozen assets",
+      "link": "https://www.arabnews.com/node/2646816/middle-east",
+      "summary": "Iranian media reported that the current draft of the memorandum of understanding with the US includes the release of $24 billion in frozen Iranian assets, with IRNA saying it includes 'no new commitments' on nuclear weapons pending further negotiations.",
+      "published": "2026-06-11T14:00:00Z",
+      "source": "Arab News",
+      "perspective": "Saudi",
+      "paywalled": false,
+      "also_reported_by": ["IRNA"]
+    }
+  ]
+}

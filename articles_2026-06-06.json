@@ -1,0 +1,97 @@
+{
+  "generated": "2026-06-06T16:15:00Z",
+  "window_hours": 24,
+  "count": 9,
+  "articles": [
+    {
+      "title": "US and Iran trade fresh strikes near Strait of Hormuz as Gulf sirens sound",
+      "link": "https://www.cnn.com/2026/06/05/world/live-news/iran-trump-lebanon-israel-war-news",
+      "summary": "The US and Iran exchanged strikes early Saturday. US forces intercepted a wave of Iranian missiles and drones launched toward the Strait of Hormuz and the wider Gulf, shot down four attack drones, and struck coastal surveillance radar sites inside Iran in what Washington called self-defence. Air-raid sirens were activated in Kuwait and Bahrain. The clashes further strained the fragile US-Iran ceasefire that has been in place since April even as negotiators kept channels open.",
+      "published": "Sat, 06 Jun 2026 06:30:00 GMT",
+      "source": "CNN",
+      "perspective": "international",
+      "paywalled": false,
+      "also_reported_by": ["Al Jazeera English", "Al Arabiya English", "Gulf News", "Arab News", "The Times of Israel"]
+    },
+    {
+      "title": "Lebanon ceasefire frays as Hezbollah rocket triggers first Israeli sirens in a day",
+      "link": "https://www.timesofisrael.com/liveblog-june-05-2026/",
+      "summary": "The US-facilitated Israel-Lebanon ceasefire continued to unravel. Sirens sounded in the Upper Galilee in an apparent Hezbollah rocket attack from Lebanon, the first time sirens had sounded in Israel in more than a day, the IDF said. Israeli strikes continued across southern Lebanon, including the Naqoura and Nabatieh districts, killing at least one person on Friday. Hezbollah leader Naim Qassem has rejected the truce, vowing to keep firing on northern Israel as long as Israeli strikes continue.",
+      "published": "Fri, 05 Jun 2026 19:00:00 GMT",
+      "source": "The Times of Israel",
+      "perspective": "Israeli",
+      "paywalled": false,
+      "also_reported_by": ["Al Jazeera English", "CNN", "BBC News", "The Jerusalem Post", "Arab News"]
+    },
+    {
+      "title": "Iran says no progress in US talks as Tehran ties any deal to halt in Lebanon",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/6/5/iran-war-live-hezbollah-rejects-truce-as-israel-continues-lebanon-strikes",
+      "summary": "Iranian Foreign Minister Abbas Araghchi said negotiations with the United States had made no progress, though communication channels remained open. Tehran has conditioned any agreement on an end to Israeli operations in Lebanon and Gaza, access to billions of dollars in frozen oil revenues, sanctions waivers on crude exports, and the lifting of a US blockade on its ports. Iranian state media said text exchanges through intermediaries had been suspended until conditions on Lebanon are met.",
+      "published": "Fri, 05 Jun 2026 17:30:00 GMT",
+      "source": "Al Jazeera English",
+      "perspective": "Qatari",
+      "paywalled": false,
+      "also_reported_by": ["Arab News", "NPR", "CNN", "The New York Times"]
+    },
+    {
+      "title": "Lebanese President Aoun rebukes Iran and Hezbollah: 'It's not your country, it's ours'",
+      "link": "https://www.arabnews.com/middleeast",
+      "summary": "Lebanese President Joseph Aoun sharpened his criticism of Tehran, Hezbollah and the IRGC, declaring 'It's not your country, it's ours,' as Beirut sought to distance the Lebanese state from Hezbollah's rejection of the US-brokered truce. His remarks came as Israeli strikes continued across the south and as Lebanon pressed for the ceasefire to take hold under exclusive control of the national army south of the Litani.",
+      "published": "Fri, 05 Jun 2026 14:00:00 GMT",
+      "source": "Arab News",
+      "perspective": "Saudi",
+      "paywalled": false,
+      "also_reported_by": ["The Times of Israel", "Al Jazeera English", "Al Arabiya English"]
+    },
+    {
+      "title": "Saudi Arabia condemns Iranian attacks on Bahrain and Kuwait",
+      "link": "https://english.alarabiya.net/News/gulf/",
+      "summary": "Saudi Arabia condemned the latest Iranian attacks on fellow Gulf states Bahrain and Kuwait after Iranian missiles and drones struck targets in the region, including damage to Kuwait's airport that injured dozens earlier in the week. Riyadh's statement underscored mounting alarm among Gulf governments that the US-Iran war is spilling directly onto their territory as diplomacy stalls.",
+      "published": "Fri, 05 Jun 2026 12:30:00 GMT",
+      "source": "Al Arabiya English",
+      "perspective": "Saudi",
+      "paywalled": false,
+      "also_reported_by": ["Arab News", "Gulf News", "Al Jazeera English"]
+    },
+    {
+      "title": "Israeli strike on Khan Younis tent camp kills teenager, wounds 16",
+      "link": "https://www.jpost.com/middle-east/iran-news/2026-06-04/live-updates-898327",
+      "summary": "An 18-year-old was killed and 16 other people were wounded in an Israeli strike on a tent sheltering displaced Palestinians in Khan Younis in southern Gaza, according to Hamas-affiliated media. Israel has continued near-daily strikes across the enclave despite the October 2025 ceasefire, saying it is targeting imminent threats, while Hamas refuses to disarm.",
+      "published": "Fri, 05 Jun 2026 13:15:00 GMT",
+      "source": "The Jerusalem Post",
+      "perspective": "Israeli",
+      "paywalled": false,
+      "also_reported_by": ["Al Jazeera English", "Middle East Eye", "The Times of Israel"]
+    },
+    {
+      "title": "US official defends Israel-Lebanon deal, accuses Iran of 'cynical strategy' to prolong war",
+      "link": "https://www.timesofisrael.com/liveblog-june-05-2026/",
+      "summary": "A senior US official publicly defended the Israel-Lebanon ceasefire framework brokered in Washington, arguing that Iran had sought to prolong the conflict as part of a 'cynical strategy' to retain leverage in its parallel nuclear and sanctions talks with the United States. The official said the deal requires an end to Hezbollah fire, withdrawal of Hezbollah operatives south of the Litani, and security zones under exclusive Lebanese army control.",
+      "published": "Fri, 05 Jun 2026 16:00:00 GMT",
+      "source": "The Times of Israel",
+      "perspective": "Israeli",
+      "paywalled": false,
+      "also_reported_by": ["Al Jazeera English", "Arab News"]
+    },
+    {
+      "title": "Amnesty demands release of Gaza hospital director moved to solitary confinement",
+      "link": "https://www.middleeasteye.net/",
+      "summary": "Amnesty International called for the immediate release of Dr Hussam Abu Safia, director of Gaza's Kamal Adwan Hospital, after reports he had been transferred to solitary confinement in Israel's Nafha Prison. Middle East Eye also reported Israeli forces and settlers carried out multiple raids across the occupied West Bank, part of a sustained rise in operations during the regional war.",
+      "published": "Fri, 05 Jun 2026 15:00:00 GMT",
+      "source": "Middle East Eye",
+      "perspective": "independent",
+      "paywalled": false,
+      "also_reported_by": ["Middle East Monitor"]
+    },
+    {
+      "title": "Slovenia to raise Palestinian flag at presidential palace, citing Gaza 'genocide'",
+      "link": "https://www.middleeastmonitor.com/category/region/middle-east/palestine/",
+      "summary": "Slovenian President Natasa Pirc Musar announced that the Palestinian flag would be raised outside the presidential palace, saying 'the genocide against Palestinians has not been halted, and people in Gaza and the West Bank do not live in peace and dignity.' The symbolic move adds to European pressure over the conduct of the war and the humanitarian situation in the Palestinian territories.",
+      "published": "Fri, 05 Jun 2026 11:00:00 GMT",
+      "source": "Middle East Monitor",
+      "perspective": "pro-Palestinian",
+      "paywalled": false,
+      "also_reported_by": ["Middle East Eye"]
+    }
+  ]
+}

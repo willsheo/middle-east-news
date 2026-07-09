@@ -1,0 +1,77 @@
+{
+  "generated": "2026-06-04T16:10:05Z",
+  "window_hours": 24,
+  "count": 7,
+  "articles": [
+    {
+      "title": "House passes war powers resolution to rein in Trump on Iran in 215-208 vote",
+      "link": "https://www.washingtonpost.com/politics/2026/06/03/house-passes-war-powers-resolution-push-trump-end-iran-war/",
+      "summary": "The US House passed a war powers resolution 215-208 directing the president to end hostilities with Iran, the first such measure to clear a chamber since the three-month war began. Four Republicans (Massie, Fitzpatrick, Barrett, Davidson) joined Democrats. The vote is largely symbolic and faces a likely Senate block and presidential veto; Trump dismissed it as a 'meaningless vote' on Thursday.",
+      "published": "Wed, 03 Jun 2026 22:30:00 GMT",
+      "source": "The New York Times",
+      "perspective": "international",
+      "paywalled": true,
+      "also_reported_by": ["The Washington Post", "NBC News", "NPR", "CNN", "Al Jazeera English", "TIME", "CBS News"]
+    },
+    {
+      "title": "Israel and Lebanon agree to conditional ceasefire, but Hezbollah rejects it",
+      "link": "https://www.aljazeera.com/news/2026/6/4/israel-and-lebanon-agree-to-conditional-ceasefire",
+      "summary": "Israel and Lebanon agreed, under US guidance, to implement a ceasefire and establish 'pilot' security zones south of the Litani River from which Hezbollah would be banned, contingent on a complete cessation of Hezbollah fire. Hezbollah leader Naim Kassem rejected the pact, calling the demand that fighters withdraw under fire tantamount to 'surrender, defeat and achieving the enemy's goals,' and demanded a full Israeli withdrawal.",
+      "published": "Wed, 03 Jun 2026 19:00:00 GMT",
+      "source": "Al Jazeera English",
+      "perspective": "Qatari",
+      "paywalled": false,
+      "also_reported_by": ["Bloomberg", "Axios", "NBC News", "PBS News", "Arab News", "The Times of Israel"]
+    },
+    {
+      "title": "US and Iran trade contradictory messages on ceasefire talks as Trump touts a weekend deal",
+      "link": "https://www.arabnews.com/middleeast",
+      "summary": "Washington and Tehran issued mixed signals over their ceasefire negotiations. Trump insisted a deal could be reached 'this weekend' and Secretary of State Marco Rubio said the 'war with Iran is over,' while Iran's foreign minister reported no 'significant progress.' Trump is pressing Tehran to put specific nuclear concessions in writing in a 60-day memorandum. Both sides are set to reconvene on June 22.",
+      "published": "Thu, 04 Jun 2026 09:00:00 GMT",
+      "source": "Arab News",
+      "perspective": "Saudi",
+      "paywalled": false,
+      "also_reported_by": ["CNN", "Axios", "The Times of Israel", "Al Jazeera English"]
+    },
+    {
+      "title": "Strikes continue hours after ceasefire deal; rockets and drones trigger warnings in northern Israel",
+      "link": "https://www.timesofisrael.com/liveblog-june-4-2026/",
+      "summary": "Israeli forces and Hezbollah exchanged fire shortly after the ceasefire was announced. Israeli strikes killed at least 10 people in southern Lebanon and a UN peacekeeper was killed in the crossfire, according to local authorities. Israeli troops killed a Hezbollah operative north of the Litani, and rocket and drone alerts sounded across northern Israel after Hezbollah rejected the deal.",
+      "published": "Thu, 04 Jun 2026 07:30:00 GMT",
+      "source": "The Times of Israel",
+      "perspective": "Israeli",
+      "paywalled": false,
+      "also_reported_by": ["Al Jazeera English", "NBC News"]
+    },
+    {
+      "title": "Gulf states condemn renewed Iranian attacks on Kuwait and Bahrain",
+      "link": "https://english.alarabiya.net/News/gulf/",
+      "summary": "Gulf and Arab governments condemned renewed Iranian missile and drone attacks targeting Kuwait and Bahrain, with Kuwait reporting one person killed. The strikes underscore the fragility of the US-Iran ceasefire as negotiations continue.",
+      "published": "Wed, 03 Jun 2026 21:00:00 GMT",
+      "source": "Al Arabiya English",
+      "perspective": "Saudi",
+      "paywalled": false,
+      "also_reported_by": ["Arab News"]
+    },
+    {
+      "title": "Israel kills nine Palestinians in overnight Gaza bombardment as ceasefire frays",
+      "link": "https://www.middleeasteye.net/",
+      "summary": "Middle East Eye reported Israeli strikes killed nine Palestinians in overnight bombardment of Gaza, amid a ceasefire that, six months on, has brought no durable calm. The truce remains deadlocked over sequencing: Israel ties its withdrawal to Hamas disarmament, while Hamas insists weapons talks follow a full withdrawal, reopening of crossings and reconstruction.",
+      "published": "Wed, 03 Jun 2026 23:15:00 GMT",
+      "source": "Middle East Eye",
+      "perspective": "pro-Palestinian",
+      "paywalled": false,
+      "also_reported_by": ["Middle East Monitor"]
+    },
+    {
+      "title": "Jerusalem holds annual Pride March under heavy security",
+      "link": "https://www.timesofisrael.com/liveblog-june-4-2026/",
+      "summary": "Thousands gathered at Sacher Park for Jerusalem's annual Pride March, which proceeded toward the Knesset along a route altered from previous years amid a heavy police deployment.",
+      "published": "Thu, 04 Jun 2026 11:00:00 GMT",
+      "source": "The Jerusalem Post",
+      "perspective": "Israeli",
+      "paywalled": false,
+      "also_reported_by": ["The Times of Israel"]
+    }
+  ]
+}
