@@ -1,6 +1,8 @@
 # Briefing Conventions
 
-Formatting rules for daily briefs (`brief_YYYY-MM-DD.md`), per user preference (2026-07-14):
+Formatting rules for daily briefs, per user preference (2026-07-14):
+
+0. **Output path: the `deliverables/` folder.** Write both files there: `deliverables/brief_YYYY-MM-DD.md` and `deliverables/brief_YYYY-MM-DD.pdf`.
 
 1. **Publish a PDF alongside the markdown** (`brief_YYYY-MM-DD.pdf`). Generate via markdown → styled HTML → headless Chromium `--print-to-pdf` (A4, no header/footer).
 2. **No hyphens or dashes in headers or titles.** Reword to avoid them (colons, commas, and prepositions are fine). Body text is unaffected.
