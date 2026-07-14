@@ -9,7 +9,8 @@ Formatting rules for daily briefs, per user preference (2026-07-14):
 3. **Number sections directly, without the word "Part."** Use `## 1. What Happened`, `## 2. Deep Dive: Incentives and Motives`, etc., with numbered subsections (`### 1.1`, `### 2.1`, ...).
 4. **Section 2 subsections must be phrased as questions.** Each subsection header states the question the following paragraphs answer (e.g., "Why is Washington escalating strikes now?").
 
-5. **Summary block is two bullet points, no "Prepared for" line.** Directly under the date: a `Reporting window` bullet (give the window in UTC and Korea time, KST = UTC+9) and an `Overall assessment` bullet.
+5. **Source registry:** `instructions/sources.md` and `instructions/sources.pdf` list every source the briefings draw on, with perspective groupings and reliability tiers. Do not update daily; update (and regenerate the PDF) only when a new source enters the rotation.
+6. **Summary block is two bullet points, no "Prepared for" line.** Directly under the date: a `Reporting window` bullet (give the window in UTC and Korea time, KST = UTC+9) and an `Overall assessment` bullet.
 
 Standing structure:
 
