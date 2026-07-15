@@ -6,7 +6,7 @@ Pinned Korean renderings for recurring terms, so the Korean edition uses identic
 
 Register: analytical written style, 한다체 (plain reportive). Numbers in Arabic numerals with Korean units where natural (약 8,470만 배럴, 10억 달러). Outlet names stay in their original form ([Al Jazeera](...), [Bloomberg](...)); links unchanged. Confidence ratings: **신뢰도: 높음 / 중간 / 낮음**.
 
-_Last updated: 2026-07-15_
+_Last updated: 2026-07-16_
 
 ---
 
@@ -56,6 +56,11 @@ _Last updated: 2026-07-15_
 | succession | 후계 구도 |
 | host state (of US forces) | 미군 주둔국 |
 | collective defense | 집단 방위 |
+| interdiction (of a vessel) | (선박) 차단 |
+| ultimatum | 최후통첩 |
+| civilian infrastructure | 민간 기반시설 |
+| pilot zones (Lebanon) | 시범 구역 |
+| influence campaign | 영향력 공작 |
 | disarmament | 무장해제 |
 | withdrawal (military) | 철군 |
 | Board of Peace | 평화이사회(Board of Peace) |
@@ -129,3 +134,11 @@ _Last updated: 2026-07-15_
 | Prince Hassan Air Base (Jordan) | 프린스 하산 공군기지 |
 | Kafr Rumman (Lebanon) | 카프르 룸만 |
 | Hodeidah (Yemen) | 호데이다 |
+| Bab el-Mandeb | 바브엘만데브 해협 |
+| Kharg Island | 하르그섬 |
+| Belma (tanker) | 벨마호 |
+| Deir al-Balah | 데이르알발라 |
+| Sheikh Isa Air Base (Bahrain) | 셰이크 이사 공군기지 |
+| Mina Abdullah (Kuwait) | 미나 압둘라 |
+| al-Azraq base (Jordan) | 알아즈라크 기지 |
+| Froun / Ghandouriyeh / Zawtar (Lebanon) | 프룬 / 간두리예 / 자우타르 |
