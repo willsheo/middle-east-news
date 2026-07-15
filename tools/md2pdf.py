@@ -26,7 +26,7 @@ except ImportError:
 
 CSS = """
   @page { size: A4; margin: 18mm 16mm; }
-  body { font-family: Georgia, 'Times New Roman', serif; font-size: 10.5pt; line-height: 1.55; color: #1a1a1a; }
+  body { font-family: Georgia, 'Times New Roman', 'Noto Serif CJK KR', 'Noto Sans CJK KR', serif; font-size: 10.5pt; line-height: 1.55; color: #1a1a1a; word-break: keep-all; }
   h1 { font-size: 19pt; margin: 0 0 4pt; border-bottom: 2.5pt solid #1a1a1a; padding-bottom: 6pt; }
   h2 { font-size: 13.5pt; margin: 18pt 0 6pt; border-bottom: 1pt solid #999; padding-bottom: 3pt; }
   h3 { font-size: 11pt; margin: 12pt 0 4pt; }
@@ -41,6 +41,21 @@ CSS = """
   h2, h3 { page-break-after: avoid; }
   table, blockquote, img { page-break-inside: avoid; }
 """
+
+
+def ensure_korean_font(text: str) -> None:
+    """Install Noto CJK fonts when the document contains Hangul and none are present."""
+    if not re.search(r"[가-힯]", text):
+        return
+    have = subprocess.run(["fc-list", ":lang=ko"], capture_output=True, text=True)
+    if have.returncode == 0 and have.stdout.strip():
+        return
+    print("installing fonts-noto-cjk for Korean text...", file=sys.stderr)
+    subprocess.run(
+        ["apt-get", "install", "-y", "-q", "fonts-noto-cjk"],
+        check=True,
+        capture_output=True,
+    )
 
 
 def strip_front_matter(text: str) -> str:
@@ -82,9 +97,9 @@ def main() -> None:
     src = pathlib.Path(sys.argv[1]).resolve()
     out_pdf = pathlib.Path(sys.argv[2]).resolve()
 
-    body = markdown.markdown(
-        strip_front_matter(src.read_text()), extensions=["tables", "smarty"]
-    )
+    text = strip_front_matter(src.read_text())
+    ensure_korean_font(text)
+    body = markdown.markdown(text, extensions=["tables", "smarty"])
     body = inline_images(body, src.parent)
     html = (
         "<!doctype html><html><head><meta charset=\"utf-8\">"

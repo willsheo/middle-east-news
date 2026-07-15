@@ -41,6 +41,18 @@ Formatting rules for daily briefs, per user preference (2026-07-14; extended 202
 
 11. **Korea exposure constants.** `instructions/korea-exposure.md` (and PDF) is the standing reference for Korea's structural exposure numbers (import shares, mitigation measures, corporate exposure, financial reference points). Cite it instead of re-deriving baselines; update it (and regenerate the PDF) when a Tier 1/2 source materially revises a figure, and review it monthly.
 
+## Korean edition
+
+13. **Every deliverable is also published in Korean** (user preference, 2026-07-15): `brief_YYYY-MM-DD.ko.md` + `.ko.pdf` alongside the English pair (weekly: `weekly_YYYY-MM-DD.ko.md` + `.ko.pdf`). Rules:
+
+    - **English is canonical.** Write the Korean edition from the finished English brief in the same run — a faithful, natively written rendering (not a summary, not mechanical translation). Discrepancies resolve toward the English version.
+    - **Register: 한다체** (plain reportive analytical style). Numbers in Arabic numerals with Korean units where natural (약 1,200만 배럴, 10억 달러); dates Korean style (2026년 7월 15일).
+    - **Terminology comes from `instructions/glossary-ko.md`.** Never improvise a different rendering for a pinned term; add new recurring terms to the glossary the same day (and regenerate its PDF).
+    - Section headers, confidence labels (신뢰도: 높음/중간/낮음), and standing phrases use the glossary's fixed renderings. Outlet names and links stay in their original form.
+    - **Korean chart:** run `python3 tools/make_charts.py --lang ko` and embed `charts/series_overview_ko.png` in Section 3.
+    - **Front matter:** same fields as the English brief plus `language: ko` and `source: <english filename>`.
+    - The PDF pipeline handles Korean automatically (`tools/md2pdf.py` installs Noto CJK fonts when it detects Hangul and applies `word-break: keep-all`).
+
 ## Weekly edition
 
 12. **On Sundays (KST date), also publish** `deliverables/weekly_YYYY-MM-DD.md` + `.pdf`, covering Monday 00:00 KST through Sunday morning. It complements, not replaces, that day's daily brief. Structure:

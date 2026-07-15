@@ -1,7 +1,8 @@
 """Render the briefing time series (data/series.csv) as a chart image.
 
-Usage: python3 tools/make_charts.py [output.png]
+Usage: python3 tools/make_charts.py [output.png] [--lang ko]
 Default output: deliverables/charts/series_overview.png
+With --lang ko: Korean panel titles, default output series_overview_ko.png
 
 Produces a 2x2 small-multiples panel: Brent & WTI, Hormuz transits,
 KOSPI close, USD/KRW. All four panels share the same x-axis range so
@@ -43,6 +44,41 @@ GRID = "#d9d8d4"
 EVENT = "#9c9a94"
 SURFACE = "#fcfcfb"
 
+TITLES = {
+    "en": {
+        "oil": "Crude oil, USD per barrel",
+        "transits": "Hormuz transits per day",
+        "kospi": "KOSPI close",
+        "usdkrw": "Won per US dollar, higher = weaker won",
+    },
+    "ko": {
+        "oil": "국제유가, 배럴당 달러",
+        "transits": "호르무즈 해협 일일 통항 척수",
+        "kospi": "코스피 종가",
+        "usdkrw": "원/달러 환율, 상승 = 원화 약세",
+    },
+}
+
+EVENT_LABELS_KO = {
+    "US Iran MOU": "미·이란 양해각서",
+    "Ceasefire collapses": "휴전 붕괴",
+    "Blockade and toll": "봉쇄·통행료 발표",
+    "Toll withdrawn": "통행료 철회",
+}
+
+
+def setup_korean_font():
+    import matplotlib.font_manager as fm
+
+    for path in (
+        "/usr/share/fonts/opentype/noto/NotoSansCJK-Regular.ttc",
+        "/usr/share/fonts/opentype/noto/NotoSansCJK-Bold.ttc",
+    ):
+        if pathlib.Path(path).is_file():
+            fm.fontManager.addfont(path)
+    matplotlib.rcParams["font.family"] = ["DejaVu Sans", "Noto Sans CJK KR"]
+    matplotlib.rcParams["axes.unicode_minus"] = False
+
 
 def load():
     rows = []
@@ -81,7 +117,7 @@ def series(rows, key):
     return [p[0] for p in pts], [p[1] for p in pts]
 
 
-def style_axis(ax, title):
+def style_axis(ax, title, date_fmt="%b %d"):
     ax.set_facecolor(SURFACE)
     ax.set_title(title, fontsize=9, color=INK, loc="left", fontweight="bold")
     ax.grid(True, color=GRID, linewidth=0.6)
@@ -91,7 +127,7 @@ def style_axis(ax, title):
     for spine in ("left", "bottom"):
         ax.spines[spine].set_color(GRID)
     ax.xaxis.set_major_locator(mdates.WeekdayLocator(byweekday=mdates.MO))
-    ax.xaxis.set_major_formatter(mdates.DateFormatter("%b %d"))
+    ax.xaxis.set_major_formatter(mdates.DateFormatter(date_fmt))
 
 
 def draw_events(ax, events, labeled):
@@ -124,11 +160,22 @@ def label_last(ax, xs, ys, color, fmt="{:,.0f}"):
 
 
 def main():
-    out = pathlib.Path(sys.argv[1]) if len(sys.argv) > 1 else REPO / "deliverables" / "charts" / "series_overview.png"
+    args = sys.argv[1:]
+    lang = "ko" if "--lang" in args and "ko" in args else "en"
+    paths = [a for a in args if not a.startswith("--") and a != "ko"]
+    default_name = "series_overview_ko.png" if lang == "ko" else "series_overview.png"
+    out = pathlib.Path(paths[0]) if paths else REPO / "deliverables" / "charts" / default_name
     out.parent.mkdir(parents=True, exist_ok=True)
+
+    if lang == "ko":
+        setup_korean_font()
+    titles = TITLES[lang]
+    date_fmt = "%-m.%-d." if lang == "ko" else "%b %d"
 
     rows = load()
     events = load_events()
+    if lang == "ko":
+        events = [(d, EVENT_LABELS_KO.get(label, label)) for d, label in events]
 
     all_dates = [r["date"] for r in rows] + [e[0] for e in events]
     xlim = (min(all_dates) - timedelta(days=1), max(all_dates) + timedelta(days=2))
@@ -137,7 +184,7 @@ def main():
     fig.patch.set_facecolor(SURFACE)
 
     ax = axes[0][0]
-    style_axis(ax, "Crude oil, USD per barrel")
+    style_axis(ax, titles["oil"], date_fmt)
     for key, color, name in (("brent", SERIES_1, "Brent"), ("wti", SERIES_2, "WTI")):
         xs, ys = series(rows, key)
         ax.plot(xs, ys, color=color, linewidth=1.6, marker="o", markersize=2.6)
@@ -156,19 +203,19 @@ def main():
     )
 
     ax = axes[0][1]
-    style_axis(ax, "Hormuz transits per day")
+    style_axis(ax, titles["transits"], date_fmt)
     xs, ys = series(rows, "transits")
     ax.plot(xs, ys, color=SERIES_1, linewidth=1.6, marker="o", markersize=2.6)
     label_last(ax, xs, ys, SERIES_1)
 
     ax = axes[1][0]
-    style_axis(ax, "KOSPI close")
+    style_axis(ax, titles["kospi"], date_fmt)
     xs, ys = series(rows, "kospi")
     ax.plot(xs, ys, color=SERIES_1, linewidth=1.6, marker="o", markersize=2.6)
     label_last(ax, xs, ys, SERIES_1)
 
     ax = axes[1][1]
-    style_axis(ax, "Won per US dollar, higher = weaker won")
+    style_axis(ax, titles["usdkrw"], date_fmt)
     xs, ys = series(rows, "usdkrw")
     ax.plot(xs, ys, color=SERIES_1, linewidth=1.6, marker="o", markersize=2.6)
     label_last(ax, xs, ys, SERIES_1)
