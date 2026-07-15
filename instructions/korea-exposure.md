@@ -1,0 +1,54 @@
+# Korea Exposure Constants
+
+**Middle East Daily Briefing**
+
+Standing reference for South Korea's structural exposure to the Middle East, so daily briefs cite consistent baseline numbers instead of re-deriving them. Cite this file's values with their as-of dates; when a brief finds a materially updated figure from a reliable source, update this table (and the PDF) and note the change in that day's brief.
+
+_Last updated: July 15, 2026_
+
+---
+
+## Energy Import Dependence
+
+| Constant | Value | As of | Source / basis |
+|---|---|---|---|
+| Crude oil imports transiting Hormuz | ~70% of total crude imports | Jul 2026 | CSIS, Seoul Economic Daily |
+| LNG imports from the Middle East | ~36% (roughly one third) | Jul 2026 | Seoul Economic Daily |
+| Largest LNG supplier exposure | Qatar (Ras Laffan loadings) | Jul 2026 | Brief 2026-07-14; Kpler via press |
+| Helium from Qatar (semiconductor input) | ~65% of Korean imports | Jul 2026 | Brief 2026-07-14; compounded by China export halt |
+
+## Crisis Mitigation Measures in Effect
+
+| Measure | Value | As of | Source / basis |
+|---|---|---|---|
+| Non-Hormuz crude secured (Kazakhstan, Oman, Saudi routes) | ~273 million barrels, delivery through end 2026 (~3 months of consumption) | Jul 2026 | Presidential chief of staff via Asharq Al-Awsat, OilPrice |
+| Non-Hormuz naphtha secured | Up to 2.1 million tons | Apr 2026 | Bloomberg |
+| Naphtha export ban | In effect; naphtha designated an economic security item | Mar–Jul 2026 | UPI, CSIS |
+| Strategic reserve release | 22.5 million barrels via IEA coordination | Jun–Jul 2026 | CSIS |
+| Strategic reserve coverage remaining | ~26 days of actual consumption (estimate) | Jul 2026 | CSIS; treat as estimate, Medium confidence |
+| Supplementary budget | ~$17 billion passed | Jul 2026 | CSIS |
+| Refiners' joint task force | Four major refiners coordinating supply | Mar 2026 | UPI |
+| Nuclear restarts | Accelerated approvals | Jun 2026 | CSIS |
+
+## Corporate and Physical Exposure
+
+| Constant | Value | As of | Source / basis |
+|---|---|---|---|
+| Refiner ownership structure | SK Energy (domestic); S-Oil (Saudi Aramco majority ~63%); GS Caltex (Chevron 50% JV); HD Hyundai Oilbank (Aramco ~17% stake) | 2026 | Public filings; BISI. Three of four have US or Saudi ownership stakes, which constrains independent dealing with Iran |
+| Barakah nuclear plant (UAE) | KEPCO-led consortium; 4 APR-1400 reactors (~5.6 GW); Korean staff on site; Korea's largest single overseas energy asset | 2026 | Public record |
+| Korean nationals in the UAE | ~10,000+ (estimate) | Jul 2026 | Brief 2026-07-15; Low confidence, verify with MOFA figures |
+| Korean nationals in other Gulf states | ~1,000+ (estimate) | Jul 2026 | Brief 2026-07-14; Low confidence, verify with MOFA figures |
+| Construction/energy services backlog | Significant contracts in Kuwait, Bahrain, UAE, Saudi Arabia | Jul 2026 | Briefs 2026-07-14/15; quantify when a reliable backlog figure appears |
+
+## Financial Reference Points
+
+| Reference | Value | As of | Source / basis |
+|---|---|---|---|
+| Won first broke ₩1,500/USD | March 2026 (first time since 2009 crisis) | Mar 2026 | Korea Times |
+| Won crisis range since March | ~₩1,490–1,530/USD | Mar–Jul 2026 | KED Global, Businesskorea |
+| KOSPI circuit breakers | 7 triggered in 2026 through Jul 13 (Jul 13: −9.95% to 6,806.93) | Jul 2026 | BigGo Finance, Korea Times |
+| Monitoring thresholds in use | Won ₩1,500 line; Hormuz transits 20/day (binding) vs 30/day (recovery); Qatari LNG loadings −15% w/w | Jul 2026 | Brief indicator series |
+
+---
+
+**Maintenance rule:** review this file monthly (or when a figure is contradicted by a Tier 1/2 source), update values and as-of dates, regenerate `korea-exposure.pdf`, and note the revision in that day's brief. Values marked "estimate" should be upgraded to official figures (MOFA, MOTIE, BOK, KNOC) when the network policy allows fetching them directly.
