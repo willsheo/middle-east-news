@@ -4,19 +4,22 @@ Usage: python3 tools/make_charts.py [output.png]
 Default output: deliverables/charts/series_overview.png
 
 Produces a 2x2 small-multiples panel: Brent & WTI, Hormuz transits,
-KOSPI close, USD/KRW. Each panel has its own single axis (no dual-axis
-charts). Colors are validated categorical slots from the briefing's
-chart palette: blue #2a78d6 (slot 1) and green #008300 (slot 2) on a
-near-white print surface, with text in near-black/gray ink. Missing
-days simply leave gaps in the marker series; lines connect available
-observations.
+KOSPI close, USD/KRW. All four panels share the same x-axis range so
+vertical comparisons across panels line up. Reference events from
+data/events.csv are drawn as dashed vertical lines on every panel,
+labeled on the top row. Each panel has its own single axis (no
+dual-axis charts). Colors are validated categorical slots from the
+briefing's chart palette: blue #2a78d6 (slot 1) and green #008300
+(slot 2) on a near-white print surface, with text in near-black/gray
+ink. Missing days leave gaps in the marker series; lines connect
+available observations.
 """
 
 import csv
 import pathlib
 import subprocess
 import sys
-from datetime import date
+from datetime import date, timedelta
 
 try:
     import matplotlib
@@ -30,12 +33,14 @@ import matplotlib.pyplot as plt
 
 REPO = pathlib.Path(__file__).resolve().parent.parent
 CSV = REPO / "data" / "series.csv"
+EVENTS = REPO / "data" / "events.csv"
 
 SERIES_1 = "#2a78d6"  # categorical slot 1, blue
 SERIES_2 = "#008300"  # categorical slot 2, green
 INK = "#0b0b0b"
 INK_2 = "#52514e"
 GRID = "#d9d8d4"
+EVENT = "#9c9a94"
 SURFACE = "#fcfcfb"
 
 
@@ -60,6 +65,17 @@ def load():
     return sorted(rows, key=lambda r: r["date"])
 
 
+def load_events():
+    if not EVENTS.is_file():
+        return []
+    with open(EVENTS) as f:
+        return [
+            (date.fromisoformat(r["date"]), r["label"].strip())
+            for r in csv.DictReader(f)
+            if (r.get("label") or "").strip()
+        ]
+
+
 def series(rows, key):
     pts = [(r["date"], r[key]) for r in rows if r[key] is not None]
     return [p[0] for p in pts], [p[1] for p in pts]
@@ -76,6 +92,22 @@ def style_axis(ax, title):
         ax.spines[spine].set_color(GRID)
     ax.xaxis.set_major_locator(mdates.WeekdayLocator(byweekday=mdates.MO))
     ax.xaxis.set_major_formatter(mdates.DateFormatter("%b %d"))
+
+
+def draw_events(ax, events, labeled):
+    for i, (d, label) in enumerate(events):
+        ax.axvline(d, color=EVENT, linewidth=0.9, linestyle=(0, (4, 3)), zorder=1)
+        if labeled:
+            ax.annotate(
+                label,
+                (mdates.date2num(d), 0.99),
+                xycoords=("data", "axes fraction"),
+                rotation=90,
+                va="top",
+                ha="right" if i % 2 == 0 else "left",
+                fontsize=6,
+                color=INK_2,
+            )
 
 
 def label_last(ax, xs, ys, color, fmt="{:,.0f}"):
@@ -96,6 +128,11 @@ def main():
     out.parent.mkdir(parents=True, exist_ok=True)
 
     rows = load()
+    events = load_events()
+
+    all_dates = [r["date"] for r in rows] + [e[0] for e in events]
+    xlim = (min(all_dates) - timedelta(days=1), max(all_dates) + timedelta(days=2))
+
     fig, axes = plt.subplots(2, 2, figsize=(6.9, 4.6), dpi=200)
     fig.patch.set_facecolor(SURFACE)
 
@@ -115,7 +152,7 @@ def main():
                 fontweight="bold",
             )
     ax.legend(
-        ["Brent", "WTI"], fontsize=7, frameon=False, labelcolor=INK_2, loc="upper left"
+        ["Brent", "WTI"], fontsize=7, frameon=False, labelcolor=INK_2, loc="lower left"
     )
 
     ax = axes[0][1]
@@ -135,6 +172,12 @@ def main():
     xs, ys = series(rows, "usdkrw")
     ax.plot(xs, ys, color=SERIES_1, linewidth=1.6, marker="o", markersize=2.6)
     label_last(ax, xs, ys, SERIES_1)
+
+    for row_i in (0, 1):
+        for col_i in (0, 1):
+            ax = axes[row_i][col_i]
+            ax.set_xlim(xlim)
+            draw_events(ax, events, labeled=(row_i == 0))
 
     fig.tight_layout(pad=1.2)
     fig.savefig(out, facecolor=SURFACE)
