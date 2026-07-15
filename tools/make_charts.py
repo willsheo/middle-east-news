@@ -1,0 +1,145 @@
+"""Render the briefing time series (data/series.csv) as a chart image.
+
+Usage: python3 tools/make_charts.py [output.png]
+Default output: deliverables/charts/series_overview.png
+
+Produces a 2x2 small-multiples panel: Brent & WTI, Hormuz transits,
+KOSPI close, USD/KRW. Each panel has its own single axis (no dual-axis
+charts). Colors are validated categorical slots from the briefing's
+chart palette: blue #2a78d6 (slot 1) and green #008300 (slot 2) on a
+near-white print surface, with text in near-black/gray ink. Missing
+days simply leave gaps in the marker series; lines connect available
+observations.
+"""
+
+import csv
+import pathlib
+import subprocess
+import sys
+from datetime import date
+
+try:
+    import matplotlib
+except ImportError:
+    subprocess.run([sys.executable, "-m", "pip", "install", "-q", "matplotlib"], check=True)
+    import matplotlib
+
+matplotlib.use("Agg")
+import matplotlib.dates as mdates
+import matplotlib.pyplot as plt
+
+REPO = pathlib.Path(__file__).resolve().parent.parent
+CSV = REPO / "data" / "series.csv"
+
+SERIES_1 = "#2a78d6"  # categorical slot 1, blue
+SERIES_2 = "#008300"  # categorical slot 2, green
+INK = "#0b0b0b"
+INK_2 = "#52514e"
+GRID = "#d9d8d4"
+SURFACE = "#fcfcfb"
+
+
+def load():
+    rows = []
+    with open(CSV) as f:
+        for r in csv.DictReader(f):
+            d = date.fromisoformat(r["date"])
+            def num(key):
+                v = (r.get(key) or "").strip()
+                return float(v) if v else None
+            rows.append(
+                {
+                    "date": d,
+                    "brent": num("brent_usd"),
+                    "wti": num("wti_usd"),
+                    "kospi": num("kospi_close"),
+                    "usdkrw": num("usdkrw"),
+                    "transits": num("hormuz_transits"),
+                }
+            )
+    return sorted(rows, key=lambda r: r["date"])
+
+
+def series(rows, key):
+    pts = [(r["date"], r[key]) for r in rows if r[key] is not None]
+    return [p[0] for p in pts], [p[1] for p in pts]
+
+
+def style_axis(ax, title):
+    ax.set_facecolor(SURFACE)
+    ax.set_title(title, fontsize=9, color=INK, loc="left", fontweight="bold")
+    ax.grid(True, color=GRID, linewidth=0.6)
+    ax.tick_params(colors=INK_2, labelsize=7)
+    for spine in ("top", "right"):
+        ax.spines[spine].set_visible(False)
+    for spine in ("left", "bottom"):
+        ax.spines[spine].set_color(GRID)
+    ax.xaxis.set_major_locator(mdates.WeekdayLocator(byweekday=mdates.MO))
+    ax.xaxis.set_major_formatter(mdates.DateFormatter("%b %d"))
+
+
+def label_last(ax, xs, ys, color, fmt="{:,.0f}"):
+    if xs:
+        ax.annotate(
+            fmt.format(ys[-1]),
+            (xs[-1], ys[-1]),
+            textcoords="offset points",
+            xytext=(4, 4),
+            fontsize=7,
+            color=color,
+            fontweight="bold",
+        )
+
+
+def main():
+    out = pathlib.Path(sys.argv[1]) if len(sys.argv) > 1 else REPO / "deliverables" / "charts" / "series_overview.png"
+    out.parent.mkdir(parents=True, exist_ok=True)
+
+    rows = load()
+    fig, axes = plt.subplots(2, 2, figsize=(6.9, 4.6), dpi=200)
+    fig.patch.set_facecolor(SURFACE)
+
+    ax = axes[0][0]
+    style_axis(ax, "Crude oil, USD per barrel")
+    for key, color, name in (("brent", SERIES_1, "Brent"), ("wti", SERIES_2, "WTI")):
+        xs, ys = series(rows, key)
+        ax.plot(xs, ys, color=color, linewidth=1.6, marker="o", markersize=2.6)
+        if xs:
+            ax.annotate(
+                f"{name} {ys[-1]:,.2f}",
+                (xs[-1], ys[-1]),
+                textcoords="offset points",
+                xytext=(4, -2),
+                fontsize=7,
+                color=color,
+                fontweight="bold",
+            )
+    ax.legend(
+        ["Brent", "WTI"], fontsize=7, frameon=False, labelcolor=INK_2, loc="upper left"
+    )
+
+    ax = axes[0][1]
+    style_axis(ax, "Hormuz transits per day")
+    xs, ys = series(rows, "transits")
+    ax.plot(xs, ys, color=SERIES_1, linewidth=1.6, marker="o", markersize=2.6)
+    label_last(ax, xs, ys, SERIES_1)
+
+    ax = axes[1][0]
+    style_axis(ax, "KOSPI close")
+    xs, ys = series(rows, "kospi")
+    ax.plot(xs, ys, color=SERIES_1, linewidth=1.6, marker="o", markersize=2.6)
+    label_last(ax, xs, ys, SERIES_1)
+
+    ax = axes[1][1]
+    style_axis(ax, "Won per US dollar, higher = weaker won")
+    xs, ys = series(rows, "usdkrw")
+    ax.plot(xs, ys, color=SERIES_1, linewidth=1.6, marker="o", markersize=2.6)
+    label_last(ax, xs, ys, SERIES_1)
+
+    fig.tight_layout(pad=1.2)
+    fig.savefig(out, facecolor=SURFACE)
+    print(f"wrote {out}")
+
+
+if __name__ == "__main__":
+    main()
