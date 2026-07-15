@@ -4,7 +4,7 @@
 
 This document lists all sources referred to in the daily briefings, compiled from every brief published since June 4, 2026. It is grouped by the perspective each source represents, since the briefing methodology weighs corroboration across perspectives, not just the number of outlets. Update this file only when a new source enters the rotation.
 
-_Last updated: July 14, 2026_
+_Last updated: July 15, 2026_
 
 ---
 
@@ -54,7 +54,11 @@ _Last updated: July 14, 2026_
 
 | Source | URL | Base / Perspective | Notes |
 |---|---|---|---|
+| Yonhap News Agency | yna.co.kr (Korean), en.yna.co.kr (English) | Seoul | Korea's primary wire. The Korean-language wire leads the English service by hours on breaking government and market news; check Korean first on fast days |
 | The Korea Herald | koreaherald.com | Seoul | English daily; tracks government responses to Middle East shocks |
+| The Korea Times | koreatimes.co.kr | Seoul | English daily; market close reports and government coverage |
+| Korea JoongAng Daily | koreajoongangdaily.joins.com | Seoul | English arm of JoongAng Ilbo; markets and policy |
+| KED Global | kedglobal.com | Seoul | English service of Korea Economic Daily; FX and capital markets detail |
 | Seoul Economic Daily | en.sedaily.com | Seoul | Business daily; energy security and supply chain angles |
 | Businesskorea | businesskorea.co.kr | Seoul | Corporate and market coverage |
 | The Asia Business Daily | asiae.co.kr | Seoul | Markets, KOSPI and won coverage |
@@ -100,6 +104,13 @@ _Last updated: July 14, 2026_
 | UN News / UN Meetings Coverage | news.un.org / press.un.org | Intergovernmental | Security Council briefings, humanitarian data |
 | UNRWA | unrwa.org | UN agency | Gaza humanitarian operations |
 | US State Department | state.gov | Government | Official US positions, travel advisories |
+| US Central Command (CENTCOM) | centcom.mil | Government | Primary source for US strike and blockade announcements; authoritative for what CENTCOM says, not for battle damage claims |
+| US Department of Defense | defense.gov | Government | Briefing transcripts, force posture announcements |
+| International Maritime Organization (IMO) | imo.org | Intergovernmental | Authoritative on navigation law and shipping regulation (e.g. the Hormuz toll illegality finding) |
+| IAEA | iaea.org | Intergovernmental | Authoritative on the Iranian nuclear file: inspections, Board resolutions, verification statements. Central if nuclear sites (Pickaxe Mountain, Natanz, Fordow) are struck |
+| UKMTO | gov.uk (UK Maritime Trade Operations advisories) | Government | First alerts on maritime incidents in Hormuz, Gulf of Oman, Red Sea; incident positions and vessel status |
+| Bank of Korea | bok.or.kr | Government (Korea) | FX smoothing statements, emergency liquidity measures, rate decisions; primary for the financial transmission channel |
+| Ministry of Trade, Industry and Energy (MOTIE) | motie.go.kr | Government (Korea) | Reserve releases, export controls (naphtha ban), refiner coordination; Korean-language press releases lead English coverage |
 | Security Council Report | securitycouncilreport.org | NGO monitor | Monthly forecasts of Council business |
 
 ## 7. Think Tanks, NGOs and Analysis
@@ -121,6 +132,10 @@ _Last updated: July 14, 2026_
 | Trading Economics | tradingeconomics.com | Data aggregator | Commodity prices, FX, indices |
 | OilPrice.com | oilprice.com | Trade press | Energy news; corroborate market moving claims |
 | Kpler | kpler.com | Commercial data | Tanker tracking and transit counts, usually cited via CNBC/Bloomberg |
+| International Energy Agency (IEA) | iea.org | Intergovernmental | Oil Market Report (monthly), coordinated reserve releases; authoritative for OECD stock data |
+| US Energy Information Administration (EIA) | eia.gov | Government | Weekly US inventory data, chokepoint fact sheets, price series; high reliability baseline |
+| OPEC | opec.org | Intergovernmental | Monthly Oil Market Report (MOMR), production decisions; treat forecasts as perspective, production tables as primary |
+| Lloyd's List / TradeWinds | lloydslist.com / tradewindsnews.com | Trade press (paywalled) | War-risk insurance rates and charter market color, usually via subscriber quotes in wires |
 
 ## 9. Occasionally Cited (Low Weight)
 
@@ -134,3 +149,4 @@ These have appeared in past briefs but carry low evidentiary weight on their own
 - **Tier 2 (strong):** Major broadsheets and networks (NYT, WaPo, Guardian, CNN, NBC, CBS, NPR, CNBC), Al Jazeera, Times of Israel, Haaretz, The National. High confidence when two or more corroborate across different perspectives.
 - **Tier 3 (perspective):** State media (Press TV, SANA, CGTN, Anadolu), government statements, advocacy leaning outlets (Middle East Monitor, Israel National News, FDD), OSINT maps. Claims sourced only here are capped at Medium and attributed in text.
 - **Data providers** (Kpler, ACLED, Trading Economics) are treated as single source Medium unless the number is confirmed by a second provider or official release.
+- **Primary institutional sources** (CENTCOM, IMO, IAEA, UKMTO, BOK, MOTIE, IEA, EIA, OPEC production tables) are authoritative for the institution's own statements, decisions, and published data — a CENTCOM strike announcement is High for "CENTCOM announced X." They are NOT authoritative for contested facts (battle damage, adversary intent), which stay capped at Medium until independently corroborated.
