@@ -1,0 +1,6 @@
+date,brent_usd,wti_usd,kospi_close,usdkrw,hormuz_transits,notes
+2026-06-24,,,,,42,transits as reported in brief 2026-06-24 (post-reopening recovery)
+2026-06-26,74.70,,,,,Brent intraday level from brief 2026-06-26
+2026-07-06,,,,,37,Kpler count cited 2026-07-13 as "same day the previous week"
+2026-07-13,,,6806.93,1502.80,14,KOSPI close -9.95% (circuit breaker); won close; Kpler transit count with all six commodity carriers dark
+2026-07-14,84.73,79.34,6856.83,1493.0,,Brent/WTI settles; KOSPI and won closes (brief 2026-07-15)
