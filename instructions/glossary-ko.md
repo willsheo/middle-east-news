@@ -84,7 +84,7 @@ _Last updated: 2026-07-16_
 | naphtha | 나프타 |
 | refiner | 정유사 |
 | supplementary budget | 추가경정예산(추경) |
-| won-dollar rate | 원/달러 환율 |
+| won-dollar rate / KRW/USD exchange rate | 원-달러 환율 (user-pinned 2026-07-16; use this form in prose and chart titles) |
 | KOSPI / Kosdaq | 코스피 / 코스닥 |
 | circuit breaker / sidecar | 서킷브레이커 / 사이드카 |
 | barrels per day (bpd) | 일일 배럴(bpd) |
