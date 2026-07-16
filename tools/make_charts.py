@@ -35,6 +35,7 @@ import matplotlib.pyplot as plt
 REPO = pathlib.Path(__file__).resolve().parent.parent
 CSV = REPO / "data" / "series.csv"
 EVENTS = REPO / "data" / "events.csv"
+CHART_START = date(2026, 1, 1)
 
 SERIES_1 = "#2a78d6"  # categorical slot 1, blue
 SERIES_2 = "#008300"  # categorical slot 2, green
@@ -49,17 +50,18 @@ TITLES = {
         "oil": "Crude oil, USD per barrel",
         "transits": "Hormuz transits per day",
         "kospi": "KOSPI close",
-        "usdkrw": "Won per US dollar, higher = weaker won",
+        "usdkrw": "Won per US dollar",
     },
     "ko": {
         "oil": "국제유가, 배럴당 달러",
         "transits": "호르무즈 해협 일일 통항 척수",
         "kospi": "코스피 종가",
-        "usdkrw": "원/달러 환율, 상승 = 원화 약세",
+        "usdkrw": "원/달러 환율",
     },
 }
 
 EVENT_LABELS_KO = {
+    "War begins": "전쟁 발발",
     "US Iran MOU": "미·이란 양해각서",
     "Ceasefire collapses": "휴전 붕괴",
     "Blockade and toll": "봉쇄·통행료 발표",
@@ -109,6 +111,7 @@ def load_events():
             (date.fromisoformat(r["date"]), r["label"].strip())
             for r in csv.DictReader(f)
             if (r.get("label") or "").strip()
+            and (r.get("major") or "1").strip() == "1"
         ]
 
 
@@ -126,7 +129,7 @@ def style_axis(ax, title, date_fmt="%b %d"):
         ax.spines[spine].set_visible(False)
     for spine in ("left", "bottom"):
         ax.spines[spine].set_color(GRID)
-    ax.xaxis.set_major_locator(mdates.WeekdayLocator(byweekday=mdates.MO))
+    ax.xaxis.set_major_locator(mdates.MonthLocator())
     ax.xaxis.set_major_formatter(mdates.DateFormatter(date_fmt))
 
 
@@ -144,6 +147,24 @@ def draw_events(ax, events, labeled):
                 fontsize=6,
                 color=INK_2,
             )
+
+
+
+def plot_series(ax, xs, ys, color, gap_days=21):
+    """Solid line within dense runs; dotted connector across gaps > gap_days
+    so sparse coverage is visible instead of implying a smooth path."""
+    if not xs:
+        return
+    run_x, run_y = [xs[0]], [ys[0]]
+    for i in range(1, len(xs)):
+        if (xs[i] - xs[i - 1]).days > gap_days:
+            ax.plot(run_x, run_y, color=color, linewidth=1.6, marker="o", markersize=2.6)
+            ax.plot(xs[i - 1 : i + 1], ys[i - 1 : i + 1], color=color, linewidth=1.0,
+                    linestyle=(0, (1, 3)))
+            run_x, run_y = [xs[i]], [ys[i]]
+        else:
+            run_x.append(xs[i]); run_y.append(ys[i])
+    ax.plot(run_x, run_y, color=color, linewidth=1.6, marker="o", markersize=2.6)
 
 
 def label_last(ax, xs, ys, color, fmt="{:,.0f}"):
@@ -170,7 +191,7 @@ def main():
     if lang == "ko":
         setup_korean_font()
     titles = TITLES[lang]
-    date_fmt = "%-m.%-d." if lang == "ko" else "%b %d"
+    date_fmt = "%-m\uc6d4" if lang == "ko" else "%b"
 
     rows = load()
     events = load_events()
@@ -178,7 +199,7 @@ def main():
         events = [(d, EVENT_LABELS_KO.get(label, label)) for d, label in events]
 
     all_dates = [r["date"] for r in rows] + [e[0] for e in events]
-    xlim = (min(all_dates) - timedelta(days=1), max(all_dates) + timedelta(days=2))
+    xlim = (min([CHART_START] + all_dates), max(all_dates) + timedelta(days=2))
 
     fig, axes = plt.subplots(2, 2, figsize=(6.9, 4.6), dpi=200)
     fig.patch.set_facecolor(SURFACE)
@@ -187,7 +208,7 @@ def main():
     style_axis(ax, titles["oil"], date_fmt)
     for key, color, name in (("brent", SERIES_1, "Brent"), ("wti", SERIES_2, "WTI")):
         xs, ys = series(rows, key)
-        ax.plot(xs, ys, color=color, linewidth=1.6, marker="o", markersize=2.6)
+        plot_series(ax, xs, ys, color)
         if xs:
             ax.annotate(
                 f"{name} {ys[-1]:,.2f}",
@@ -198,26 +219,29 @@ def main():
                 color=color,
                 fontweight="bold",
             )
+    from matplotlib.lines import Line2D
     ax.legend(
-        ["Brent", "WTI"], fontsize=7, frameon=False, labelcolor=INK_2, loc="lower left"
+        handles=[Line2D([], [], color=SERIES_1, linewidth=1.6, label="Brent"),
+                 Line2D([], [], color=SERIES_2, linewidth=1.6, label="WTI")],
+        fontsize=7, frameon=False, labelcolor=INK_2, loc="lower left",
     )
 
     ax = axes[0][1]
     style_axis(ax, titles["transits"], date_fmt)
     xs, ys = series(rows, "transits")
-    ax.plot(xs, ys, color=SERIES_1, linewidth=1.6, marker="o", markersize=2.6)
+    plot_series(ax, xs, ys, SERIES_1)
     label_last(ax, xs, ys, SERIES_1)
 
     ax = axes[1][0]
     style_axis(ax, titles["kospi"], date_fmt)
     xs, ys = series(rows, "kospi")
-    ax.plot(xs, ys, color=SERIES_1, linewidth=1.6, marker="o", markersize=2.6)
+    plot_series(ax, xs, ys, SERIES_1)
     label_last(ax, xs, ys, SERIES_1)
 
     ax = axes[1][1]
     style_axis(ax, titles["usdkrw"], date_fmt)
     xs, ys = series(rows, "usdkrw")
-    ax.plot(xs, ys, color=SERIES_1, linewidth=1.6, marker="o", markersize=2.6)
+    plot_series(ax, xs, ys, SERIES_1)
     label_last(ax, xs, ys, SERIES_1)
 
     for row_i in (0, 1):

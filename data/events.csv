@@ -1,6 +1,7 @@
-date,label
-2026-06-14,US Iran MOU
-2026-07-08,Ceasefire collapses
-2026-07-13,Blockade and toll
-2026-07-14,Toll withdrawn
-2026-07-15,First blockade interdiction
+date,label,major
+2026-02-28,War begins,1
+2026-06-14,US Iran MOU,1
+2026-07-08,Ceasefire collapses,1
+2026-07-13,Blockade and toll,0
+2026-07-14,Toll withdrawn,0
+2026-07-15,First blockade interdiction,0
