@@ -6,7 +6,7 @@ Pinned Korean renderings for recurring terms, so the Korean edition uses identic
 
 Register: analytical written style, 한다체 (plain reportive). Numbers in Arabic numerals with Korean units where natural (약 8,470만 배럴, 10억 달러). Outlet names stay in their original form ([Al Jazeera](...), [Bloomberg](...)); links unchanged. Confidence ratings: **신뢰도: 높음 / 중간 / 낮음**.
 
-_Last updated: 2026-07-16_
+_Last updated: 2026-07-17_
 
 ---
 
@@ -86,6 +86,9 @@ _Last updated: 2026-07-16_
 | supplementary budget | 추가경정예산(추경) |
 | won-dollar rate / KRW/USD exchange rate | 원-달러 환율 (user-pinned 2026-07-16; use this form in prose and chart titles) |
 | KOSPI / Kosdaq | 코스피 / 코스닥 |
+| base rate (BOK policy rate) | 기준금리 |
+| Monetary Policy Board meeting | 금융통화위원회(금통위) |
+| Black Thursday (2026-07-16 rout) | 검은 목요일 |
 | circuit breaker / sidecar | 서킷브레이커 / 사이드카 |
 | barrels per day (bpd) | 일일 배럴(bpd) |
 | LNG loadings | LNG 선적 |
@@ -142,3 +145,9 @@ _Last updated: 2026-07-16_
 | Mina Abdullah (Kuwait) | 미나 압둘라 |
 | al-Azraq base (Jordan) | 알아즈라크 기지 |
 | Froun / Ghandouriyeh / Zawtar (Lebanon) | 프룬 / 간두리예 / 자우타르 |
+| Semnan (province) | 셈난주 |
+| Qeshm Island | 케슘섬 |
+| Dena Karari | 데나 카라리 |
+| Giants Brigades (Yemen) | 자이언츠 여단 |
+| goodwill gesture | 선의의 표시 |
+| dead man's switch | 데드맨 스위치 |

@@ -4,7 +4,7 @@
 
 This document lists all sources referred to in the daily briefings, compiled from every brief published since June 4, 2026. It is grouped by the perspective each source represents, since the briefing methodology weighs corroboration across perspectives, not just the number of outlets. Update this file only when a new source enters the rotation.
 
-_Last updated: July 15, 2026_
+_Last updated: July 17, 2026_
 
 ---
 
@@ -45,6 +45,7 @@ _Last updated: July 15, 2026_
 | Wafa | english.wafa.ps | Ramallah, Palestine | Palestinian Authority official agency |
 | Press TV | presstv.ir | Tehran, Iran | Iranian state broadcaster; official Iranian positions, treat claims as assertions |
 | Iran International | iranintl.com | London | Iranian opposition aligned satellite channel; strong sources inside Iran, adversarial to Tehran |
+| IranWire | iranwire.com | London (diaspora) | Iranian diaspora investigative outlet (Maziar Bahari); citizen-journalist sources inside Iran; adversarial to Tehran, corroborate official-fact claims |
 | Anadolu Agency | aa.com.tr | Ankara, Turkey | Turkish state agency |
 | TRT World | trtworld.com | Istanbul, Turkey | Turkish state broadcaster |
 | Cyprus Mail | cyprus-mail.com | Nicosia, Cyprus | Useful for Eastern Mediterranean and evacuation logistics stories |

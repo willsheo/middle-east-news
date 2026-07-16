@@ -50,3 +50,8 @@ usdkrw,2026-07-14,1493.0,settle,Brent/WTI settles; KOSPI and won closes (brief 2
 usdkrw,2026-07-15,1484.7,settle,Brent/WTI settles (CNBC); KOSPI +6.24% close and won close on US CPI relief rally (Korea Times/The Investor)
 wti,2026-07-14,79.34,settle,Brent/WTI settles; KOSPI and won closes (brief 2026-07-15); Kpler transits reported 07-15 (Bloomberg)
 wti,2026-07-15,79.6,settle,Brent/WTI settles (CNBC); KOSPI +6.24% close and won close on US CPI relief rally (Korea Times/The Investor)
+brent,2026-07-16,84.63,close,Brent daily close -0.37% profit taking after four up sessions (Trading Economics)
+wti,2026-07-16,79.40,intraday,WTI ~79.4 intraday 07-16 (LiteFinance); no settle found in window
+kospi,2026-07-16,6820.60,close,KOSPI -6.37% Black Thursday chip rout; 19th sidecar of 2026 (Korea Times/Seoul Economic Daily)
+usdkrw,2026-07-16,1480.4,close,won close after BOK 25bp hike to 2.75% (Businesskorea)
+hormuz_transits,2026-07-15,7.0,daily_count,Kpler via AP/US News: 7 vessels 07-15 mostly Iranian route; same report puts 07-14 at 13 vs Bloomberg's 21

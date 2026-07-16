@@ -4,7 +4,7 @@
 
 Standing reference for South Korea's structural exposure to the Middle East, so daily briefs cite consistent baseline numbers instead of re-deriving them. Cite this file's values with their as-of dates; when a brief finds a materially updated figure from a reliable source, update this table (and the PDF) and note the change in that day's brief.
 
-_Last updated: July 15, 2026_
+_Last updated: July 17, 2026_
 
 ---
 
@@ -28,6 +28,8 @@ _Last updated: July 15, 2026_
 | Strategic reserve coverage remaining | ~26 days of actual consumption (estimate) | Jul 2026 | CSIS; treat as estimate, Medium confidence |
 | Supplementary budget | ~$17 billion passed | Jul 2026 | CSIS |
 | Refiners' joint task force | Four major refiners coordinating supply | Mar 2026 | UPI |
+| July–August crude procurement | 100%+ of prior-year volume secured; MOTIE holding government reserve release in hand for further deterioration | Jul 2026 | MOTIE emergency supply meeting via Asia Business Daily; S&P Global |
+| Red Sea detour routing for crude | 13 Korean tankers to date have routed crude via the Red Sea to avoid Hormuz; shipping companies advised against new Hormuz entries. NOTE: this workaround transits Bab el-Mandeb and is directly exposed to a Houthi closure | Jul 2026 | MOTIE via Asia Business Daily; S&P Global |
 | Nuclear restarts | Accelerated approvals | Jun 2026 | CSIS |
 
 ## Corporate and Physical Exposure
@@ -48,6 +50,7 @@ _Last updated: July 15, 2026_
 | Won crisis range since March | ~₩1,490–1,530/USD | Mar–Jul 2026 | KED Global, Businesskorea |
 | KOSPI circuit breakers | 7 triggered in 2026 through Jul 13 (Jul 13: −9.95% to 6,806.93) | Jul 2026 | BigGo Finance, Korea Times |
 | Monitoring thresholds in use | Won ₩1,500 line; Hormuz transits 20/day (binding) vs 30/day (recovery); Qatari LNG loadings −15% w/w | Jul 2026 | Brief indicator series |
+| BOK base rate | 2.75% after +25bp on Jul 16, 2026 — first hike since Jan 2023, unanimous, further hikes signaled; statement cites Middle East oil and won weakness (June CPI 3.2%) | Jul 2026 | BOK via Bloomberg, CNBC, Korea Herald |
 
 ---
 
