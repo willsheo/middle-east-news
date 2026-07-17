@@ -6,7 +6,7 @@ Pinned Korean renderings for recurring terms, so the Korean edition uses identic
 
 Register: analytical written style, 한다체 (plain reportive). Numbers in Arabic numerals with Korean units where natural (약 8,470만 배럴, 10억 달러). Outlet names stay in their original form ([Al Jazeera](...), [Bloomberg](...)); links unchanged. Confidence ratings: **신뢰도: 높음 / 중간 / 낮음**.
 
-_Last updated: 2026-07-17_
+_Last updated: 2026-07-18_
 
 ---
 
@@ -64,6 +64,9 @@ _Last updated: 2026-07-17_
 | disarmament | 무장해제 |
 | withdrawal (military) | 철군 |
 | Board of Peace | 평화이사회(Board of Peace) |
+| Operation Aspides (EU) | 아스피데스 작전 |
+| Knesset dissolution / early elections | 크네세트(이스라엘 의회) 해산 / 조기 총선 |
+| Joint Maritime Information Center (JMIC) | 합동해양정보센터(JMIC) |
 | Yellow Line | 옐로 라인 |
 
 ## Economics and Markets (경제·시장)
@@ -92,6 +95,10 @@ _Last updated: 2026-07-17_
 | circuit breaker / sidecar | 서킷브레이커 / 사이드카 |
 | barrels per day (bpd) | 일일 배럴(bpd) |
 | LNG loadings | LNG 선적 |
+| laden / ballast (vessel) | 적재 / 공선(밸러스트) |
+| force majeure | 불가항력 (선언) |
+| Constitution Day (Korea) | 제헌절 |
+| desalination plant | 해수담수화 플랜트 |
 | freight rates | 운임 |
 | landed cost | 도입 단가 |
 | import bill | 수입 비용 |
@@ -149,5 +156,18 @@ _Last updated: 2026-07-17_
 | Qeshm Island | 케슘섬 |
 | Dena Karari | 데나 카라리 |
 | Giants Brigades (Yemen) | 자이언츠 여단 |
+| Shuaiba (Kuwait) | 슈아이바 |
+| Al-Udeid Air Base | 알우데이드 공군기지 |
+| Al Dhafra Air Base | 알다프라 공군기지 |
+| Chabahar | 차바하르 |
+| Hormozgan (province) | 호르모즈간주 |
+| Bandar Khamir | 반다르 하미르 |
+| Iranshahr | 이란샤르 |
+| Nuseirat | 누세이라트 |
+| Mohsen Rezaei | 모흐센 레자에이 |
+| Shin Hyun-song (BOK governor) | 신현송 |
+| Yanbu | 얀부 |
+| Zawtar al-Sharqiyeh / al-Gharbiyeh | 자우타르 알샤르키예 / 알가르비예 |
+| Joseph Clearfield | 조지프 클리어필드 |
 | goodwill gesture | 선의의 표시 |
 | dead man's switch | 데드맨 스위치 |

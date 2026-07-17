@@ -4,7 +4,7 @@
 
 This document lists all sources referred to in the daily briefings, compiled from every brief published since June 4, 2026. It is grouped by the perspective each source represents, since the briefing methodology weighs corroboration across perspectives, not just the number of outlets. Update this file only when a new source enters the rotation.
 
-_Last updated: July 17, 2026_
+_Last updated: July 18, 2026_
 
 ---
 
@@ -41,6 +41,7 @@ _Last updated: July 17, 2026_
 | Naharnet | naharnet.com | Beirut, Lebanon | Lebanese English news; useful on Hezbollah and border developments |
 | Enab Baladi | english.enabbaladi.net | Syria (diaspora) | Independent Syrian outlet born of the uprising; on the ground Syria reporting |
 | SANA | sana.sy | Damascus, Syria | Syrian state agency; official positions only, verify all claims |
+| Petra | petra.gov.jo | Amman, Jordan | Jordanian state agency; official positions and air defense statements |
 | Shafaq News | shafaq.com | Erbil, Iraq | Iraqi/Kurdish agency; useful on Iraq and Iran border events |
 | Wafa | english.wafa.ps | Ramallah, Palestine | Palestinian Authority official agency |
 | Press TV | presstv.ir | Tehran, Iran | Iranian state broadcaster; official Iranian positions, treat claims as assertions |
@@ -124,6 +125,7 @@ _Last updated: July 17, 2026_
 | Al-Monitor | al-monitor.com | Washington | Region focused analysis with local correspondents |
 | ACLED | acleddata.com | Wisconsin | Conflict event data; high reliability for incident counts |
 | Amnesty International | amnesty.org | London | Human rights documentation |
+| Long War Journal | longwarjournal.org | Washington (FDD) | Militant group tracking; hawkish leaning, strong on Houthi/Yemen order of battle |
 | Modern Diplomacy | moderndiplomacy.eu | Europe | Opinion platform; low weight, perspective only |
 
 ## 8. Market and Energy Data
@@ -136,6 +138,8 @@ _Last updated: July 17, 2026_
 | International Energy Agency (IEA) | iea.org | Intergovernmental | Oil Market Report (monthly), coordinated reserve releases; authoritative for OECD stock data |
 | US Energy Information Administration (EIA) | eia.gov | Government | Weekly US inventory data, chokepoint fact sheets, price series; high reliability baseline |
 | OPEC | opec.org | Intergovernmental | Monthly Oil Market Report (MOMR), production decisions; treat forecasts as perspective, production tables as primary |
+| LNG Prime | lngprime.com | Trade press | LNG shipping and terminal news; useful for Ras Laffan/Hormuz carrier movements |
+| Argus Media | argusmedia.com | Trade press | Energy price reporting agency; authoritative on cargo and swap deals |
 | Lloyd's List / TradeWinds | lloydslist.com / tradewindsnews.com | Trade press (paywalled) | War-risk insurance rates and charter market color, usually via subscriber quotes in wires |
 
 ## 9. Occasionally Cited (Low Weight)

@@ -55,3 +55,6 @@ wti,2026-07-16,79.40,intraday,WTI ~79.4 intraday 07-16 (LiteFinance); no settle 
 kospi,2026-07-16,6820.60,close,KOSPI -6.37% Black Thursday chip rout; 19th sidecar of 2026 (Korea Times/Seoul Economic Daily)
 usdkrw,2026-07-16,1480.4,close,won close after BOK 25bp hike to 2.75% (Businesskorea)
 hormuz_transits,2026-07-15,7.0,daily_count,Kpler via AP/US News: 7 vessels 07-15 mostly Iranian route; same report puts 07-14 at 13 vs Bloomberg's 21
+brent,2026-07-17,88.10,settle,Brent settle +4.6% on Kuwait desalination plant strike and Red Sea risk (CNBC); Trading Economics showed 85.95 intraday - CNBC settle used
+wti,2026-07-17,82.49,settle,WTI settle +4.5% (CNBC); week +10%+
+hormuz_transits,2026-07-16,8.0,daily_count,Kpler via CNBC: 8 transits 07-16 only 3 commodity vessels fewest since May; same series puts 07-15 at 15 vs AP 7 - counting bases still inconsistent

@@ -4,7 +4,7 @@
 
 Standing reference for South Korea's structural exposure to the Middle East, so daily briefs cite consistent baseline numbers instead of re-deriving them. Cite this file's values with their as-of dates; when a brief finds a materially updated figure from a reliable source, update this table (and the PDF) and note the change in that day's brief.
 
-_Last updated: July 17, 2026_
+_Last updated: July 18, 2026_
 
 ---
 
@@ -29,7 +29,9 @@ _Last updated: July 17, 2026_
 | Supplementary budget | ~$17 billion passed | Jul 2026 | CSIS |
 | Refiners' joint task force | Four major refiners coordinating supply | Mar 2026 | UPI |
 | July–August crude procurement | 100%+ of prior-year volume secured; MOTIE holding government reserve release in hand for further deterioration | Jul 2026 | MOTIE emergency supply meeting via Asia Business Daily; S&P Global |
-| Red Sea detour routing for crude | 13 Korean tankers to date have routed crude via the Red Sea to avoid Hormuz; shipping companies advised against new Hormuz entries. NOTE: this workaround transits Bab el-Mandeb and is directly exposed to a Houthi closure | Jul 2026 | MOTIE via Asia Business Daily; S&P Global |
+| Red Sea detour routing for crude | 14 Korean tankers to date have routed crude via the Red Sea to avoid Hormuz (14th confirmed Jul 17, loaded at Yanbu, Saudi Arabia); shipping companies advised against new Hormuz entries; government calls the route "the most realistic option for the time being". NOTE: this workaround transits Bab el-Mandeb and is directly exposed to a Houthi closure | Jul 2026 | MOF via Korea Times, KJD; MOTIE via Asia Business Daily; S&P Global |
+| September crude procurement | 76% secured as of Jul 14 | Jul 2026 | Seoul Economic Daily |
+| LNG cargo swaps | KOGAS seeking Atlantic FOB for Pacific DES swaps to cover July cargoes | Jul 2026 | Argus |
 | Nuclear restarts | Accelerated approvals | Jun 2026 | CSIS |
 
 ## Corporate and Physical Exposure
