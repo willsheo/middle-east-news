@@ -4,7 +4,7 @@
 
 This document lists all sources referred to in the daily briefings, compiled from every brief published since June 4, 2026. It is grouped by the perspective each source represents, since the briefing methodology weighs corroboration across perspectives, not just the number of outlets. Update this file only when a new source enters the rotation.
 
-_Last updated: July 18, 2026_
+_Last updated: July 19, 2026_
 
 ---
 
@@ -50,6 +50,7 @@ _Last updated: July 18, 2026_
 | Anadolu Agency | aa.com.tr | Ankara, Turkey | Turkish state agency |
 | TRT World | trtworld.com | Istanbul, Turkey | Turkish state broadcaster |
 | Cyprus Mail | cyprus-mail.com | Nicosia, Cyprus | Useful for Eastern Mediterranean and evacuation logistics stories |
+| Oman Observer | omanobserver.om | Muscat, Oman | Omani state aligned English daily; useful for Gulf infrastructure and KPC statements from a neutral-Gulf perspective |
 | Liveuamap (Lebanon, Yemen) | lebanon.liveuamap.com | Distributed OSINT | Geolocated incident mapping; fast but unverified, corroborate before citing as fact |
 
 ## 4. Korean Outlets
@@ -144,7 +145,7 @@ _Last updated: July 18, 2026_
 
 ## 9. Occasionally Cited (Low Weight)
 
-These have appeared in past briefs but carry low evidentiary weight on their own. They are used only when corroborated or clearly labeled as perspective: Common Dreams, The Daily Caller, The New Republic, Washington Times, Military.com, Express Tribune (Pakistan), Sunday Guardian Live (India), MS NOW.
+These have appeared in past briefs but carry low evidentiary weight on their own. They are used only when corroborated or clearly labeled as perspective: Common Dreams, The Daily Caller, The New Republic, Washington Times, Military.com, Express Tribune (Pakistan), Sunday Guardian Live (India), Business Standard (India), MS NOW.
 
 ---
 

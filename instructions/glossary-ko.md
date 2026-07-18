@@ -6,7 +6,7 @@ Pinned Korean renderings for recurring terms, so the Korean edition uses identic
 
 Register: analytical written style, 한다체 (plain reportive). Numbers in Arabic numerals with Korean units where natural (약 8,470만 배럴, 10억 달러). Outlet names stay in their original form ([Al Jazeera](...), [Bloomberg](...)); links unchanged. Confidence ratings: **신뢰도: 높음 / 중간 / 낮음**.
 
-_Last updated: 2026-07-18_
+_Last updated: 2026-07-19_
 
 ---
 
@@ -57,6 +57,8 @@ _Last updated: 2026-07-18_
 | host state (of US forces) | 미군 주둔국 |
 | collective defense | 집단 방위 |
 | interdiction (of a vessel) | (선박) 차단 |
+| missing in action (MIA) | 작전 중 실종(MIA) |
+| killed in action | 전사 |
 | ultimatum | 최후통첩 |
 | civilian infrastructure | 민간 기반시설 |
 | pilot zones (Lebanon) | 시범 구역 |
@@ -171,3 +173,9 @@ _Last updated: 2026-07-18_
 | Joseph Clearfield | 조지프 클리어필드 |
 | goodwill gesture | 선의의 표시 |
 | dead man's switch | 데드맨 스위치 |
+| Muwaffaq Salti Air Base (Azraq, Jordan) | 무와파크 살티 공군기지 |
+| Bonji (Jask County, Iran) | 본지(자스크군) |
+| Yazd | 야즈드 |
+| Kuwait Petroleum Corporation (KPC) | 쿠웨이트석유공사(KPC) |
+| Mina al-Ahmadi (Kuwait) | 미나 알아흐마디 |
+| Tebnit (Lebanon) | 테브니트 |
