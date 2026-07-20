@@ -6,7 +6,7 @@ Pinned Korean renderings for recurring terms, so the Korean edition uses identic
 
 Register: analytical written style, 한다체 (plain reportive). Numbers in Arabic numerals with Korean units where natural (약 8,470만 배럴, 10억 달러). Outlet names stay in their original form ([Al Jazeera](...), [Bloomberg](...)); links unchanged. Confidence ratings: **신뢰도: 높음 / 중간 / 낮음**.
 
-_Last updated: 2026-07-19_
+_Last updated: 2026-07-20_
 
 ---
 
@@ -179,3 +179,17 @@ _Last updated: 2026-07-19_
 | Kuwait Petroleum Corporation (KPC) | 쿠웨이트석유공사(KPC) |
 | Mina al-Ahmadi (Kuwait) | 미나 알아흐마디 |
 | Tebnit (Lebanon) | 테브니트 |
+| Darkhovin nuclear power plant | 다르호빈 원전 |
+| Khuzestan (province) | 후제스탄주 |
+| Camp Udairi (Kuwait) | 캠프 우다이리 |
+| Ali Al Salem Air Base (Kuwait) | 알리 알살렘 공군기지 |
+| Aqaba (Jordan) | 아카바 |
+| Israel Katz | 이스라엘 카츠 |
+| Atomic Energy Organization of Iran (AEOI) | 이란 원자력청(AEOI) |
+| Mukalla (Yemen) | 무칼라 |
+| Asana (tanker) | 아사나호 |
+| departure advisory / recommendation | 출국 권고 |
+| controlled detonation | 통제 폭파 |
+| one way attack drone (kamikaze drone) | 자폭 드론 |
+| licensing regime (transit) | (통항) 허가제 |
+| UKMTO | 영국 해사무역기구(UKMTO) |

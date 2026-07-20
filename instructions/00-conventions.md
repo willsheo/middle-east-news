@@ -12,7 +12,7 @@ Formatting rules for daily briefs, per user preference (2026-07-14; extended 202
 4. **Section 2 subsections must be phrased as questions.** Each subsection header states the question the following paragraphs answer (e.g., "Why is Washington escalating strikes now?").
 
 5. **Source registry:** `instructions/sources.md` and `instructions/sources.pdf` list every source the briefings draw on, with perspective groupings and reliability tiers. Do not update daily; update (and regenerate the PDF) only when a new source enters the rotation.
-6. **Summary block is two bullet points, no "Prepared for" line.** Directly under the date: a `Reporting window` bullet and an `Overall assessment` bullet. The reporting window is given in **Korea time only** (user preference, 2026-07-16; e.g. "약 24시간, 7월 15일 15:00 ~ 7월 16일 09:00 (한국시간)" / "~24 hours, July 15, 15:00 to July 16, 09:00 KST"). UTC stays in the front matter's `window_utc` field only.
+6. **Summary block is two bullet points, no "Prepared for" line.** Directly under the date: a `Reporting window` bullet and an `Overall assessment` bullet. The reporting window is given in **Korea time only** (user preference, 2026-07-16), and **in the language of the edition** (user request, 2026-07-20): English briefs use the English form "~24 hours, July 15, 15:00 to July 16, 09:00 KST"; Korean briefs use "약 24시간, 7월 15일 15:00 ~ 7월 16일 09:00 (한국시간)". UTC stays in the front matter's `window_utc` field only.
 
 7. **YAML front matter on every brief** (machine readable; stripped from the PDF automatically). Fields:
 
