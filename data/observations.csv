@@ -58,3 +58,33 @@ hormuz_transits,2026-07-15,7.0,daily_count,Kpler via AP/US News: 7 vessels 07-15
 brent,2026-07-17,88.10,settle,Brent settle +4.6% on Kuwait desalination plant strike and Red Sea risk (CNBC); Trading Economics showed 85.95 intraday - CNBC settle used
 wti,2026-07-17,82.49,settle,WTI settle +4.5% (CNBC); week +10%+
 hormuz_transits,2026-07-16,8.0,daily_count,Kpler via CNBC: 8 transits 07-16 only 3 commodity vessels fewest since May; same series puts 07-15 at 15 vs AP 7 - counting bases still inconsistent
+brent,2026-06-12,82.91,close,CNN (published 06-14): Friday settle -5% lowest since Mar 5; morning quote same day was 89.94 (Fortune) before the pre-MOU slide completed
+brent,2026-06-25,72.68,close,Al Jazeera: August contract -1.44% to 72.68; lowest since Feb 27 pre-war
+brent,2026-07-01,71.57,close,CNBC: -1.9% settle as Trump says Qatar talks going well; Brent spot dipped below $70 same day (EIA STEO)
+brent,2026-07-02,71.53,morning_quote,Fortune 9:40am ET quote; Al Jazeera: settled just below $72
+brent,2026-07-08,78.02,settle,CNBC: +5.2% settle on renewed US strikes and blockade threat
+brent,2026-07-13,83.30,settle,CNBC: +9.6% settle; biggest daily gain since May 2020 after Trump reinstates blockade
+wti,2026-04-30,105.07,settle,CNBC: WTI settled 105.07 (-1%+) while Brent touched 126 intraday
+wti,2026-06-12,80.21,close,CNN (published 06-14): Friday settle -5.5% lowest since early March
+wti,2026-06-25,69.58,close,Al Jazeera: -1.08% to 69.58
+wti,2026-07-01,68.58,settle,CNBC: -1.3% settle
+wti,2026-07-08,73.52,settle,CNBC: +4.4% settle
+kospi,2026-01-30,5220.0,close,namu wiki: closed in the 5220 range after intraday 5300 break; approximate level not exact print
+kospi,2026-02-24,5969.64,close,namu wiki: +2.1% close; cross-checks with 02-25 close 6083.86 (+1.91%)
+kospi,2026-03-31,5052.46,close,namu wiki/Seoul Economic Daily: -4.26% (-224.84)
+kospi,2026-04-14,5967.75,close,namu wiki: +2.74%
+kospi,2026-04-21,6388.47,close,namu wiki: +2.72%
+kospi,2026-05-29,8476.15,close,Nate news (wire): +290.86 close
+kospi,2026-06-17,8864.24,close,wire via Daum: +1.58% record close at the time
+kospi,2026-06-30,8476.48,close,Businesskorea/namu: +0.97% H1 final session
+kospi,2026-07-08,7246.79,close,namu wiki/News1: -5.35% sell sidecar 13:47; cross-checks with 07-09 +0.62% to 7291.91
+usdkrw,2026-03-04,1466.1,close,Money Today: 15:30 daytime close; night session touched 1506.1 (first 1500 break since 2009) and closed 1485.7 at 2am
+usdkrw,2026-03-31,1530.1,close,wire via search/Seoul Economic Daily: +14.4 highest since Mar 9 2009
+usdkrw,2026-05-06,1455.1,close,Seoul Finance: first 1450s daytime close in ~2 months on foreign net buying and yen strength
+usdkrw,2026-05-29,1506.2,close,Nate news (wire): +3.40 daytime close
+usdkrw,2026-06-04,1530.0,intraday,Daum/Munhwa Ilbo: 1530 line broken intraday; daytime close not retrieved
+usdkrw,2026-06-30,1549.4,close,Businesskorea: +4.2 daytime close; highest close since Mar 6 2009 (1550)
+hormuz_transits,2026-06-15,8.0,daily_count,Kpler via France24 (06-17): 8 commodity carriers Monday
+hormuz_transits,2026-06-16,6.0,daily_count,Kpler via France24 (06-17): 6 Tuesday
+hormuz_transits,2026-07-08,30.0,daily_count,Kpler via Insurance Journal/Bloomberg (07-13): 30 Wednesday
+hormuz_transits,2026-07-09,22.0,daily_count,Kpler via Insurance Journal/Bloomberg (07-13): 22 Thursday down from 30
