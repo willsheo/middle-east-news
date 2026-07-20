@@ -8,7 +8,9 @@ Formatting rules for daily briefs, per user preference (2026-07-14; extended 202
 
 1. **Publish a PDF alongside the markdown** (`brief_YYYY-MM-DD.pdf`). Generate with `python3 tools/md2pdf.py <input.md> <output.pdf>` (markdown → styled HTML → headless Chromium, A4, no header/footer; strips front matter and inlines images automatically).
 2. **No hyphens or dashes in headers or titles.** Reword to avoid them (colons, commas, and prepositions are fine). Body text is unaffected.
-3. **Number sections directly, without the word "Part."** Use `## 1. What Happened`, `## 2. Deep Dive: Incentives and Motives`, etc., with numbered subsections (`### 1.1`, `### 2.1`, ...).
+3. **Number sections directly, without the word "Part."** Use `## 1. What Happened`, `## 2. Deep Dive`, etc., with numbered subsections (`### 1.1`, `### 2.1`, ...). Section 2 is titled just **"Deep Dive"** (Korean: **"심층 분석"**) — no "Incentives and Motives" suffix (user request, 2026-07-20; applies from the 2026-07-21 brief onward).
+
+3b. **No generation footer.** Do not append the trailing `_Generated YYYY-MM-DD (KST) from web research across N+ outlets..._` line after the Source Quality Summary table (user request, 2026-07-20; applies from the 2026-07-21 brief onward). The brief ends with the Section 5 table.
 4. **Section 2 subsections must be phrased as questions.** Each subsection header states the question the following paragraphs answer (e.g., "Why is Washington escalating strikes now?").
 
 5. **Source registry:** `instructions/sources.md` and `instructions/sources.pdf` list every source the briefings draw on, with perspective groupings and reliability tiers. Do not update daily; update (and regenerate the PDF) only when a new source enters the rotation.
@@ -68,7 +70,7 @@ Formatting rules for daily briefs, per user preference (2026-07-14; extended 202
 
 - YAML front matter (rule 7), then title: `# Middle East Daily Briefing` with the date on its own bold line below, then the two summary bullets, then the corrections block when needed (rule 8).
 - 1. What Happened (3 to 5 developments, 2 to 3 sentences each, with sources and per-claim confidence)
-- 2. Deep Dive: Incentives and Motives (question-form subsections)
+- 2. Deep Dive (question-form subsections)
 - 3. Policy Implications for South Korea (series chart, exposure snapshot, implications by development, testable falsifiable indicators with ledger IDs)
 - 4. Watch List (simmering issues)
 - 5. Source Quality Summary (claim / sources / confidence table)

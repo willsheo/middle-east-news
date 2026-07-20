@@ -20,7 +20,7 @@ _Last updated: 2026-07-20_
 | Overall assessment | 종합 평가 |
 | Corrections and updates | 정정 및 업데이트 |
 | 1. What Happened | 1. 무슨 일이 있었나 |
-| 2. Deep Dive: Incentives and Motives | 2. 심층 분석: 유인과 동기 |
+| 2. Deep Dive | 2. 심층 분석 |
 | 3. Policy Implications for South Korea | 3. 한국에 대한 정책적 함의 |
 | 4. Watch List | 4. 관찰 목록 |
 | 5. Source Quality Summary | 5. 출처 신뢰도 요약 |
