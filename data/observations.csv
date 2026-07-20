@@ -58,3 +58,7 @@ hormuz_transits,2026-07-15,7.0,daily_count,Kpler via AP/US News: 7 vessels 07-15
 brent,2026-07-17,88.10,settle,Brent settle +4.6% on Kuwait desalination plant strike and Red Sea risk (CNBC); Trading Economics showed 85.95 intraday - CNBC settle used
 wti,2026-07-17,82.49,settle,WTI settle +4.5% (CNBC); week +10%+
 hormuz_transits,2026-07-16,8.0,daily_count,Kpler via CNBC: 8 transits 07-16 only 3 commodity vessels fewest since May; same series puts 07-15 at 15 vs AP 7 - counting bases still inconsistent
+brent,2026-07-20,88.59,settle,Brent settle +0.51% after intraday spike above 91 faded on mediation proposals (Forbes Advisor; Yahoo Finance)
+wti,2026-07-20,82.21,settle,WTI settle -0.34% (Trading Economics)
+kospi,2026-07-20,6516.27,close,KOSPI -4.46% close chip-led; foreigners and retail net buyers institutions sold (Newspim)
+usdkrw,2026-07-20,1478.4,close,won close -0.1 vs Friday no intervention (Newspim)

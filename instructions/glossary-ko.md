@@ -6,7 +6,7 @@ Pinned Korean renderings for recurring terms, so the Korean edition uses identic
 
 Register: analytical written style, 한다체 (plain reportive). Numbers in Arabic numerals with Korean units where natural (약 8,470만 배럴, 10억 달러). Outlet names stay in their original form ([Al Jazeera](...), [Bloomberg](...)); links unchanged. Confidence ratings: **신뢰도: 높음 / 중간 / 낮음**.
 
-_Last updated: 2026-07-20_
+_Last updated: 2026-07-21_
 
 ---
 
@@ -193,3 +193,19 @@ _Last updated: 2026-07-20_
 | one way attack drone (kamikaze drone) | 자폭 드론 |
 | licensing regime (transit) | (통항) 허가제 |
 | UKMTO | 영국 해사무역기구(UKMTO) |
+| maritime embargo (Houthi, vs Saudi Arabia) | 해상 금수 조치 |
+| Yahya Saree (Houthi military spokesman) | 야히야 사리아 |
+| Masoud Pezeshkian | 마수드 페제시키안 |
+| Esmaeil Baghaei (Iran MFA spokesman) | 에스마일 바가이 |
+| Mohammad Marandi | 모하마드 마란디 |
+| Joseph Aoun (Lebanese president) | 조제프 아운 |
+| Srifa (Lebanon) | 스리파 |
+| Tabriz | 타브리즈 |
+| Bushehr | 부셰르 |
+| Konarak | 코나라크 |
+| Bandar Mahshahr / Bandar Imam Khomeini | 반다르 마샤흐르 / 반다르 이맘 호메이니 |
+| Eilat | 에일라트 |
+| Ramon airport (Israel) | 라몬 공항 |
+| Tyler Feehan / Isabella Gonzales | 타일러 피핸 / 이사벨라 곤잘레스 |
+| Marco Rubio | 마르코 루비오 |
+| SUMED pipeline | SUMED(수메드) 파이프라인 |
