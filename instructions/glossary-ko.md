@@ -6,7 +6,7 @@ Pinned Korean renderings for recurring terms, so the Korean edition uses identic
 
 Register: analytical written style, 한다체 (plain reportive). Numbers in Arabic numerals with Korean units where natural (약 8,470만 배럴, 10억 달러). Outlet names stay in their original form ([Al Jazeera](...), [Bloomberg](...)); links unchanged. Confidence ratings: **신뢰도: 높음 / 중간 / 낮음**.
 
-_Last updated: 2026-07-21_
+_Last updated: 2026-07-22_
 
 ---
 
@@ -211,3 +211,17 @@ _Last updated: 2026-07-21_
 | Tyler Feehan / Isabella Gonzales | 타일러 피핸 / 이사벨라 곤잘레스 |
 | Marco Rubio | 마르코 루비오 |
 | SUMED pipeline | SUMED(수메드) 파이프라인 |
+| Kaifan (tanker) | 카이판호 |
+| Kuwait Oil Tanker Company (KOTC) | 쿠웨이트유조선회사(KOTC) |
+| Limah (Oman) | 리마 |
+| Shin Long Yang (VLCC) | 신룽양호 |
+| Mohammad Totonchi (Iranian ambassador to Kuwait) | 모하마드 토톤치 |
+| Amazon Web Services (AWS) / data center region | 아마존웹서비스(AWS) / 데이터센터 리전 |
+| hyperscaler | 하이퍼스케일러(초대형 클라우드 사업자) |
+| Muharraq / Riffa (Bahrain) | 무하라크 / 리파 |
+| Operation Nasr | 나스르 작전 |
+| Suez Canal | 수에즈 운하 |
+| Aframax (tanker class) | 아프라막스급 (유조선) |
+| warning shots | 경고 사격 |
+| Shiraz / Isfahan | 시라즈 / 이스파한 |
+| Spangdahlem / Lakenheath (air bases) | 슈팡달렘 / 레이큰히스 (공군기지) |

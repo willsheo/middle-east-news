@@ -62,3 +62,7 @@ brent,2026-07-20,88.59,settle,Brent settle +0.51% after intraday spike above 91 
 wti,2026-07-20,82.21,settle,WTI settle -0.34% (Trading Economics)
 kospi,2026-07-20,6516.27,close,KOSPI -4.46% close chip-led; foreigners and retail net buyers institutions sold (Newspim)
 usdkrw,2026-07-20,1478.4,close,won close -0.1 vs Friday no intervention (Newspim)
+brent,2026-07-21,91.05,intraday,Brent +2.1% five week high late session print 13:26 EDT on Kaifan strike and Houthi embargo bite (Reuters via BNN Bloomberg; near settle not official settle)
+wti,2026-07-21,85.15,intraday,WTI +2.3% late session print (Reuters via BNN Bloomberg)
+kospi,2026-07-21,6747.95,close,KOSPI +3.56% close chip-led rebound; foreigners net +596bn won (Asia Business Daily; Businesskorea)
+usdkrw,2026-07-21,1473.4,close,won close -5.0 strongest of crisis period no intervention (Businesskorea)

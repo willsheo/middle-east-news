@@ -30,9 +30,9 @@ _Last updated: July 20, 2026_
 | Strategic reserve coverage remaining | ~26 days of actual consumption (estimate) | Jul 2026 | CSIS; treat as estimate, Medium confidence |
 | Supplementary budget | ~$17 billion passed | Jul 2026 | CSIS |
 | Refiners' joint task force | Four major refiners coordinating supply | Mar 2026 | UPI |
-| July–August crude procurement | 100%+ of prior-year volume secured; MOTIE holding government reserve release in hand for further deterioration | Jul 2026 | MOTIE emergency supply meeting via Asia Business Daily; S&P Global |
+| July–August crude procurement | 110%+ of prior-year volume secured (revised up from 100%+ on Jul 21); MOTIE holding government reserve release in hand for further deterioration | Jul 21, 2026 | MOTIE announcement via Herald Business, Youth Daily; earlier MOTIE emergency supply meeting via Asia Business Daily; S&P Global |
 | Red Sea detour routing for crude | 15 Korean tankers to date have routed crude via the Red Sea to avoid Hormuz (15th confirmed Jul 19 by MOF; loadings at Yanbu, Saudi Arabia); shipping companies advised against new Hormuz entries; government calls the route "the most realistic option for the time being". NOTE: this workaround transits Bab el-Mandeb and is directly exposed to a Houthi closure | Jul 2026 | MOF via MBC, Seoul Shinmun (Jul 19); Korea Times, KJD; MOTIE via Asia Business Daily; S&P Global |
-| September crude procurement | 76% secured as of Jul 14 | Jul 2026 | Seoul Economic Daily |
+| September crude procurement | ~90% secured as of Jul 21 (up from 76% on Jul 14); MOTIE states supply stable through September while flagging Red Sea blockade risk and reviewing alternative routes | Jul 21, 2026 | MOTIE via Herald Business, Youth Daily; Seoul Economic Daily (Jul 14 baseline) |
 | LNG cargo swaps | KOGAS seeking Atlantic FOB for Pacific DES swaps to cover July cargoes | Jul 2026 | Argus |
 | Nuclear restarts | Accelerated approvals | Jun 2026 | CSIS |
 
