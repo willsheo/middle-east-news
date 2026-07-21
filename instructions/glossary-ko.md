@@ -50,7 +50,9 @@ _Last updated: 2026-07-21_
 | war-risk insurance premium | 전쟁위험 보험료 |
 | chokepoint | 초크포인트(전략적 요충 수로) |
 | escort | 호위 |
-| IRGC | 이란 혁명수비대(IRGC) |
+| IRGC | 이란 혁명수비대(IRGC) — 첫 등장 시 전체 표기, 이후 혁명수비대 (연합뉴스 관행). 본문에 맨 IRGC로 쓰지 않는다 |
+| IRGC Navy | 이란 혁명수비대 해군 (이후 혁명수비대 해군) |
+| Artesh (regular Iranian army) | 이란 정규군(아르테시) |
 | CENTCOM | 미 중부사령부(CENTCOM) |
 | Supreme Leader | 최고지도자 |
 | succession | 후계 구도 |
