@@ -1,0 +1,79 @@
+name,lat,lon,category,name_ko
+Tehran,35.70,51.42,capital,테헤란
+Bandar Abbas,27.18,56.28,port,반다르아바스
+Qeshm,26.95,56.27,site,케슘섬
+Jask,25.64,57.77,port,자스크
+Sirik,26.51,57.10,site,시리크
+Chabahar,25.29,60.64,port,차바하르
+Konarak,25.36,60.39,site,코나라크
+Bandar Mahshahr,30.56,49.20,port,반다르 마샤흐르
+Bandar Imam Khomeini,30.43,49.08,port,반다르 이맘 호메이니
+Bandar Khamir,26.95,55.59,port,반다르 하미르
+Tabriz,38.08,46.29,city,타브리즈
+Bushehr,28.92,50.84,site,부셰르
+Natanz,33.72,51.91,site,나탄즈
+Fordow,34.88,50.99,site,포르도
+Isfahan,32.65,51.67,city,이스파한
+Shiraz,29.59,52.58,city,시라즈
+Darkhovin,30.17,48.34,site,다르호빈
+Kharg Island,29.23,50.32,port,하르그섬
+Yazd,31.90,54.37,city,야즈드
+Semnan,35.58,53.40,site,셈난
+Omidiyeh,30.75,49.71,site,오미디예
+Iranshahr,27.20,60.68,city,이란샤르
+Pickaxe Mountain,33.70,51.90,site,픽액스 마운틴
+Kish Island,26.56,53.98,site,키시섬
+Strait of Hormuz,26.57,56.25,strait,호르무즈 해협
+Bab el-Mandeb,12.58,43.33,strait,바브엘만데브 해협
+Limah,25.95,56.35,port,리마
+Baghdad,33.31,44.36,capital,바그다드
+Kuwait City,29.38,47.99,capital,쿠웨이트시티
+Shuaiba,29.05,48.13,site,슈아이바
+Mina Abdullah,29.03,48.14,port,미나 압둘라
+Mina al-Ahmadi,29.07,48.16,port,미나 알아흐마디
+Ali Al Salem Air Base,29.35,47.52,base,알리 알살렘 공군기지
+Camp Udairi,29.85,47.42,base,캠프 우다이리
+Riyadh,24.71,46.68,capital,리야드
+Yanbu,24.09,38.06,port,얀부
+Jeddah,21.49,39.19,port,지다
+Abha,18.22,42.51,city,아브하
+Manama,26.23,50.58,capital,마나마
+Muharraq,26.26,50.61,site,무하라크
+Riffa,26.13,50.55,site,리파
+Sheikh Isa Air Base,25.92,50.59,base,셰이크 이사 공군기지
+Doha,25.29,51.53,capital,도하
+Ras Laffan,25.90,51.61,port,라스라판
+Al Udeid Air Base,25.12,51.32,base,알우데이드 공군기지
+Abu Dhabi,24.45,54.38,capital,아부다비
+Dubai,25.20,55.27,city,두바이
+Jebel Ali,25.01,55.06,port,제벨 알리
+Al Dhafra Air Base,24.25,54.55,base,알다프라 공군기지
+Das Island,25.14,52.87,site,다스섬
+Barakah,23.97,52.19,site,바라카
+Muscat,23.59,58.41,capital,무스카트
+Sanaa,15.35,44.21,capital,사나
+Hodeidah,14.80,42.95,port,호데이다
+Mukalla,14.54,49.13,port,무칼라
+Aden,12.79,45.04,port,아덴
+Amman,31.95,35.93,capital,암만
+Aqaba,29.53,35.01,port,아카바
+Muwaffaq Salti Air Base,31.83,36.78,base,무와파크 살티 공군기지
+Prince Hassan Air Base,32.16,37.15,base,프린스 하산 공군기지
+Jerusalem,31.78,35.22,capital,예루살렘
+Tel Aviv,32.08,34.78,city,텔아비브
+Eilat,29.56,34.95,city,에일라트
+Ramon Airport,29.72,35.01,site,라몬 공항
+Gaza City,31.50,34.47,city,가자시티
+Deir al-Balah,31.42,34.35,city,데이르알발라
+Rafah,31.29,34.25,city,라파
+Khan Yunis,31.34,34.30,city,칸유니스
+Beirut,33.89,35.50,capital,베이루트
+Froun,33.22,35.42,site,프룬
+Srifa,33.19,35.36,site,스리파
+Zawtar al-Gharbiyeh,33.36,35.44,site,자우타르 알가르비예
+Zawtar al-Sharqiyeh,33.37,35.47,site,자우타르 알샤르키예
+Ghandouriyeh,33.24,35.40,site,간두리예
+Tebnine,33.20,35.40,site,테브니네
+Damascus,33.51,36.29,capital,다마스쿠스
+Cairo,30.04,31.24,capital,카이로
+Suez,30.00,32.55,strait,수에즈

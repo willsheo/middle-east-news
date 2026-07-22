@@ -41,6 +41,13 @@ Formatting rules for daily briefs, per user preference (2026-07-14; extended 202
 
 11. **Korea exposure constants.** `instructions/korea-exposure.md` (and PDF) is the standing reference for Korea's structural exposure numbers (import shares, mitigation measures, corporate exposure, financial reference points). Cite it instead of re-deriving baselines; update it (and regenerate the PDF) when a Tier 1/2 source materially revises a figure, and review it monthly.
 
+14. **Section 1 locator map** (user request, 2026-07-22). Every daily brief carries a small Middle East map floated to the right at the top of Section 1, marking only the handful of places that carry that day's developments. **Err toward fewer** — the map orients the reader, it is not a gazetteer of every name mentioned; a typical day marks four to eight places, and clustered names (e.g. several south Lebanon villages) collapse to one representative marker. Mechanics:
+
+    - **Place list lives in the front matter** as `map_places: ["Strait of Hormuz", "Yanbu", ...]`. Every name must exist in `data/places.csv` — the coordinate gazetteer (`name,lat,lon,category,name_ko`). When a brief discusses a place not yet in the gazetteer, add a row the same day with accurate lat/lon, a `category` (capital/city/port/base/site/strait), and a Korean `name_ko` (consistent with `glossary-ko.md`).
+    - **Generate both images** each run: `python3 tools/make_map.py --date YYYY-MM-DD` and `python3 tools/make_map.py --date YYYY-MM-DD --lang ko`. With no `--places` argument the tool reads `map_places` from `deliverables/brief_YYYY-MM-DD.md`, writing `deliverables/charts/map_YYYY-MM-DD.png` and `map_YYYY-MM-DD_ko.png`. An unknown place name aborts the run rather than silently dropping a marker.
+    - **Embed** at the top of Section 1 (right after the `## 1.` heading, before `### 1.1`) as a right-floated `<figure>` — the English brief uses the plain PNG and an English caption, the Korean brief the `_ko` PNG and a Korean caption — and close the float with `<div style="clear:both;"></div>` before the final development so it never bleeds into Section 2. Commit the two map PNGs with the brief.
+    - **Base geography** is `data/geo/middle_east_countries.geojson`, a committed crop of Natural Earth 1:50m public-domain data (regenerate only via `tools/prep_basemap.py` if the country set or extent changes). The map renders offline with matplotlib alone — no network, no geospatial libraries — and the extent is fixed to the whole theater so the frame is stable day to day and only the markers move.
+
 ## Korean edition
 
 13. **Every deliverable is also published in Korean** (user preference, 2026-07-15): `brief_YYYY-MM-DD.ko.md` + `.ko.pdf` alongside the English pair (weekly: `weekly_YYYY-MM-DD.ko.md` + `.ko.pdf`). Rules:
@@ -67,7 +74,7 @@ Formatting rules for daily briefs, per user preference (2026-07-14; extended 202
 ## Standing structure (daily brief)
 
 - YAML front matter (rule 7), then title: `# Middle East Daily Briefing` with the date on its own bold line below, then the two summary bullets, then the corrections block when needed (rule 8).
-- 1. What Happened (3 to 5 developments, 2 to 3 sentences each, with sources and per-claim confidence)
+- 1. What Happened (3 to 5 developments, 2 to 3 sentences each, with sources and per-claim confidence; a right-floated locator map at the top per rule 14)
 - 2. Deep Dive: Incentives and Motives (question-form subsections)
 - 3. Policy Implications for South Korea (series chart, exposure snapshot, implications by development, testable falsifiable indicators with ledger IDs)
 - 4. Watch List (simmering issues)
