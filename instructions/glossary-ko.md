@@ -6,7 +6,7 @@ Pinned Korean renderings for recurring terms, so the Korean edition uses identic
 
 Register: analytical written style, 한다체 (plain reportive). Numbers in Arabic numerals with Korean units where natural (약 8,470만 배럴, 10억 달러). Outlet names stay in their original form ([Al Jazeera](...), [Bloomberg](...)); links unchanged. Confidence ratings: **신뢰도: 높음 / 중간 / 낮음**.
 
-_Last updated: 2026-07-22_
+_Last updated: 2026-07-23_
 
 ---
 
@@ -225,3 +225,17 @@ _Last updated: 2026-07-22_
 | warning shots | 경고 사격 |
 | Shiraz / Isfahan | 시라즈 / 이스파한 |
 | Spangdahlem / Lakenheath (air bases) | 슈팡달렘 / 레이큰히스 (공군기지) |
+| Pete Hegseth (US Defense Secretary) | 피트 헤그세스 (미 국방장관) |
+| Eskandar Momeni (Iran Interior Minister) | 에스칸다르 모메니 (이란 내무장관) |
+| Shehbaz Sharif (Pakistan PM) | 셰바즈 샤리프 (파키스탄 총리) |
+| Asim Munir (Pakistan army chief, Field Marshal) | 아심 무니르 (파키스탄 육군참모총장, 원수) |
+| Nawaf Salam (Lebanese PM) | 나와프 살람 (레바논 총리) |
+| Islamabad | 이슬라마바드 |
+| Islamabad memorandum of understanding | 이슬라마바드 양해각서 |
+| Naqoura (Lebanon) | 나쿠라 |
+| Beaufort Castle / Kfar Tebnit / Arnoun / Yuhmor / Al-Bayada (Lebanon) | 보포르 성 / 카프르 테브니트 / 아르눈 / 유흐무르 / 알바야다 |
+| Defense Casualty Analysis System (DCAS) | 국방부 사상자 분석 시스템(DCAS) |
+| emergency / supplemental funding (US Congress) | 긴급 예산(추가 예산) |
+| aircraft hangar / drone storage site | 항공기 격납고 / 드론 저장 시설 |
+| appropriations (Congress) | 세출 예산 |
+| war powers (resolution) | 전쟁권한(결의) |
