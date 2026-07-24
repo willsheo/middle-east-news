@@ -1,0 +1,122 @@
+observation_id,observation_start,observation_end,metric,value,unit,value_qualifier,aggregation,direction,cargo_scope,destination_scope,data_provider,source_ids,quality_flag,notes
+HO001,2025-01-01,2025-12-31,korea_import_share_via_hormuz,60,percent,more_than,annual_share,inbound,crude,South Korea,HD Hyundai Oilbank,H014,lower_bound,AP reported that South Korea imported more than 60% of its crude through Hormuz last year.
+HO002,2025-01-01,2025-12-31,korea_import_share_via_hormuz,50,percent,more_than,annual_share,inbound,naphtha,South Korea,HD Hyundai Oilbank,H014,lower_bound,AP reported that South Korea imported more than 50% of its naphtha through Hormuz last year.
+HO003,2026-01-01,2026-02-27,verified_crossings_all,138,vessels_per_day,approximate,daily_average,all,all,all,JMIC,H002,approximate,Pre-disruption daily traffic baseline reported by OilPrice.com.
+HO004,2026-01-01,2026-02-27,product_carrying_vessel_crossings,70,vessels_per_day,approximate,daily_average,all,oil_and_products,all,LSEG,H019,approximate,Reuters/LSEG prewar average for product-carrying vessels.
+HO005,2026-01-01,2026-02-27,verified_crossings_all,100,vessels_per_day,more_than,daily_average,all,all,all,S&P Global Commodities at Sea,H025,lower_bound,S&P Global prewar all-vessel baseline.
+HO006,2026-01-01,2026-02-27,oil_volume,20,million_bbl_per_day,approximate,daily_average,outbound,oil,all,S&P Global Commodity Insights,H025,approximate,Prewar oil-flow baseline.
+HO007,2026-03-01,2026-03-01,tanker_crossings,1,vessels,exact,daily_total,all,tanker,all,Kpler,H001,exact,Only one tanker was observed passing on Sunday.
+HO008,2026-03-05,2026-03-05,verified_crossings_all,2,vessels,exact,rolling_24h,all,all,all,JMIC,H002,partial_window,Rolling 24 hours to Thursday.
+HO009,2026-03-05,2026-03-05,tanker_crossings,0,vessels,exact,rolling_24h,all,tanker,all,JMIC,H002,partial_window,Neither of the two vessels was a tanker.
+HO010,2026-03-01,2026-03-18,verified_crossings_all,90,vessels,approximate,period_total,all,all,all,Kpler,H003,aggregate_only,AP reported about 90 ships since the war began.
+HO011,2026-03-01,2026-03-18,oil_volume,16,million_bbl,more_than,period_total,outbound,oil,all,Kpler,H003,lower_bound,AP reported more than 16 million barrels since the start of March.
+HO012,2026-03-01,2026-03-23,commodity_vessel_crossings,138,vessels,exact,period_total,all,commodity,all,Kpler,H004,aggregate_only,AFP tally through 04:00 GMT on March 23.
+HO013,2026-03-01,2026-03-23,tanker_crossings,87,vessels,exact,period_total,all,oil_and_gas_tanker,all,Kpler,H004,aggregate_only,Oil and gas tankers within the commodity-carrier tally.
+HO014,2026-03-23,2026-03-23,lpg_carrier_crossings,2,vessels,exact,point_in_time,all,lpg,all,Kpler,H004,partial_window,Two further LPG tankers were reported after the 04:00 GMT tally.
+HO015,2026-03-23,2026-03-23,other_energy_carrier_crossings,1,vessels,exact,point_in_time,all,methane_or_oil,all,Kpler,H004,partial_window,One further methane or oil carrier was reported after the tally.
+HO016,2026-03-01,2026-03-31,verified_crossings_all,220,vessels,exact,monthly_total,all,all,all,Kpler,H005,aggregate_only,Kpler March total reported by Anadolu.
+HO017,2026-03-01,2026-03-31,liquid_tanker_crossings,111,vessels,exact,monthly_total,all,liquid_tanker,all,Kpler,H005,aggregate_only,March liquid-tanker total.
+HO018,2026-03-01,2026-03-31,dry_bulk_crossings,82,vessels,exact,monthly_total,all,dry_bulk,all,Kpler,H005,aggregate_only,March dry-bulk total.
+HO019,2026-03-01,2026-03-31,lpg_carrier_crossings,27,vessels,exact,monthly_total,all,lpg,all,Kpler,H005,aggregate_only,March LPG-carrier total.
+HO020,2026-03-01,2026-03-31,lng_carrier_crossings,0,vessels,exact,monthly_total,all,lng,all,Kpler,H005,exact,Anadolu/Kpler explicitly reported zero LNG carriers in March.
+HO021,2026-03-01,2026-03-31,verified_crossings_all,149,vessels,exact,monthly_total,outbound,all,all,Kpler,H005,aggregate_only,March outbound crossings.
+HO022,2026-03-01,2026-03-31,verified_crossings_all,71,vessels,exact,monthly_total,inbound,all,all,Kpler,H005,aggregate_only,March inbound crossings.
+HO023,2026-03-01,2026-03-11,oil_volume,16.5,million_bbl,approximate,period_total,outbound,iranian_crude,all,Kpler,H006,approximate,Reuters/Kpler estimate of Iranian exports in the first 11 days of March.
+HO024,2026-03-14,2026-03-14,verified_crossings_all,7,vessels,exact,daily_total,all,all,all,Kpler,H009,exact,Historical Kpler daily count cited by OPIS.
+HO025,2026-04-07,2026-04-07,verified_crossings_all,14,vessels,exact,daily_total,all,all,all,Kpler,H009,exact,Kpler daily count cited by OPIS.
+HO026,2026-04-09,2026-04-09,verified_crossings_all,6,vessels,exact,rolling_24h,all,all,all,Kpler,H007,conflict,Reuters reported 1 oil-products tanker and 5 dry-bulk vessels.
+HO027,2026-04-09,2026-04-09,verified_crossings_all,7,vessels,exact,daily_total,all,all,all,Kpler,H008,conflict,AP reported 4 tankers and 3 bulk carriers.
+HO028,2026-04-09,2026-04-09,oil_product_tanker_crossings,1,vessels,exact,rolling_24h,all,oil_product,all,Kpler,H007,conflict,Tanker component of Reuters count.
+HO029,2026-04-09,2026-04-09,tanker_crossings,4,vessels,exact,daily_total,all,tanker,all,Kpler,H008,conflict,Tanker component of AP count.
+HO030,2026-04-12,2026-04-12,verified_crossings_all,12,vessels,exact,daily_total,all,all,all,Kpler,H009,exact,Kpler daily count cited by OPIS.
+HO031,2026-04-13,2026-04-13,verified_crossings_all,7,vessels,exact,daily_total,all,all,all,Kpler,H009,exact,Kpler daily count cited by OPIS.
+HO032,2026-04-13,2026-04-13,korea_bound_energy_crossings,1,vessels,exact,daily_total,outbound,crude,South Korea,Kpler,H013;H014,exact,Odessa passed outbound for Hyundai Oilbank and later arrived off Seosan.
+HO033,2026-04-13,2026-04-13,korea_bound_oil_volume,1,million_bbl,exact,daily_total,outbound,crude,South Korea,HD Hyundai Oilbank,H014,exact,AP confirmed Odessa carried 1 million barrels of crude.
+HO034,2026-04-14,2026-04-14,verified_crossings_all,6,vessels,exact,daily_total,all,all,all,Kpler,H009,conflict,OPIS/Kpler count: 3 inbound and 3 outbound.
+HO035,2026-04-14,2026-04-14,verified_crossings_all,8,vessels,exact,daily_total,all,all,all,Kpler,H010,conflict,AP/Kpler count for the first full blockade day.
+HO036,2026-04-14,2026-04-14,tanker_crossings,3,vessels,exact,daily_total,all,tanker,all,Kpler,H009,conflict,"Three of OPIS's six vessels were crude, chemical, or product tankers."
+HO037,2026-02-28,2026-04-12,verified_crossings_all,279,vessels,exact,period_total,all,all,all,Kpler,H011,aggregate_only,Al Jazeera/Kpler cumulative tally.
+HO038,2026-04-08,2026-04-12,verified_crossings_all,45,vessels,exact,period_total,all,all,all,Kpler,H011,aggregate_only,Crossings since April 8 through April 12.
+HO039,2026-02-28,2026-04-12,attacked_vessels,22,vessels,exact,cumulative_total,all,all,all,Kpler,H011,aggregate_only,Ships reported attacked in the period.
+HO040,2026-04-18,2026-04-18,verified_crossings_all,20,vessels,more_than,daily_total,all,all,all,Kpler,H012,lower_bound,Reuters reported more than 20 crossings.
+HO041,2026-04-18,2026-04-18,lpg_carrier_crossings,3,vessels,exact,daily_total,all,lpg,all,Kpler,H012,exact,LPG carriers within the daily crossings.
+HO042,2026-04-20,2026-04-20,verified_crossings_all,3,vessels,exact,rolling_12h,all,all,all,Kpler,H015,partial_window,Reuters reported 3 crossings in a 12-hour window.
+HO043,2026-04-20,2026-04-20,oil_product_tanker_crossings,1,vessels,exact,rolling_12h,all,oil_product,all,Kpler,H015,partial_window,Nero was identified among the partial-window crossings.
+HO044,2026-04-27,2026-04-27,verified_crossings_all,7,vessels,at_least,rolling_24h,all,all,all,Kpler,H016,partial_window,At least 7 crossings in the previous 24 hours.
+HO045,2026-04-29,2026-04-29,verified_crossings_all,6,vessels,at_least,rolling_24h,all,all,all,Kpler,H017,partial_window,At least 6 crossings in the previous 24 hours.
+HO046,2026-04-01,2026-04-30,verified_crossings_all,191,vessels,exact,monthly_total,all,all,all,Kpler,H018,aggregate_only,CNN/Kpler April total.
+HO047,2026-03-01,2026-05-28,product_carrying_vessel_crossings,7,vessels_per_day,less_than,daily_average,all,oil_and_products,all,LSEG,H019,upper_bound,Reuters/LSEG average since March 1.
+HO048,2026-05-01,2026-05-28,product_carrying_vessel_crossings,6,vessels_per_day,less_than,daily_average,all,oil_and_products,all,LSEG,H019,upper_bound,Reuters/LSEG May average.
+HO049,2026-03-01,2026-05-28,middle_east_crude_exports,36,million_metric_tonnes_per_month,approximate,monthly_average,outbound,crude,all,Kpler,H019,approximate,Kpler regional crude-export average since March versus about 75 normally.
+HO050,2026-05-15,2026-05-15,commodity_vessel_crossings,5,vessels,exact,daily_total,all,commodity,all,Bloomberg vessel tracking,H020,exact,Cargo-vessel crossings compiled by Bloomberg.
+HO051,2026-05-16,2026-05-16,commodity_vessel_crossings,10,vessels,exact,daily_total,all,commodity,all,Bloomberg vessel tracking,H020,exact,Cargo-vessel crossings compiled by Bloomberg.
+HO052,2026-05-17,2026-05-17,commodity_vessel_crossings,0,vessels,exact,point_in_time,all,commodity,all,Bloomberg vessel tracking,H020,partial_window,No crossing observed by Sunday morning; not a full-day zero.
+HO053,2026-05-20,2026-05-20,verified_crossings_all,10,vessels,around,rolling_24h,all,all,all,Kpler,H021,partial_window,Around 10 vessels in the previous 24 hours.
+HO054,2026-05-20,2026-05-20,crude_tanker_crossings,3,vessels,exact,rolling_24h,outbound,crude,all,Kpler,H021,partial_window,Three outbound VLCCs.
+HO055,2026-05-20,2026-05-20,oil_volume,6,million_bbl,exact,rolling_24h,outbound,crude,all,Kpler,H021,partial_window,Cargo on the three outbound VLCCs.
+HO056,2026-05-20,2026-05-20,crude_tanker_crossings,1,vessels,exact,rolling_24h,inbound,crude,all,Kpler,H021,partial_window,One VLCC entered the Gulf.
+HO057,2026-05-20,2026-05-20,korea_bound_energy_crossings,1,vessels,exact,daily_total,outbound,crude,"Ulsan, South Korea",Kpler,H021,exact,Korea-flagged Universal Winner was bound for Ulsan.
+HO058,2026-05-20,2026-05-20,korea_bound_oil_volume,2,million_bbl,exact,daily_total,outbound,crude,"Ulsan, South Korea",Kpler,H021,exact,Universal Winner carried 2 million barrels of Kuwaiti crude.
+HO059,2026-05-25,2026-05-25,lng_carrier_crossings,2,vessels,exact,daily_total,all,lng,Asia,Kpler,H022,exact,Two LNG carriers transited toward Asia.
+HO060,2026-05-25,2026-05-25,crude_tanker_crossings,1,vessels,exact,daily_total,outbound,crude,Asia,Kpler,H022,exact,One supertanker carrying Iraqi crude exited.
+HO061,2026-05-29,2026-05-29,verified_crossings_all,7,vessels,exact,daily_total,all,all,all,Kpler,H023,exact,CNN/Kpler count.
+HO062,2026-05-29,2026-05-29,verified_crossings_all,5,vessels,exact,daily_total,inbound,all,all,Kpler,H023,exact,Inbound component of daily count.
+HO063,2026-05-29,2026-05-29,verified_crossings_all,2,vessels,exact,daily_total,outbound,all,all,Kpler,H023,exact,Outbound component of daily count.
+HO064,2026-05-29,2026-05-29,oil_product_tanker_crossings,1,vessels,exact,daily_total,outbound,oil_product,all,Kpler,H024,exact,STI Elysees exited the strait.
+HO065,2026-05-30,2026-05-30,oil_product_tanker_crossings,1,vessels,exact,daily_total,outbound,oil_product,all,Kpler,H024,exact,Cy Victorious exited the strait.
+HO066,2026-05-30,2026-05-30,oil_volume,0.508,million_bbl,more_than,daily_total,outbound,oil_product,all,Kpler,H024,lower_bound,"Cy Victorious carried more than 508,000 barrels."
+HO067,2026-05-20,2026-05-31,verified_crossings_all,11,vessels_per_day,approximate,daily_average,all,all,all,S&P Global Commodities at Sea,H025,approximate,Late-May all-vessel average.
+HO068,2026-05-20,2026-05-31,tanker_crossings,2,vessels_per_day,less_than,daily_average,all,tanker,all,S&P Global Commodities at Sea,H025,upper_bound,Late-May tanker average.
+HO069,2026-06-17,2026-06-17,verified_crossings_all,6,vessels,exact,daily_total,all,all,all,Kpler,H026,exact,AP/Kpler daily count.
+HO070,2026-06-18,2026-06-18,verified_crossings_all,11,vessels,exact,daily_total,all,all,all,Kpler,H026,conflict,AP/Kpler snapshot.
+HO071,2026-06-18,2026-06-18,verified_crossings_all,25,vessels,exact,daily_total,all,commercial,all,Kpler,H027,conflict,Anadolu/Kpler commercial-vessel count.
+HO072,2026-06-19,2026-06-21,verified_crossings_all,71,vessels,exact,period_total,all,all,all,Kpler,H028,aggregate_only,AP/Kpler weekend total.
+HO073,2026-06-20,2026-06-20,verified_crossings_all,35,vessels,exact,daily_total,all,all,all,Kpler,H028,conflict,AP/Kpler daily peak.
+HO074,2026-06-20,2026-06-20,verified_crossings_all,26,vessels,exact,daily_total,all,all,all,Kpler,H029,conflict,Reuters/Kpler daily count.
+HO075,2026-06-20,2026-06-20,crude_tanker_crossings,3,vessels,exact,daily_total,outbound,crude,all,Kpler,H029,exact,Three crude VLCC exits.
+HO076,2026-06-20,2026-06-20,oil_product_tanker_crossings,3,vessels,exact,daily_total,outbound,oil_product,all,Kpler,H029,exact,Three product-tanker exits.
+HO077,2026-06-21,2026-06-21,verified_crossings_all,5,vessels,exact,daily_total,all,all,all,Kpler,H029,exact,Reuters/Kpler daily count.
+HO078,2026-06-19,2026-06-21,verified_crossings_all,92,vessels,approximate,period_total,all,all,all,Kpler,H030,aggregate_only,AP reported about 92 crossings over the weekend in a later tally.
+HO079,2026-06-22,2026-06-22,verified_crossings_all,39,vessels,exact,daily_total,all,all,all,Kpler,H030,exact,AP/Kpler daily count.
+HO080,2026-06-22,2026-06-22,crude_tanker_crossings,2,vessels,exact,daily_total,outbound,crude,all,Kpler,H032,exact,Two outbound crude tankers.
+HO081,2026-06-22,2026-06-22,oil_volume,2,million_bbl,less_than,daily_total,outbound,crude,all,Kpler,H032,upper_bound,Outbound tankers carried just under 2 million barrels.
+HO082,2026-06-22,2026-06-22,crude_tanker_crossings,2,vessels,exact,daily_total,inbound,crude,all,Kpler,H032,exact,Two inbound supertankers.
+HO083,2026-06-22,2026-06-22,inbound_tanker_capacity,4,million_bbl,maximum,daily_total,inbound,crude,all,Kpler,H032,upper_bound,Combined maximum capacity; not confirmed loaded cargo.
+HO084,2026-06-23,2026-06-23,verified_crossings_all,31,vessels,exact,daily_total,all,all,all,Kpler,H031,exact,Anadolu/Kpler verified-crossing count.
+HO085,2026-06-24,2026-06-24,verified_crossings_all,70,vessels,exact,daily_total,all,commercial,all,Kpler,H033,conflict,Anadolu/Kpler daily count.
+HO086,2026-06-24,2026-06-24,verified_crossings_all,74,vessels,exact,daily_total,all,all,all,Kpler,H037,conflict,Kpler-based media report gave a higher peak.
+HO087,2026-06-24,2026-06-24,tanker_crossings,27,vessels,exact,daily_total,all,tanker,all,Kpler,H035,exact,Reuters/Kpler tanker total in both directions.
+HO088,2026-06-24,2026-06-24,crude_tanker_crossings,6,vessels,exact,daily_total,outbound,oil,all,Kpler,H034,exact,Six outbound oil tankers.
+HO089,2026-06-24,2026-06-24,oil_volume,10.8,million_bbl,exact,daily_total,outbound,oil,all,Kpler,H034,exact,Cargo on the six outbound tankers.
+HO090,2026-06-22,2026-06-22,korea_operated_crossings,2,vessels,exact,daily_total,all,all,all,South Korean government,H036,exact,First group of Korean-operated passages after the ceasefire.
+HO091,2026-06-24,2026-06-24,korea_operated_crossings,4,vessels,exact,daily_total,all,all,all,South Korean government,H036,exact,Second group of Korean-operated passages.
+HO092,2026-06-24,2026-06-24,korea_bound_energy_crossings,1,vessels,exact,daily_total,outbound,crude,"Yeosu, South Korea",South Korean government,H036,exact,One crude tanker was bound for Yeosu.
+HO093,2026-06-24,2026-06-24,korea_bound_oil_volume,2,million_bbl,exact,daily_total,outbound,crude,"Yeosu, South Korea",South Korean government,H036,exact,Korea-bound tanker carried 2 million barrels.
+HO094,2026-06-25,2026-06-25,tanker_crossings,24,vessels,exact,daily_total,all,tanker,all,Kpler,H035,exact,Reuters/Kpler tanker total in both directions.
+HO095,2026-06-25,2026-06-25,crude_tanker_crossings,6,vessels,exact,daily_total,outbound,oil,all,Kpler,H034,exact,Six outbound oil tankers.
+HO096,2026-06-25,2026-06-25,oil_volume,10,million_bbl,exact,daily_total,outbound,oil,all,Kpler,H034,exact,Cargo on the six outbound tankers.
+HO097,2026-06-26,2026-06-26,tanker_crossings,13,vessels,exact,daily_total,all,tanker,all,Kpler,H035,exact,Reuters/Kpler tanker total in both directions.
+HO098,2026-06-28,2026-06-28,verified_crossings_all,22,vessels,exact,daily_total,all,all,all,Kpler,H037,exact,Kpler-based media count.
+HO099,2026-07-03,2026-07-05,verified_crossings_all,108,vessels,exact,period_total,all,all,all,Kpler,H038,aggregate_only,Al Jazeera/Kpler three-day total.
+HO100,2026-07-06,2026-07-06,verified_crossings_all,36,vessels,exact,daily_total,all,all,all,Kpler,H039,exact,AP/Kpler daily count.
+HO101,2026-07-07,2026-07-07,verified_crossings_all,41,vessels,exact,daily_total,all,all,all,Kpler,H039,conflict,AP/Kpler daily count.
+HO102,2026-07-07,2026-07-07,verified_crossings_all,49,vessels,exact,daily_total,all,all,all,Kpler,H040,conflict,The National/Kpler daily count.
+HO103,2026-07-08,2026-07-08,verified_crossings_all,30,vessels,exact,daily_total,all,all,all,Kpler,H040,exact,The National/Kpler daily count.
+HO104,2026-07-09,2026-07-09,verified_crossings_all,22,vessels,exact,daily_total,all,all,all,Kpler,H040,exact,The National/Kpler daily count.
+HO105,2026-07-12,2026-07-12,tanker_crossings,6,vessels,exact,daily_total,all,tanker,all,Kpler,H041,exact,Reuters/Kpler two-month low for tankers.
+HO106,2026-07-12,2026-07-12,verified_crossings_all,14,vessels,exact,daily_total,all,all,all,Kpler,H042,exact,Le Monde/Kpler all-vessel count.
+HO107,2026-07-12,2026-07-12,commodity_vessel_crossings,7,vessels,exact,daily_total,all,commercial,all,Kpler,H042,exact,Half of the 14 vessels were commercial.
+HO108,2026-07-14,2026-07-14,verified_crossings_all,13,vessels,exact,daily_total,all,all,all,Kpler,H043,conflict,Reuters/Kpler count.
+HO109,2026-07-14,2026-07-14,verified_crossings_all,21,vessels,exact,daily_total,all,all,all,Kpler,H044,conflict,Bloomberg/Kpler monitored-transit count.
+HO110,2026-07-15,2026-07-15,verified_crossings_all,9,vessels,exact,daily_total,all,all,all,Kpler,H043,exact,Reuters/Kpler count; most used the Iranian route.
+HO111,2026-07-16,2026-07-16,verified_crossings_all,8,vessels,exact,daily_total,all,all,all,Kpler,H045,exact,CNBC/Kpler daily count.
+HO112,2026-07-16,2026-07-16,commodity_vessel_crossings,3,vessels,exact,daily_total,all,commodity,all,Kpler,H045,exact,Commodity vessels within the daily count.
+HO113,2026-07-16,2026-07-16,iranian_route_crossings,7,vessels,exact,daily_total,all,all,all,Kpler,H045,exact,Seven of eight crossings used the Iranian route.
+HO114,2026-07-12,2026-07-16,lng_carrier_crossings,0,vessels,exact,period_total,all,lng,all,Kpler,H047,exact,LNG Prime reported no LNG carrier passage after July 11 through publication.
+HO115,2026-07-20,2026-07-20,commodity_vessel_crossings,4,vessels,exact,daily_total,all,commodity,all,Kpler,H046,exact,Reuters/Kpler commodity-vessel count.
+HO116,2026-07-21,2026-07-21,commodity_vessel_crossings,3,vessels,exact,daily_total,all,commodity,all,Kpler,H046,exact,Reuters/Kpler commodity-vessel count.
+HO117,2026-07-21,2026-07-21,lng_carrier_crossings,0,vessels,exact,daily_total,all,lng,all,Kpler,H046,exact,Reuters reported no visible LNG carrier.
+HO118,2026-07-21,2026-07-21,vlcc_crossings,0,vessels,exact,daily_total,all,crude_vlcc,all,Kpler,H046,exact,Reuters reported no visible VLCC.
+HO119,2026-07-21,2026-07-21,verified_crossings_all,9,vessels,exact,daily_total,all,all,all,MarineTraffic,H049,exact,Turkiye Today cited 9 verified crossings.
+HO120,2026-07-22,2026-07-22,verified_crossings_all,15,vessels,exact,daily_total,all,all,all,Kpler,H048,exact,National Security Journal/Kpler count.
+HO121,2026-07-22,2026-07-22,iranian_route_share,100,percent,exact,daily_share,all,all,all,Kpler,H048,exact,Every tracked vessel used the Iranian route.

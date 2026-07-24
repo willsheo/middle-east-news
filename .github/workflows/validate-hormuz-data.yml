@@ -1,0 +1,24 @@
+name: Validate Hormuz data
+
+on:
+  pull_request:
+    paths:
+      - data/hormuz_*.csv
+      - docs/hormuz_methodology.md
+      - scripts/validate_hormuz.mjs
+      - .github/workflows/validate-hormuz-data.yml
+  push:
+    branches: [main]
+    paths:
+      - data/hormuz_*.csv
+      - scripts/validate_hormuz.mjs
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - run: node scripts/validate_hormuz.mjs
