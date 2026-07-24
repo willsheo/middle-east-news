@@ -6,7 +6,7 @@ Pinned Korean renderings for recurring terms, so the Korean edition uses identic
 
 Register: analytical written style, 한다체 (plain reportive). Numbers in Arabic numerals with Korean units where natural (약 8,470만 배럴, 10억 달러). Outlet names stay in their original form ([Al Jazeera](...), [Bloomberg](...)); links unchanged. Confidence ratings: **신뢰도: 높음 / 중간 / 낮음**.
 
-_Last updated: 2026-07-23_
+_Last updated: 2026-07-24_
 
 ---
 
@@ -239,3 +239,15 @@ _Last updated: 2026-07-23_
 | aircraft hangar / drone storage site | 항공기 격납고 / 드론 저장 시설 |
 | appropriations (Congress) | 세출 예산 |
 | war powers (resolution) | 전쟁권한(결의) |
+| Abraham Accords | 아브라함 협정 |
+| civil nuclear cooperation agreement | 민간 원자력 협력 협정 |
+| uranium enrichment | 우라늄 농축 |
+| normalization (of relations) | (관계) 정상화 |
+| Encelia (tanker) | 엔셀리아호 |
+| Layla (tanker) | 라일라호 |
+| Al Aqsa | 알아크사 |
+| Chris Wright (US Energy Secretary) | 크리스 라이트 |
+| Prince Abdulaziz bin Salman | 압둘아지즈 빈 살만 왕자 |
+| Mohammed bin Salman (MBS) | 무함마드 빈 살만 |
+| Transport General Authority (Saudi) | 교통총국 |
+| Saudi Press Agency (SPA) | 사우디 국영통신(SPA) |
