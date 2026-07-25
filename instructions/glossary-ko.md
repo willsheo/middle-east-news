@@ -6,7 +6,7 @@ Pinned Korean renderings for recurring terms, so the Korean edition uses identic
 
 Register: analytical written style, 한다체 (plain reportive). Numbers in Arabic numerals with Korean units where natural (약 8,470만 배럴, 10억 달러). Outlet names stay in their original form ([Al Jazeera](...), [Bloomberg](...)); links unchanged. Confidence ratings: **신뢰도: 높음 / 중간 / 낮음**.
 
-_Last updated: 2026-07-24_
+_Last updated: 2026-07-25_
 
 ---
 
@@ -112,6 +112,17 @@ _Last updated: 2026-07-24_
 | procurement | 조달 |
 | Gulf states | 걸프 국가들 |
 | sovereign wealth fund | 국부펀드 |
+| sidecar (program-trading curb, KRX) | 사이드카 (프로그램매매 호가효력정지) |
+| circuit breaker (KRX) | 서킷브레이커 |
+| Philadelphia Semiconductor Index (SOX) | 필라델피아 반도체 지수(SOX) |
+| capital expenditure (capex) | 자본지출 |
+| AI capex / AI-related shares | AI 자본지출 / AI 관련주 |
+| chip beta (to a global repricing) | 반도체 베타 |
+| portfolio rotation | 포트폴리오 재배분 |
+| capital flight | 자본 이탈 |
+| repricing | 리프라이싱 (재평가) |
+| pullback / retreat (in price) | 후퇴 (되돌림) |
+| weekly advance / weekly gain | 주간 상승 |
 
 ## Institutions (기관)
 
@@ -251,3 +262,16 @@ _Last updated: 2026-07-24_
 | Mohammed bin Salman (MBS) | 무함마드 빈 살만 |
 | Transport General Authority (Saudi) | 교통총국 |
 | Saudi Press Agency (SPA) | 사우디 국영통신(SPA) |
+| licensing regime (Hormuz transit) | (호르무즈 통항) 허가 체제 |
+| escalation for escalation (Houthi formula) | 확전에는 확전으로 |
+| Saudi-led coalition | 사우디 주도 연합군 |
+| Hodeidah / Ras Issa / Salif (Yemeni ports) | 호데이다 / 라스이사 / 살리프 |
+| Kamaran Island | 카마란섬 |
+| Al Shuqaiq (Saudi Red Sea coast) | 알슈카이크 |
+| Khuzestan (province) | 후제스탄주 |
+| Erbil | 아르빌 |
+| Ali al-Zeidi (Iraqi PM) | 알리 알제이디 (이라크 총리) |
+| JD Vance (US Vice President) | JD 밴스 (미국 부통령) |
+| Marco Rubio (US Secretary of State) | 마코 루비오 (미국 국무장관) |
+| locked and loaded | 장전 완료 |
+| Military Coordination Group (Lebanon, US-led trilateral) | (미국 주도 3자) 군사조정그룹 |
