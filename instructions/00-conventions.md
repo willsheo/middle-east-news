@@ -35,7 +35,22 @@ Formatting rules for daily briefs, per user preference (2026-07-14; extended 202
 
 8. **Corrections block.** If a material claim in an earlier brief turns out wrong or superseded, add a `**Corrections and updates:**` block immediately after the two summary bullets, citing the original brief date. Omit the block entirely on clean days.
 
-9. **Time series and chart.** `data/observations.csv` is the file that actually drives the chart — it is the authoritative history, long format, one row per `(series, date)` observation (`series, date, value, basis, source`, where `series` is one of `brent, wti, kospi, usdkrw, hormuz_transits`). It already holds verified daily history back to **2026-01-01**, and `tools/make_charts.py` renders year-to-date from that start (`CHART_START`) using the accumulated file — **a normal day's run does not re-derive or re-research history; it only researches and appends the rows for the dates the day's window covers** (almost always just today, occasionally a backfill row for a metric reported a day or two late). Prefer settles/closes; a Kpler transit count reported "for July 13" gets a `date` of 07-13 even if learned on 07-15. When several observations exist for the same `(series, date)`, the best `basis` wins per `BASIS_RANK` in `tools/make_charts.py`: `settle`/`close`/`daily_count` (rank 5) > `intraday` (3) > `morning_quote` (2) > `monthly_avg`/`baseline` (1). Leave a metric unreported for the day rather than guessing or back-computing it.
+9. **Time series and chart.** Two kinds of file feed `tools/make_charts.py`, and the daily run only ever writes to the second.
+
+   **(a) Bulk daily history files** in `data/` give each panel its real day-to-day shape from `CHART_START` (2026-01-01) onward. These are wide-format, one row per calendar date, maintained outside the briefing run (bulk uploads, periodic refreshes) and wired into the chart through the `HISTORY` table in `tools/make_charts.py`:
+
+   | series | file | column |
+   | --- | --- | --- |
+   | brent, wti | `data/oil_prices_daily.csv` | `brent_usd`, `wti_usd` |
+   | usdkrw | `data/usdkrw_daily.csv` | `usdkrw_bok`, falling back to `usdkrw_fed_ny` |
+   | hormuz_transits | `data/hormuz_daily.csv` | `verified_crossings_all` |
+   | kospi | `data/kospi_daily.csv` | `kospi_close` (**file does not exist yet**) |
+
+   A history file that is absent is skipped, so the KOSPI panel currently plots from `observations.csv` alone and stays visibly sparse. Dropping a `data/kospi_daily.csv` with `date,kospi_close` columns into the repo is all that is needed to give that panel a daily line; no code change.
+
+   **(b) `data/observations.csv`** is the briefing's own curated log, long format, one row per `(series, date)` observation (`series, date, value, basis, source`, where `series` is one of `brent, wti, kospi, usdkrw, hormuz_transits`). **A normal day's run does not re-derive or re-research history; it only researches and appends the rows for the dates the day's window covers** (almost always just today, occasionally a backfill row for a metric reported a day or two late). Prefer settles/closes; a Kpler transit count reported "for July 13" gets a `date` of 07-13 even if learned on 07-15. When several observations exist for the same `(series, date)`, the best `basis` wins per `BASIS_RANK`: `settle`/`close`/`daily_count` (rank 5) > `intraday` (3) > `morning_quote` (2) > `monthly_avg`/`baseline` (1). Leave a metric unreported for the day rather than guessing or back-computing it.
+
+   **Where the two overlap**, the winner is set per series by `wins_overlap` in the `HISTORY` table. For the dense official series (oil, FX, KOSPI) the history file wins, because one consistently sourced series makes a truthful daily line and interleaving two providers' levels day to day injects step artifacts of several percent. For `hormuz_transits` the briefing's observation wins and the history file only fills dates the briefing never recorded, because neither file is a consistent daily backbone there and the published counting bases genuinely conflict (all-vessel vs tanker counts). One date is always the briefing's: the **most recent** observation per series, which carries the chart's endpoint label and therefore has to read the same as the figure quoted in that day's brief and front matter.
 
    `data/series.csv` is a parallel human-readable wide-format daily log (`date, brent_usd, wti_usd, kospi_close, usdkrw, hormuz_transits, notes`) kept in sync with `observations.csv` for quick eyeballing — update both on the same run, but **`observations.csv` is the one that must be correct**, since it is the only one the chart reads. If a run only has time to update one, update `observations.csv` and note the gap.
 
