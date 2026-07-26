@@ -6,7 +6,7 @@ Pinned Korean renderings for recurring terms, so the Korean edition uses identic
 
 Register: analytical written style, 한다체 (plain reportive). Numbers in Arabic numerals with Korean units where natural (약 8,470만 배럴, 10억 달러). Outlet names stay in their original form ([Al Jazeera](...), [Bloomberg](...)); links unchanged. Confidence ratings: **신뢰도: 높음 / 중간 / 낮음**.
 
-_Last updated: 2026-07-25_
+_Last updated: 2026-07-26_
 
 ---
 
@@ -30,6 +30,9 @@ _Last updated: 2026-07-25_
 | Confidence: High / Medium / Low | 신뢰도: 높음 / 중간 / 낮음 |
 | falsifiable / falsification condition | 반증 가능한 / 반증 조건 |
 | observation date | 관측일 |
+| Week in brief | 주간 요약 |
+| indicator outcome: Confirmed / Falsified / Expired | 확증 / 반증 / 만료 |
+| indicator outcome: Open / Superseded | 진행 / 대체됨 |
 
 ## Military and Maritime (군사·해양)
 
@@ -58,6 +61,7 @@ _Last updated: 2026-07-25_
 | succession | 후계 구도 |
 | host state (of US forces) | 미군 주둔국 |
 | collective defense | 집단 방위 |
+| belligerent (party to a war) | 교전 당사국 |
 | interdiction (of a vessel) | (선박) 차단 |
 | missing in action (MIA) | 작전 중 실종(MIA) |
 | killed in action | 전사 |
@@ -72,6 +76,11 @@ _Last updated: 2026-07-25_
 | Knesset dissolution / early elections | 크네세트(이스라엘 의회) 해산 / 조기 총선 |
 | Joint Maritime Information Center (JMIC) | 합동해양정보센터(JMIC) |
 | Yellow Line | 옐로 라인 |
+| ballistic missile | 탄도미사일 |
+| interception / intercept | 요격 |
+| strike pause | 공습 중단 |
+| damage assessment | 피해 평가 |
+| off-ramp | 출구 |
 
 ## Economics and Markets (경제·시장)
 
@@ -123,6 +132,9 @@ _Last updated: 2026-07-25_
 | repricing | 리프라이싱 (재평가) |
 | pullback / retreat (in price) | 후퇴 (되돌림) |
 | weekly advance / weekly gain | 주간 상승 |
+| refinery | 정유공장 |
+| crude export terminal | 원유 수출 터미널 |
+| liftings (crude) | 인수 선적 |
 
 ## Institutions (기관)
 
@@ -275,3 +287,11 @@ _Last updated: 2026-07-25_
 | Marco Rubio (US Secretary of State) | 마코 루비오 (미국 국무장관) |
 | locked and loaded | 장전 완료 |
 | Military Coordination Group (Lebanon, US-led trilateral) | (미국 주도 3자) 군사조정그룹 |
+| Jizan (Saudi Red Sea coast) | 지잔 |
+| Saudi Aramco | 사우디 아람코 |
+| Yanbu Aramco Sinopec Refining Company | 얀부 아람코 시노펙 정유회사 |
+| NCC Masa (tanker) | NCC 마사호 |
+| Sanaa airport | 사나 공항 |
+| Mohammed Al Jaber (Saudi ambassador to Yemen) | 모하메드 알자베르 (주예멘 사우디 대사) |
+| NASA FIRMS (satellite fire detection) | NASA FIRMS(위성 화재 탐지 시스템) |
+| Lindsey Graham (US senator) | 린지 그레이엄 |
