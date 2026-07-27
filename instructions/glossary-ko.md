@@ -6,7 +6,7 @@ Pinned Korean renderings for recurring terms, so the Korean edition uses identic
 
 Register: analytical written style, 한다체 (plain reportive). Numbers in Arabic numerals with Korean units where natural (약 8,470만 배럴, 10억 달러). Outlet names stay in their original form ([Al Jazeera](...), [Bloomberg](...)); links unchanged. Confidence ratings: **신뢰도: 높음 / 중간 / 낮음**.
 
-_Last updated: 2026-07-26_
+_Last updated: 2026-07-27_
 
 ---
 
@@ -295,3 +295,20 @@ _Last updated: 2026-07-26_
 | Mohammed Al Jaber (Saudi ambassador to Yemen) | 모하메드 알자베르 (주예멘 사우디 대사) |
 | NASA FIRMS (satellite fire detection) | NASA FIRMS(위성 화재 탐지 시스템) |
 | Lindsey Graham (US senator) | 린지 그레이엄 |
+| quiet for quiet (mutual halt formula) | 조용함에는 조용함으로 |
+| Brad Cooper (CENTCOM commander) | 브래드 쿠퍼 (미 중부사령관) |
+| Operation Epic Fury | 에픽 퓨리 작전 |
+| Dan Caine (US Joint Chiefs chairman) | 댄 케인 (미 합참의장) |
+| Joint Chiefs of Staff | 합참 (미 합동참모본부) |
+| air defence interceptor | 방공 요격 미사일 |
+| Mohammad Akraminia (Iranian army spokesman) | 모하마드 아크라미니아 (이란 육군 대변인) |
+| Mike Waltz (US ambassador) | 마이크 왈츠 (미국 대사) |
+| Volodymyr Zelenskyy | 볼로디미르 젤렌스키 |
+| Caspian Sea | 카스피해 |
+| chargé d'affaires | 대사대리 |
+| Truth Social | 트루스 소셜 |
+| AI generated image | AI 생성 이미지 |
+| target exhaustion | 표적 소진 |
+| war premium (oil) | 전쟁 프리미엄 |
+| electronic reopen (futures) | 전자거래 재개 |
+| intraday print (not a settle) | 장중 시세 (정산가 아님) |

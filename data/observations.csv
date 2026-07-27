@@ -77,7 +77,9 @@ brent,2026-07-23,100.69,settle,Confirmed Brent settle 100.69 first close above $
 brent,2026-07-24,97.39,settle,Brent -3.3% to 97.39 biggest one-day drop since late June on Pakistan mediation reports and continued Red Sea flows (Yahoo Finance/Reuters; Rigzone); Trading Economics showed 98.38 -2.29% - Reuters-basis figure used
 wti,2026-07-24,89.78,settle,WTI -2.6% to 89.78 (Yahoo Finance/Reuters); week +10.9%
 kospi,2026-07-24,6690.62,close,KOSPI -5.72% (-406.27) close; foreigners net sold ~3.3tn won; sidecar triggered 23rd time since May 27; Samsung and SK hynix -8% on AI-spending concerns plus the oil spike (Seoul Economic Daily; Business Recorder)
-usdkrw,2026-07-24,1461.3,close,won close 1461.3 strengthening despite the equity break; second consecutive weekly close below 1490 with no intervention (Trading Economics; pct change quoted as -0.97% vs prior 1466.8 which implies -0.37% - level used not the pct)
+usdkrw,2026-07-24,1466.6,close,CORRECTED 2026-07-27: won closed 1466.6 down 0.2 won from Thursday's 1466.8 with no intervention (Businesskorea; Yonhap Infomax via Nate) - supersedes the 1461.3 Trading Economics figure recorded in brief 2026-07-25, whose own quoted -0.97% never reconciled with the level
 hormuz_transits,2026-07-22,3.0,daily_count,Kpler via The National: 3 vessels per day 07-22 to 07-24; 3 tankers on 07-22
 hormuz_transits,2026-07-23,3.0,daily_count,Kpler via The National: 3 vessels 07-23 but only 1 tanker, lowest tanker count since May 7
 hormuz_transits,2026-07-24,3.0,daily_count,Kpler via The National: 3 vessels 07-24; crossings down ~70% with traffic shifted almost entirely to the Iranian corridor
+brent,2026-07-27,92.02,intraday,Brent September -4.9% to 92.02 shortly after the Sunday electronic reopen as the US-Iran pause entered a second night (AP via ABC News); Trading Economics shows Brent falling as much as 7% to below 90 in Monday Asian hours before trimming to ~91.95 - no settle in this window
+wti,2026-07-27,84.34,intraday,WTI September -5.6% to 84.34 shortly after the Sunday electronic reopen (AP via ABC News); Brent October -4.6% to 87.48 in the same print
