@@ -6,6 +6,8 @@ Standing reference for South Korea's structural exposure to the Middle East, so 
 
 _Last updated: July 20, 2026_
 
+**Jul 28 addition:** MOTIE held a crude supply review with refiners and shippers on Jul 27, convened explicitly over Yanbu and Red Sea route risk, chaired by Industrial Resources Security Officer Yang Ki-wook. Reaffirmed July-August intake at 100%+ of the year-earlier volume and September at 90%+, reviewed emergency transport and import plans, and put the strategic reserve swap on immediate standby. No suspension or diversion of Yanbu loadings announced.
+
 **Jul 20 additions:** Red Sea detour count updated to 15 tankers (MOF, Jul 19). MOFA posture: emergency headquarters/missions meeting Jul 19 (Second Vice Minister Kim Jina, 17 missions) urged short-stay nationals to depart the Middle East; Level 3 (departure recommendation) advisories in force for most Middle East states since Mar 8.
 
 ---
@@ -26,6 +28,7 @@ _Last updated: July 20, 2026_
 | Non-Hormuz crude secured (Kazakhstan, Oman, Saudi routes) | ~273 million barrels, delivery through end 2026 (~3 months of consumption) | Jul 2026 | Presidential chief of staff via Asharq Al-Awsat, OilPrice |
 | Non-Hormuz naphtha secured | Up to 2.1 million tons | Apr 2026 | Bloomberg |
 | Naphtha export ban | In effect; naphtha designated an economic security item | Mar–Jul 2026 | UPI, CSIS |
+| Strategic reserve swap | MOTIE commitment (Jul 27) to "immediate implementation of the strategic reserve swap" if a crisis materialises; instrument never yet tested at scale, so throughput, recipients and notice period are unknown | Jul 27, 2026 | MOTIE (Yang Ki-wook) via Hankyung, Aju Business Daily, ZDNet Korea |
 | Strategic reserve release | 22.5 million barrels via IEA coordination | Jun–Jul 2026 | CSIS |
 | Strategic reserve coverage remaining | ~26 days of actual consumption (estimate) | Jul 2026 | CSIS; treat as estimate, Medium confidence |
 | Supplementary budget | ~$17 billion passed | Jul 2026 | CSIS |

@@ -83,3 +83,7 @@ hormuz_transits,2026-07-23,3.0,daily_count,Kpler via The National: 3 vessels 07-
 hormuz_transits,2026-07-24,3.0,daily_count,Kpler via The National: 3 vessels 07-24; crossings down ~70% with traffic shifted almost entirely to the Iranian corridor
 brent,2026-07-27,92.02,intraday,Brent September -4.9% to 92.02 shortly after the Sunday electronic reopen as the US-Iran pause entered a second night (AP via ABC News); Trading Economics shows Brent falling as much as 7% to below 90 in Monday Asian hours before trimming to ~91.95 - no settle in this window
 wti,2026-07-27,84.34,intraday,WTI September -5.6% to 84.34 shortly after the Sunday electronic reopen (AP via ABC News); Brent October -4.6% to 87.48 in the same print
+brent,2026-07-27,88.36,settle,"Brent September settle -8.7% to 88.36, biggest one-day drop since April 17, as the US-Iran pause held a third day (Bloomberg via Rigzone; CNBC) - supersedes the 92.02 intraday Sunday-reopen print"
+wti,2026-07-27,82.61,settle,"WTI September settle -7.5% to 82.61 (Bloomberg via Rigzone) - supersedes the 84.34 intraday print"
+kospi,2026-07-27,6755.75,close,"KOSPI +0.97% (+65.13) to 6755.75, recovering part of Friday's 5.72% break; opened +1.73% at 6806.27 then faded through the session (Money Today; Nate/Yonhap Infomax)"
+usdkrw,2026-07-27,1468.5,close,"won close 1468.5, +1.9 won from Friday's 1466.6, after opening at 1459.0 on US-Iran de-escalation relief and fading on month-end importer settlement demand (Newsis; Dailian; eToday)"

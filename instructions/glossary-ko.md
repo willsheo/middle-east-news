@@ -312,3 +312,24 @@ _Last updated: 2026-07-27_
 | war premium (oil) | 전쟁 프리미엄 |
 | electronic reopen (futures) | 전자거래 재개 |
 | intraday print (not a settle) | 장중 시세 (정산가 아님) |
+| Abqaiq (Saudi crude processing hub) | 아브카이크 |
+| East-West Crude Oil Pipeline | 동서 송유관 |
+| Eastern Province (Saudi Arabia) | 사우디 동부주 |
+| Turki Al Maliki (Saudi defence ministry spokesman) | 투르키 알말리키 (사우디 국방부 대변인) |
+| Yahya Saree (Houthi military spokesman) | 야히아 사리 (후티 군 대변인) |
+| Ali al-Zaidi (Iraqi prime minister) | 알리 알자이디 (이라크 총리) |
+| Esmaeil Baghaei (Iranian foreign ministry spokesman) | 에스마일 바가에이 (이란 외무부 대변인) |
+| Yang Ki-wook (MOTIE industrial resources security officer) | 양기욱 (산업통상자원부 산업자원안보실장) |
+| strategic reserve swap | 비축유 스와프 |
+| crude supply review meeting | 원유 수급상황 점검회의 |
+| transit toll (Hormuz) | 통항료 |
+| mandatory versus voluntary mechanism | 의무적 대 자발적 메커니즘 |
+| escalation premium (oil) | 확전 프리미엄 |
+| closure premium (oil) | 봉쇄 프리미엄 |
+| settle (futures settlement price) | 정산가 |
+| interception (air defence) | 요격 |
+| launchpad (for attacks) | 발사 거점 |
+| Caspian Pipeline Consortium (CPC) | 카스피 파이프라인 컨소시엄 (CPC) |
+| Novorossiysk | 노보로시스크 |
+| corridor risk | 수송로 리스크 |
+| unverified / treat as rumour | 미확인 (루머로 취급) |
