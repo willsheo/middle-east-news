@@ -6,7 +6,7 @@ Pinned Korean renderings for recurring terms, so the Korean edition uses identic
 
 Register: analytical written style, 한다체 (plain reportive). Numbers in Arabic numerals with Korean units where natural (약 8,470만 배럴, 10억 달러). Outlet names stay in their original form ([Al Jazeera](...), [Bloomberg](...)); links unchanged. Confidence ratings: **신뢰도: 높음 / 중간 / 낮음**.
 
-_Last updated: 2026-07-27_
+_Last updated: 2026-07-29_
 
 ---
 
@@ -333,3 +333,15 @@ _Last updated: 2026-07-27_
 | Novorossiysk | 노보로시스크 |
 | corridor risk | 수송로 리스크 |
 | unverified / treat as rumour | 미확인 (루머로 취급) |
+| Sentinel-2 (EU satellite imagery) | 센티널-2 (EU 위성) |
+| processing spheroid (crude stabilization tank) | 원유 안정화 구형탱크 |
+| Islamic Resistance in Iraq | 이라크 이슬람저항군 |
+| frozen asset compensation | 동결자산 보상 |
+| incendiary precedent | 도발적 선례 |
+| Abbas Araghchi (Iranian foreign minister) | 아바스 아라그치 (이란 외무장관) |
+| Benjamin Netanyahu | 베냐민 네타냐후 |
+| Donald Trump | 도널드 트럼프 |
+| Israel Defense Minister | 이스라엘 국방장관 |
+| DUV lithography tool (chipmaking) | DUV(심자외선) 노광장비 |
+| channel decoupling (equity vs FX) | 채널 분리 (주식 대 환율) |
+| operational halt (facility) | 가동 전면 중단 |

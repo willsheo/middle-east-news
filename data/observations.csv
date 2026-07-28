@@ -87,3 +87,7 @@ brent,2026-07-27,88.36,settle,"Brent September settle -8.7% to 88.36, biggest on
 wti,2026-07-27,82.61,settle,"WTI September settle -7.5% to 82.61 (Bloomberg via Rigzone) - supersedes the 84.34 intraday print"
 kospi,2026-07-27,6755.75,close,"KOSPI +0.97% (+65.13) to 6755.75, recovering part of Friday's 5.72% break; opened +1.73% at 6806.27 then faded through the session (Money Today; Nate/Yonhap Infomax)"
 usdkrw,2026-07-27,1468.5,close,"won close 1468.5, +1.9 won from Friday's 1466.6, after opening at 1459.0 on US-Iran de-escalation relief and fading on month-end importer settlement demand (Newsis; Dailian; eToday)"
+brent,2026-07-28,84.09,settle,"Brent September settle -4.8% to 84.09, a second consecutive settle below $90, as the US-Iran pause held through the Trump-Netanyahu White House meeting (CNBC; Fortune)"
+wti,2026-07-28,79.26,settle,"WTI September settle -4% to 79.26 (CNBC; Fortune)"
+kospi,2026-07-28,6023.66,close,"KOSPI -10.84% (-732.09) to 6023.66, worst close since April, on a chip-sector rout (China DUV chipmaking breakthrough, Nvidia-linked AI-bubble contagion) unrelated to the Middle East; Samsung -13.4%, SK hynix -14.7%; 8th circuit breaker of the year, sell sidecars on both KOSPI and KOSDAQ (Yonhap/Newspim/eToday; US News/AP)"
+usdkrw,2026-07-28,1462.5,close,"won close 1462.5, -6.0 won (won firmer) from Friday's 1468.5, on falling oil prices and month-end exporter dollar selling (네고) even as equities cratered - decoupled from the KOSPI move (Money Today; eToday)"
