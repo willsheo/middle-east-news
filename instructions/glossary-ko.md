@@ -6,7 +6,7 @@ Pinned Korean renderings for recurring terms, so the Korean edition uses identic
 
 Register: analytical written style, 한다체 (plain reportive). Numbers in Arabic numerals with Korean units where natural (약 8,470만 배럴, 10억 달러). Outlet names stay in their original form ([Al Jazeera](...), [Bloomberg](...)); links unchanged. Confidence ratings: **신뢰도: 높음 / 중간 / 낮음**.
 
-_Last updated: 2026-07-29_
+_Last updated: 2026-07-30_
 
 ---
 
@@ -345,3 +345,11 @@ _Last updated: 2026-07-29_
 | DUV lithography tool (chipmaking) | DUV(심자외선) 노광장비 |
 | channel decoupling (equity vs FX) | 채널 분리 (주식 대 환율) |
 | operational halt (facility) | 가동 전면 중단 |
+| Popular Mobilisation Forces (PMF) | 인민동원군(PMF) |
+| Kazem Gharibabadi (Iranian deputy foreign minister) | 카젬 가리브아바디 (이란 외무차관) |
+| Trey Yingst (Fox News correspondent) | 트레이 잉스트 (폭스뉴스 특파원) |
+| CXMT (Chinese DRAM maker) | CXMT (중국 D램 제조사) |
+| joint US-Saudi strike | 미국-사우디 합동 공습 |
+| quiet for quiet | 조용한 휴전 (암묵적 상호 자제) |
+| pause collapses | 휴전 붕괴 |
+| co-management (Hormuz traffic) | 공동 관리 |

@@ -4,7 +4,9 @@
 
 Standing reference for South Korea's structural exposure to the Middle East, so daily briefs cite consistent baseline numbers instead of re-deriving them. Cite this file's values with their as-of dates; when a brief finds a materially updated figure from a reliable source, update this table (and the PDF) and note the change in that day's brief.
 
-_Last updated: July 29, 2026_
+_Last updated: July 30, 2026_
+
+**Jul 30 addition:** The mutual US-Iran halt this file's Jul 29 update assumed was holding collapsed within two days: Iran's IRGC fired ballistic missiles toward a US base in Jordan and struck three Hormuz tankers, and the US and Saudi Arabia answered with the war's first joint strikes inside Iraq (20+ militia fighters killed), explicitly linked by Saudi Arabia's MoD to the Jul 27 Abqaiq/Jazan/Yanbu attacks. Brent reversed its entire two-day sub-$90 decline in one session (+7.9% to $90.74). Treat the "sub-$90 ceiling of calm" and the "immediate standby" reserve-swap posture as live questions again rather than settled readings; see brief_2026-07-30 §2.1, §3.2.
 
 **Jul 29 addition:** Satellite imagery (Bloomberg/Sentinel-2, NASA FIRMS) confirmed real fire damage at Abqaiq from the Jul 27 raid, upgrading the prior "unconfirmed" read; Aramco shut the 400,000 bpd Jazan refinery (tentative restart ~Aug 15, per a Reuters-cited IIR note). Yanbu crude loadings, the sole outlet for Korea's entire Red Sea workaround, are running roughly a third to 40% below their Jul 19 run rate (Kpler via Baird Maritime), the first measurable supply-side stress on the corridor itself rather than just its risk premium.
 
