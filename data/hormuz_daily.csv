@@ -1,0 +1,206 @@
+date,verified_crossings_all,verified_crossings_all_qualifier,verified_crossings_all_alt,commodity_vessel_crossings,tanker_crossings,crude_tanker_crossings,oil_product_tanker_crossings,lng_carrier_crossings,lpg_carrier_crossings,inbound_crossings,outbound_crossings,oil_volume_million_bbl,oil_volume_qualifier,korea_operated_crossings,korea_bound_energy_crossings,korea_bound_oil_million_bbl,source_ids,coverage_status,notes
+2026-01-01,,,,,,,,,,,,,,,,,,no_daily_report_found,
+2026-01-02,,,,,,,,,,,,,,,,,,no_daily_report_found,
+2026-01-03,,,,,,,,,,,,,,,,,,no_daily_report_found,
+2026-01-04,,,,,,,,,,,,,,,,,,no_daily_report_found,
+2026-01-05,,,,,,,,,,,,,,,,,,no_daily_report_found,
+2026-01-06,,,,,,,,,,,,,,,,,,no_daily_report_found,
+2026-01-07,,,,,,,,,,,,,,,,,,no_daily_report_found,
+2026-01-08,,,,,,,,,,,,,,,,,,no_daily_report_found,
+2026-01-09,,,,,,,,,,,,,,,,,,no_daily_report_found,
+2026-01-10,,,,,,,,,,,,,,,,,,no_daily_report_found,
+2026-01-11,,,,,,,,,,,,,,,,,,no_daily_report_found,
+2026-01-12,,,,,,,,,,,,,,,,,,no_daily_report_found,
+2026-01-13,,,,,,,,,,,,,,,,,,no_daily_report_found,
+2026-01-14,,,,,,,,,,,,,,,,,,no_daily_report_found,
+2026-01-15,,,,,,,,,,,,,,,,,,no_daily_report_found,
+2026-01-16,,,,,,,,,,,,,,,,,,no_daily_report_found,
+2026-01-17,,,,,,,,,,,,,,,,,,no_daily_report_found,
+2026-01-18,,,,,,,,,,,,,,,,,,no_daily_report_found,
+2026-01-19,,,,,,,,,,,,,,,,,,no_daily_report_found,
+2026-01-20,,,,,,,,,,,,,,,,,,no_daily_report_found,
+2026-01-21,,,,,,,,,,,,,,,,,,no_daily_report_found,
+2026-01-22,,,,,,,,,,,,,,,,,,no_daily_report_found,
+2026-01-23,,,,,,,,,,,,,,,,,,no_daily_report_found,
+2026-01-24,,,,,,,,,,,,,,,,,,no_daily_report_found,
+2026-01-25,,,,,,,,,,,,,,,,,,no_daily_report_found,
+2026-01-26,,,,,,,,,,,,,,,,,,no_daily_report_found,
+2026-01-27,,,,,,,,,,,,,,,,,,no_daily_report_found,
+2026-01-28,,,,,,,,,,,,,,,,,,no_daily_report_found,
+2026-01-29,,,,,,,,,,,,,,,,,,no_daily_report_found,
+2026-01-30,,,,,,,,,,,,,,,,,,no_daily_report_found,
+2026-01-31,,,,,,,,,,,,,,,,,,no_daily_report_found,
+2026-02-01,,,,,,,,,,,,,,,,,,no_daily_report_found,
+2026-02-02,,,,,,,,,,,,,,,,,,no_daily_report_found,
+2026-02-03,,,,,,,,,,,,,,,,,,no_daily_report_found,
+2026-02-04,,,,,,,,,,,,,,,,,,no_daily_report_found,
+2026-02-05,,,,,,,,,,,,,,,,,,no_daily_report_found,
+2026-02-06,,,,,,,,,,,,,,,,,,no_daily_report_found,
+2026-02-07,,,,,,,,,,,,,,,,,,no_daily_report_found,
+2026-02-08,,,,,,,,,,,,,,,,,,no_daily_report_found,
+2026-02-09,,,,,,,,,,,,,,,,,,no_daily_report_found,
+2026-02-10,,,,,,,,,,,,,,,,,,no_daily_report_found,
+2026-02-11,,,,,,,,,,,,,,,,,,no_daily_report_found,
+2026-02-12,,,,,,,,,,,,,,,,,,no_daily_report_found,
+2026-02-13,,,,,,,,,,,,,,,,,,no_daily_report_found,
+2026-02-14,,,,,,,,,,,,,,,,,,no_daily_report_found,
+2026-02-15,,,,,,,,,,,,,,,,,,no_daily_report_found,
+2026-02-16,,,,,,,,,,,,,,,,,,no_daily_report_found,
+2026-02-17,,,,,,,,,,,,,,,,,,no_daily_report_found,
+2026-02-18,,,,,,,,,,,,,,,,,,no_daily_report_found,
+2026-02-19,,,,,,,,,,,,,,,,,,no_daily_report_found,
+2026-02-20,,,,,,,,,,,,,,,,,,no_daily_report_found,
+2026-02-21,,,,,,,,,,,,,,,,,,no_daily_report_found,
+2026-02-22,,,,,,,,,,,,,,,,,,no_daily_report_found,
+2026-02-23,,,,,,,,,,,,,,,,,,no_daily_report_found,
+2026-02-24,,,,,,,,,,,,,,,,,,no_daily_report_found,
+2026-02-25,,,,,,,,,,,,,,,,,,no_daily_report_found,
+2026-02-26,,,,,,,,,,,,,,,,,,no_daily_report_found,
+2026-02-27,,,,,,,,,,,,,,,,,,no_daily_report_found,
+2026-02-28,,,,,,,,,,,,,,,,,,no_daily_report_found,
+2026-03-01,,,,,1,,,,,,,,,,,,H001,reported_daily,Kpler observed one tanker; the article did not report an all-vessel total.
+2026-03-02,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-03-03,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-03-04,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-03-05,2,exact,,,0,,,,,,,,,,,,H002,reported_partial,JMIC rolling 24 hours to Thursday; neither vessel was a tanker.
+2026-03-06,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-03-07,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-03-08,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-03-09,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-03-10,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-03-11,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-03-12,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-03-13,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-03-14,7,exact,,,,,,,,,,,,,,,H009,reported_daily,Historical daily count cited by OPIS from Kpler.
+2026-03-15,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-03-16,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-03-17,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-03-18,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-03-19,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-03-20,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-03-21,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-03-22,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-03-23,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-03-24,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-03-25,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-03-26,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-03-27,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-03-28,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-03-29,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-03-30,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-03-31,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-04-01,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-04-02,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-04-03,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-04-04,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-04-05,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-04-06,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-04-07,14,exact,,,,,,,,,,,,,,,H009,reported_daily,Kpler daily count cited by OPIS.
+2026-04-08,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-04-09,6,exact,7,,1,,1,,,,,,,,,,H007;H008,conflict,Reuters/Kpler reported 1 product tanker plus 5 dry bulk vessels; AP/Kpler reported 4 tankers plus 3 bulk carriers.
+2026-04-10,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-04-11,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-04-12,12,exact,,,,,,,,,,,,,,,H009,reported_daily,Kpler daily count cited by OPIS.
+2026-04-13,7,exact,,,,,,,,,,,,,1,1,H009;H013;H014,reported_daily,Seven total crossings; Odessa passed outbound carrying 1 million barrels of crude for Hyundai Oilbank.
+2026-04-14,6,exact,8,,3,,,,,3,3,,,,,,H009;H010,conflict,"OPIS/Kpler reported 6 (3 inbound and 3 outbound, including 3 tankers); AP/Kpler reported 8."
+2026-04-15,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-04-16,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-04-17,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-04-18,20,lower_bound,,,,,,,3,,,,,,,,H012,reported_daily,"Reuters reported more than 20 vessels, including 3 LPG carriers."
+2026-04-19,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-04-20,,,,,,,1,,,,,,,,,,H015,reported_partial,Reuters identified product tanker Nero among 3 crossings in a 12-hour window; no full-day total reported.
+2026-04-21,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-04-22,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-04-23,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-04-24,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-04-25,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-04-26,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-04-27,7,lower_bound,,,,,,,,,,,,,,,H016,reported_partial,"Reuters/Kpler reported at least 7 crossings in the previous 24 hours, mainly dry bulk."
+2026-04-28,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-04-29,6,lower_bound,,,,,,,,,,,,,,,H017,reported_partial,Reuters/Kpler reported at least 6 crossings in the previous 24 hours.
+2026-04-30,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-05-01,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-05-02,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-05-03,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-05-04,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-05-05,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-05-06,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-05-07,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-05-08,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-05-09,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-05-10,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-05-11,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-05-12,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-05-13,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-05-14,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-05-15,,,,5,,,,,,,,,,,,,H020,reported_daily,Bloomberg vessel tracking compilation reported 5 cargo-vessel crossings.
+2026-05-16,,,,10,,,,,,,,,,,,,H020,reported_daily,Bloomberg vessel tracking compilation reported 10 cargo-vessel crossings.
+2026-05-17,,,,0,,,,,,,,,,,,,H020,reported_partial,No cargo-vessel crossing had been observed by Sunday morning; this is not a full-day zero.
+2026-05-18,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-05-19,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-05-20,10,approximate,,,,4,,,,,,6,exact,,1,2,H021,reported_partial,Around 10 vessels in the prior 24 hours; 3 outbound VLCCs carried 6 million barrels and 1 VLCC entered. Korea-flagged Universal Winner carried 2 million barrels to Ulsan.
+2026-05-21,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-05-22,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-05-23,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-05-24,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-05-25,,,,,,1,,2,,,,,,,,,H022,reported_daily,Reuters/Kpler identified 2 LNG carriers and 1 VLCC carrying Iraqi crude; no all-vessel total was reported.
+2026-05-26,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-05-27,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-05-28,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-05-29,7,exact,,,,,1,,,5,2,,,,,,H023;H024,reported_daily,"Seven total crossings (5 inbound, 2 outbound); STI Elysees was an outbound product tanker."
+2026-05-30,,,,,,,1,,,,,0.508,lower_bound,,,,H024,reported_daily,"Cy Victorious exited carrying more than 508,000 barrels of oil products; no all-vessel total was reported."
+2026-05-31,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-06-01,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-06-02,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-06-03,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-06-04,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-06-05,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-06-06,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-06-07,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-06-08,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-06-09,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-06-10,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-06-11,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-06-12,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-06-13,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-06-14,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-06-15,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-06-16,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-06-17,6,exact,,,,,,,,,,,,,,,H026,reported_daily,Kpler daily count reported by AP.
+2026-06-18,25,exact,11,,,,,,,,,,,,,,H026;H027,conflict,Anadolu/Kpler reported 25 commercial ships; AP/Kpler reported 11 verified crossings in a different snapshot or scope.
+2026-06-19,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-06-20,35,exact,26,,,3,3,,,,,,,,,,H028;H029,conflict,AP/Kpler reported a peak of 35; Reuters/Kpler reported 26 and identified 3 outbound crude plus 3 product tankers.
+2026-06-21,5,exact,,,,,,,,,,,,,,,H029,reported_daily,Kpler daily count reported by Reuters.
+2026-06-22,39,exact,,,,4,,,,,,2,upper_bound,,,,H030;H032,reported_daily,AP/Kpler reported 39 total. Reuters/Kpler identified 2 outbound crude tankers carrying just under 2 million barrels and 2 inbound supertankers.
+2026-06-23,31,exact,,,,,,,,,,,,,,,H031,reported_daily,Kpler verified-crossing count reported by Anadolu.
+2026-06-24,70,exact,74,,27,6,,,,,,10.8,exact,4,1,2,H033;H034;H035;H036;H037,conflict,"Anadolu/Kpler reported 70 commercial vessels; another Kpler-based report gave 74. Reuters reported 27 tanker crossings and 6 outbound oil tankers carrying 10.8 million barrels. SBS reported 4 Korean-operated passages, including 1 tanker with 2 million barrels for Yeosu."
+2026-06-25,,,,,24,6,,,,,,10,exact,,,,H034;H035,reported_daily,Reuters/Kpler reported 24 tanker crossings both directions; 6 outbound oil tankers carried 10 million barrels.
+2026-06-26,,,,,13,,,,,,,,,,,,H035,reported_daily,Reuters/Kpler tanker crossings in both directions; no all-vessel total reported.
+2026-06-27,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-06-28,22,exact,,,,,,,,,,,,,,,H037,reported_daily,Kpler-based media report.
+2026-06-29,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-06-30,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-07-01,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-07-02,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-07-03,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-07-04,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-07-05,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-07-06,36,exact,,,,,,,,,,,,,,,H039,reported_daily,Kpler count reported by AP.
+2026-07-07,41,exact,49,,,,,,,,,,,,,,H039;H040,conflict,"AP/Kpler reported 41; The National/Kpler reported 49, likely reflecting a later snapshot or different universe."
+2026-07-08,30,exact,,,,,,,,,,,,,,,H040,reported_daily,Kpler count reported by The National.
+2026-07-09,22,exact,,,,,,,,,,,,,,,H040,reported_daily,Kpler count reported by The National.
+2026-07-10,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-07-11,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-07-12,14,exact,,,6,,,0,,,,,,,,,H041;H042;H047,reported_daily,Le Monde/Kpler reported 14 all-vessel passages; Reuters/Kpler reported 6 tanker passages. LNG Prime reported no LNG passage after July 11.
+2026-07-13,,,,,,,,0,,,,,,,,,H047,reported_daily,LNG Prime/Kpler reported no LNG carrier passage after July 11; no all-vessel count found.
+2026-07-14,13,exact,21,,,,,0,,,,,,,,,H043;H044;H047,conflict,Reuters/Kpler reported 13; Bloomberg/Kpler reported 21 monitored transits. No LNG carrier passage was reported.
+2026-07-15,9,exact,,,,,,0,,,,,,,,,H043;H047,reported_daily,"Reuters/Kpler reported 9 crossings, mostly on the Iranian route. No LNG carrier passage was reported."
+2026-07-16,8,exact,,3,,,,0,,,,,,,,,H045;H047,reported_daily,"CNBC/Kpler reported 8 crossings, including 3 commodity vessels. No LNG carrier passage was reported."
+2026-07-17,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-07-18,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-07-19,,,,,,,,,,,,,,,,,,aggregate_only,
+2026-07-20,,,,4,,,,,,,,,,,,,H046,reported_daily,Reuters/Kpler commodity-vessel count; no all-vessel total reported.
+2026-07-21,9,exact,,3,,,,0,,,,,,,,,H046;H049,reported_daily,Turkiye Today/MarineTraffic reported 9 verified crossings; Reuters/Kpler reported 3 commodity vessels and no visible LNG carrier.
+2026-07-22,15,exact,,,,,,,,,,,,,,,H048,reported_daily,National Security Journal cited Kpler's 15-vessel count.
+2026-07-23,,,,,,,,,,,,,,,,,,no_daily_report_found,
+2026-07-24,,,,,,,,,,,,,,,,,,provisional,

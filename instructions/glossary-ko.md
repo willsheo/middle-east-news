@@ -6,7 +6,7 @@ Pinned Korean renderings for recurring terms, so the Korean edition uses identic
 
 Register: analytical written style, 한다체 (plain reportive). Numbers in Arabic numerals with Korean units where natural (약 8,470만 배럴, 10억 달러). Outlet names stay in their original form ([Al Jazeera](...), [Bloomberg](...)); links unchanged. Confidence ratings: **신뢰도: 높음 / 중간 / 낮음**.
 
-_Last updated: 2026-07-24_
+_Last updated: 2026-07-30_
 
 ---
 
@@ -30,6 +30,9 @@ _Last updated: 2026-07-24_
 | Confidence: High / Medium / Low | 신뢰도: 높음 / 중간 / 낮음 |
 | falsifiable / falsification condition | 반증 가능한 / 반증 조건 |
 | observation date | 관측일 |
+| Week in brief | 주간 요약 |
+| indicator outcome: Confirmed / Falsified / Expired | 확증 / 반증 / 만료 |
+| indicator outcome: Open / Superseded | 진행 / 대체됨 |
 
 ## Military and Maritime (군사·해양)
 
@@ -58,6 +61,7 @@ _Last updated: 2026-07-24_
 | succession | 후계 구도 |
 | host state (of US forces) | 미군 주둔국 |
 | collective defense | 집단 방위 |
+| belligerent (party to a war) | 교전 당사국 |
 | interdiction (of a vessel) | (선박) 차단 |
 | missing in action (MIA) | 작전 중 실종(MIA) |
 | killed in action | 전사 |
@@ -72,6 +76,11 @@ _Last updated: 2026-07-24_
 | Knesset dissolution / early elections | 크네세트(이스라엘 의회) 해산 / 조기 총선 |
 | Joint Maritime Information Center (JMIC) | 합동해양정보센터(JMIC) |
 | Yellow Line | 옐로 라인 |
+| ballistic missile | 탄도미사일 |
+| interception / intercept | 요격 |
+| strike pause | 공습 중단 |
+| damage assessment | 피해 평가 |
+| off-ramp | 출구 |
 
 ## Economics and Markets (경제·시장)
 
@@ -112,6 +121,20 @@ _Last updated: 2026-07-24_
 | procurement | 조달 |
 | Gulf states | 걸프 국가들 |
 | sovereign wealth fund | 국부펀드 |
+| sidecar (program-trading curb, KRX) | 사이드카 (프로그램매매 호가효력정지) |
+| circuit breaker (KRX) | 서킷브레이커 |
+| Philadelphia Semiconductor Index (SOX) | 필라델피아 반도체 지수(SOX) |
+| capital expenditure (capex) | 자본지출 |
+| AI capex / AI-related shares | AI 자본지출 / AI 관련주 |
+| chip beta (to a global repricing) | 반도체 베타 |
+| portfolio rotation | 포트폴리오 재배분 |
+| capital flight | 자본 이탈 |
+| repricing | 리프라이싱 (재평가) |
+| pullback / retreat (in price) | 후퇴 (되돌림) |
+| weekly advance / weekly gain | 주간 상승 |
+| refinery | 정유공장 |
+| crude export terminal | 원유 수출 터미널 |
+| liftings (crude) | 인수 선적 |
 
 ## Institutions (기관)
 
@@ -251,3 +274,82 @@ _Last updated: 2026-07-24_
 | Mohammed bin Salman (MBS) | 무함마드 빈 살만 |
 | Transport General Authority (Saudi) | 교통총국 |
 | Saudi Press Agency (SPA) | 사우디 국영통신(SPA) |
+| licensing regime (Hormuz transit) | (호르무즈 통항) 허가 체제 |
+| escalation for escalation (Houthi formula) | 확전에는 확전으로 |
+| Saudi-led coalition | 사우디 주도 연합군 |
+| Hodeidah / Ras Issa / Salif (Yemeni ports) | 호데이다 / 라스이사 / 살리프 |
+| Kamaran Island | 카마란섬 |
+| Al Shuqaiq (Saudi Red Sea coast) | 알슈카이크 |
+| Khuzestan (province) | 후제스탄주 |
+| Erbil | 아르빌 |
+| Ali al-Zeidi (Iraqi PM) | 알리 알제이디 (이라크 총리) |
+| JD Vance (US Vice President) | JD 밴스 (미국 부통령) |
+| Marco Rubio (US Secretary of State) | 마코 루비오 (미국 국무장관) |
+| locked and loaded | 장전 완료 |
+| Military Coordination Group (Lebanon, US-led trilateral) | (미국 주도 3자) 군사조정그룹 |
+| Jizan (Saudi Red Sea coast) | 지잔 |
+| Saudi Aramco | 사우디 아람코 |
+| Yanbu Aramco Sinopec Refining Company | 얀부 아람코 시노펙 정유회사 |
+| NCC Masa (tanker) | NCC 마사호 |
+| Sanaa airport | 사나 공항 |
+| Mohammed Al Jaber (Saudi ambassador to Yemen) | 모하메드 알자베르 (주예멘 사우디 대사) |
+| NASA FIRMS (satellite fire detection) | NASA FIRMS(위성 화재 탐지 시스템) |
+| Lindsey Graham (US senator) | 린지 그레이엄 |
+| quiet for quiet (mutual halt formula) | 조용함에는 조용함으로 |
+| Brad Cooper (CENTCOM commander) | 브래드 쿠퍼 (미 중부사령관) |
+| Operation Epic Fury | 에픽 퓨리 작전 |
+| Dan Caine (US Joint Chiefs chairman) | 댄 케인 (미 합참의장) |
+| Joint Chiefs of Staff | 합참 (미 합동참모본부) |
+| air defence interceptor | 방공 요격 미사일 |
+| Mohammad Akraminia (Iranian army spokesman) | 모하마드 아크라미니아 (이란 육군 대변인) |
+| Mike Waltz (US ambassador) | 마이크 왈츠 (미국 대사) |
+| Volodymyr Zelenskyy | 볼로디미르 젤렌스키 |
+| Caspian Sea | 카스피해 |
+| chargé d'affaires | 대사대리 |
+| Truth Social | 트루스 소셜 |
+| AI generated image | AI 생성 이미지 |
+| target exhaustion | 표적 소진 |
+| war premium (oil) | 전쟁 프리미엄 |
+| electronic reopen (futures) | 전자거래 재개 |
+| intraday print (not a settle) | 장중 시세 (정산가 아님) |
+| Abqaiq (Saudi crude processing hub) | 아브카이크 |
+| East-West Crude Oil Pipeline | 동서 송유관 |
+| Eastern Province (Saudi Arabia) | 사우디 동부주 |
+| Turki Al Maliki (Saudi defence ministry spokesman) | 투르키 알말리키 (사우디 국방부 대변인) |
+| Yahya Saree (Houthi military spokesman) | 야히아 사리 (후티 군 대변인) |
+| Ali al-Zaidi (Iraqi prime minister) | 알리 알자이디 (이라크 총리) |
+| Esmaeil Baghaei (Iranian foreign ministry spokesman) | 에스마일 바가에이 (이란 외무부 대변인) |
+| Yang Ki-wook (MOTIE industrial resources security officer) | 양기욱 (산업통상자원부 산업자원안보실장) |
+| strategic reserve swap | 비축유 스와프 |
+| crude supply review meeting | 원유 수급상황 점검회의 |
+| transit toll (Hormuz) | 통항료 |
+| mandatory versus voluntary mechanism | 의무적 대 자발적 메커니즘 |
+| escalation premium (oil) | 확전 프리미엄 |
+| closure premium (oil) | 봉쇄 프리미엄 |
+| settle (futures settlement price) | 정산가 |
+| interception (air defence) | 요격 |
+| launchpad (for attacks) | 발사 거점 |
+| Caspian Pipeline Consortium (CPC) | 카스피 파이프라인 컨소시엄 (CPC) |
+| Novorossiysk | 노보로시스크 |
+| corridor risk | 수송로 리스크 |
+| unverified / treat as rumour | 미확인 (루머로 취급) |
+| Sentinel-2 (EU satellite imagery) | 센티널-2 (EU 위성) |
+| processing spheroid (crude stabilization tank) | 원유 안정화 구형탱크 |
+| Islamic Resistance in Iraq | 이라크 이슬람저항군 |
+| frozen asset compensation | 동결자산 보상 |
+| incendiary precedent | 도발적 선례 |
+| Abbas Araghchi (Iranian foreign minister) | 아바스 아라그치 (이란 외무장관) |
+| Benjamin Netanyahu | 베냐민 네타냐후 |
+| Donald Trump | 도널드 트럼프 |
+| Israel Defense Minister | 이스라엘 국방장관 |
+| DUV lithography tool (chipmaking) | DUV(심자외선) 노광장비 |
+| channel decoupling (equity vs FX) | 채널 분리 (주식 대 환율) |
+| operational halt (facility) | 가동 전면 중단 |
+| Popular Mobilisation Forces (PMF) | 인민동원군(PMF) |
+| Kazem Gharibabadi (Iranian deputy foreign minister) | 카젬 가리브아바디 (이란 외무차관) |
+| Trey Yingst (Fox News correspondent) | 트레이 잉스트 (폭스뉴스 특파원) |
+| CXMT (Chinese DRAM maker) | CXMT (중국 D램 제조사) |
+| joint US-Saudi strike | 미국-사우디 합동 공습 |
+| quiet for quiet | 조용한 휴전 (암묵적 상호 자제) |
+| pause collapses | 휴전 붕괴 |
+| co-management (Hormuz traffic) | 공동 관리 |

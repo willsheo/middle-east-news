@@ -4,7 +4,13 @@
 
 Standing reference for South Korea's structural exposure to the Middle East, so daily briefs cite consistent baseline numbers instead of re-deriving them. Cite this file's values with their as-of dates; when a brief finds a materially updated figure from a reliable source, update this table (and the PDF) and note the change in that day's brief.
 
-_Last updated: July 20, 2026_
+_Last updated: July 30, 2026_
+
+**Jul 30 addition:** The mutual US-Iran halt this file's Jul 29 update assumed was holding collapsed within two days: Iran's IRGC fired ballistic missiles toward a US base in Jordan and struck three Hormuz tankers, and the US and Saudi Arabia answered with the war's first joint strikes inside Iraq (20+ militia fighters killed), explicitly linked by Saudi Arabia's MoD to the Jul 27 Abqaiq/Jazan/Yanbu attacks. Brent reversed its entire two-day sub-$90 decline in one session (+7.9% to $90.74). Treat the "sub-$90 ceiling of calm" and the "immediate standby" reserve-swap posture as live questions again rather than settled readings; see brief_2026-07-30 §2.1, §3.2.
+
+**Jul 29 addition:** Satellite imagery (Bloomberg/Sentinel-2, NASA FIRMS) confirmed real fire damage at Abqaiq from the Jul 27 raid, upgrading the prior "unconfirmed" read; Aramco shut the 400,000 bpd Jazan refinery (tentative restart ~Aug 15, per a Reuters-cited IIR note). Yanbu crude loadings, the sole outlet for Korea's entire Red Sea workaround, are running roughly a third to 40% below their Jul 19 run rate (Kpler via Baird Maritime), the first measurable supply-side stress on the corridor itself rather than just its risk premium.
+
+**Jul 28 addition:** MOTIE held a crude supply review with refiners and shippers on Jul 27, convened explicitly over Yanbu and Red Sea route risk, chaired by Industrial Resources Security Officer Yang Ki-wook. Reaffirmed July-August intake at 100%+ of the year-earlier volume and September at 90%+, reviewed emergency transport and import plans, and put the strategic reserve swap on immediate standby. No suspension or diversion of Yanbu loadings announced.
 
 **Jul 20 additions:** Red Sea detour count updated to 15 tankers (MOF, Jul 19). MOFA posture: emergency headquarters/missions meeting Jul 19 (Second Vice Minister Kim Jina, 17 missions) urged short-stay nationals to depart the Middle East; Level 3 (departure recommendation) advisories in force for most Middle East states since Mar 8.
 
@@ -26,6 +32,7 @@ _Last updated: July 20, 2026_
 | Non-Hormuz crude secured (Kazakhstan, Oman, Saudi routes) | ~273 million barrels, delivery through end 2026 (~3 months of consumption) | Jul 2026 | Presidential chief of staff via Asharq Al-Awsat, OilPrice |
 | Non-Hormuz naphtha secured | Up to 2.1 million tons | Apr 2026 | Bloomberg |
 | Naphtha export ban | In effect; naphtha designated an economic security item | Mar–Jul 2026 | UPI, CSIS |
+| Strategic reserve swap | MOTIE commitment (Jul 27) to "immediate implementation of the strategic reserve swap" if a crisis materialises; instrument never yet tested at scale, so throughput, recipients and notice period are unknown | Jul 27, 2026 | MOTIE (Yang Ki-wook) via Hankyung, Aju Business Daily, ZDNet Korea |
 | Strategic reserve release | 22.5 million barrels via IEA coordination | Jun–Jul 2026 | CSIS |
 | Strategic reserve coverage remaining | ~26 days of actual consumption (estimate) | Jul 2026 | CSIS; treat as estimate, Medium confidence |
 | Supplementary budget | ~$17 billion passed | Jul 2026 | CSIS |
