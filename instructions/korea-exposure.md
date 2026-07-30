@@ -4,7 +4,9 @@
 
 Standing reference for South Korea's structural exposure to the Middle East, so daily briefs cite consistent baseline numbers instead of re-deriving them. Cite this file's values with their as-of dates; when a brief finds a materially updated figure from a reliable source, update this table (and the PDF) and note the change in that day's brief.
 
-_Last updated: July 30, 2026_
+_Last updated: July 31, 2026_
+
+**Jul 31 addition:** The war crossed a new threshold: CENTCOM struck Iranian territory directly for the first time since the pause collapsed, a "heavy wave" hitting dozens of IRGC targets across six provinces, roughly twice the scale of the prior bombardment, and Iran retaliated against Jordan (intercepted) and a Chinese company's building in Kuwait (one worker killed), the first casualty tied to Chinese interests in the war. Despite the escalation, Brent eased to $88.93 and Hormuz traffic held at 14 crossings; Qatar sent its first Ras Laffan LNG cargo through the strait in 19 days, the first concrete evidence the LNG freeze can break without a ceasefire. Treat Korean firms and personnel in Gulf host states, not just Iran-adjacent ones, as sitting inside the same exposure category the Kuwait strike just demonstrated; see brief_2026-07-31 §1.3, §3.2.
 
 **Jul 30 addition:** The mutual US-Iran halt this file's Jul 29 update assumed was holding collapsed within two days: Iran's IRGC fired ballistic missiles toward a US base in Jordan and struck three Hormuz tankers, and the US and Saudi Arabia answered with the war's first joint strikes inside Iraq (20+ militia fighters killed), explicitly linked by Saudi Arabia's MoD to the Jul 27 Abqaiq/Jazan/Yanbu attacks. Brent reversed its entire two-day sub-$90 decline in one session (+7.9% to $90.74). Treat the "sub-$90 ceiling of calm" and the "immediate standby" reserve-swap posture as live questions again rather than settled readings; see brief_2026-07-30 §2.1, §3.2.
 
