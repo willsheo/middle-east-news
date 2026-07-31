@@ -6,7 +6,7 @@ Pinned Korean renderings for recurring terms, so the Korean edition uses identic
 
 Register: analytical written style, 한다체 (plain reportive). Numbers in Arabic numerals with Korean units where natural (약 8,470만 배럴, 10억 달러). Outlet names stay in their original form ([Al Jazeera](...), [Bloomberg](...)); links unchanged. Confidence ratings: **신뢰도: 높음 / 중간 / 낮음**.
 
-_Last updated: 2026-07-31_
+_Last updated: 2026-08-01_
 
 ---
 
@@ -355,3 +355,11 @@ _Last updated: 2026-07-31_
 | quiet for quiet | 조용한 휴전 (암묵적 상호 자제) |
 | pause collapses | 휴전 붕괴 |
 | co-management (Hormuz traffic) | 공동 관리 |
+| Ahmad al-Jaber Air Base (Kuwait) | 아흐마드 알자베르 공군기지 |
+| Damietta (Egypt) | 다미에타 |
+| Mao Ning (Chinese foreign ministry spokesperson) | 마오닝 (중국 외교부 대변인) |
+| Abdel Fattah el-Sisi (Egyptian president) | 압델 파타 엘시시 (이집트 대통령) |
+| International Verification Committee | 국제검증위원회 |
+| International Stabilisation Force | 국제안정화군 |
+| false flag operation | 위장 공작(거짓 깃발 작전) |
+| Board of Peace framework (Gaza disarmament) | 평화이사회 프레임워크 |
