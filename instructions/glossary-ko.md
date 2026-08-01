@@ -363,3 +363,6 @@ _Last updated: 2026-08-01_
 | International Stabilisation Force | 국제안정화군 |
 | false flag operation | 위장 공작(거짓 깃발 작전) |
 | Board of Peace framework (Gaza disarmament) | 평화이사회 프레임워크 |
+| Bubiyan Island (Kuwait) | 부비얀 섬 |
+| Beaufort Castle (Lebanon) | 보포르 성 |
+| UN Security Council Resolution 2817 | 유엔 안전보장이사회 결의 2817호 |
