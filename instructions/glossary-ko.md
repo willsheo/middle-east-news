@@ -6,7 +6,7 @@ Pinned Korean renderings for recurring terms, so the Korean edition uses identic
 
 Register: analytical written style, 한다체 (plain reportive). Numbers in Arabic numerals with Korean units where natural (약 8,470만 배럴, 10억 달러). Outlet names stay in their original form ([Al Jazeera](...), [Bloomberg](...)); links unchanged. Confidence ratings: **신뢰도: 높음 / 중간 / 낮음**.
 
-_Last updated: 2026-08-01_
+_Last updated: 2026-08-03_
 
 ---
 
@@ -366,3 +366,12 @@ _Last updated: 2026-08-01_
 | Bubiyan Island (Kuwait) | 부비얀 섬 |
 | Beaufort Castle (Lebanon) | 보포르 성 |
 | UN Security Council Resolution 2817 | 유엔 안전보장이사회 결의 2817호 |
+| Eli Cohen (Israeli energy minister) | 엘리 코헨 (이스라엘 에너지장관) |
+| Itamar Ben-Gvir (Israeli national security minister) | 이타마르 벤그비르 (이스라엘 국가안보장관) |
+| Nickolay Mladenov (Board of Peace envoy) | 니콜라이 믈라데노프 (평화이사회 특사) |
+| Basem Naim (Hamas official) | 바셈 나임 (하마스 관계자) |
+| Mehr news agency (Iran, semi-official) | 메흐르 통신 (이란 반관영) |
+| Fars news agency (Iran, semi-official) | 파르스 통신 (이란 반관영) |
+| Article 51 (UN Charter, self-defense) | 유엔헌장 제51조 (자위권) |
+| Khan Younis (Gaza) | 칸유니스 |
+| perimeters of a deal | 합의의 큰 틀 |
