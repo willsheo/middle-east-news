@@ -6,7 +6,7 @@ Pinned Korean renderings for recurring terms, so the Korean edition uses identic
 
 Register: analytical written style, 한다체 (plain reportive). Numbers in Arabic numerals with Korean units where natural (약 8,470만 배럴, 10억 달러). Outlet names stay in their original form ([Al Jazeera](...), [Bloomberg](...)); links unchanged. Confidence ratings: **신뢰도: 높음 / 중간 / 낮음**.
 
-_Last updated: 2026-08-03_
+_Last updated: 2026-08-04_
 
 ---
 
@@ -375,3 +375,13 @@ _Last updated: 2026-08-03_
 | Article 51 (UN Charter, self-defense) | 유엔헌장 제51조 (자위권) |
 | Khan Younis (Gaza) | 칸유니스 |
 | perimeters of a deal | 합의의 큰 틀 |
+| decapitation (Trump's Iran ultimatum) | 참수 |
+| Velos Amber (tanker) | 벨로스 앰버호 |
+| Khasab (Oman) | 카사브 |
+| Avi Bluth (IDF Central Command chief) | 아비 블루트 (이스라엘군 중부사령관) |
+| Eyal Zamir (IDF Chief of Staff) | 에얄 자미르 (이스라엘군 참모총장) |
+| Samsung DX Division | 삼성전자 DX부문 |
+| Samchunix (leveraged AI/chip trading bets, Korea) | 삼천닉스 (레버리지 AI·반도체 베팅) |
+| Sheikh Ajlin (Gaza City) | 셰이크 아즐린 |
+| Rome (Italy, Israel-Lebanon talks venue) | 로마 |
+| air pocket (market, one-day technical drop) | 에어포켓 (일시적 기술적 급락) |
