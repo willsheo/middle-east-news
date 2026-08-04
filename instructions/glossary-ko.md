@@ -6,7 +6,7 @@ Pinned Korean renderings for recurring terms, so the Korean edition uses identic
 
 Register: analytical written style, 한다체 (plain reportive). Numbers in Arabic numerals with Korean units where natural (약 8,470만 배럴, 10억 달러). Outlet names stay in their original form ([Al Jazeera](...), [Bloomberg](...)); links unchanged. Confidence ratings: **신뢰도: 높음 / 중간 / 낮음**.
 
-_Last updated: 2026-08-04_
+_Last updated: 2026-08-05_
 
 ---
 
@@ -385,3 +385,7 @@ _Last updated: 2026-08-04_
 | Sheikh Ajlin (Gaza City) | 셰이크 아즐린 |
 | Rome (Italy, Israel-Lebanon talks venue) | 로마 |
 | air pocket (market, one-day technical drop) | 에어포켓 (일시적 기술적 급락) |
+| Scott Bessent (US Treasury Secretary) | 스콧 베센트 (미국 재무장관) |
+| Bezalel Smotrich (Israeli finance minister) | 베잘렐 스모트리치 (이스라엘 재무장관) |
+| Minoan Pioneer (bulk carrier) | 미노안 파이어니어호 |
+| disarm-first (revised Gaza withdrawal sequencing) | 무장해제 선행 방식 |
