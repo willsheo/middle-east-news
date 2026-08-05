@@ -389,3 +389,10 @@ _Last updated: 2026-08-05_
 | Bezalel Smotrich (Israeli finance minister) | 베잘렐 스모트리치 (이스라엘 재무장관) |
 | Minoan Pioneer (bulk carrier) | 미노안 파이어니어호 |
 | disarm-first (revised Gaza withdrawal sequencing) | 무장해제 선행 방식 |
+| Ghazi Hamad (Hamas negotiator) | 가지 함마드 (하마스 협상 담당자) |
+| Anwar Gargash (UAE diplomatic advisor) | 안와르 가르가시 (UAE 외교담당 고문) |
+| Mansouri (south Lebanon village) | 만수리 |
+| Tebnine (south Lebanon town) | 테브니네 |
+| transit fee (Hormuz shipping arrangement) | 통항료 |
+| Iran Oman shipping route agreement | 이란-오만 항로 협정 |
+| record close (KOSPI) | 사상 최고치 마감 |

@@ -4,7 +4,9 @@
 
 Standing reference for South Korea's structural exposure to the Middle East, so daily briefs cite consistent baseline numbers instead of re-deriving them. Cite this file's values with their as-of dates; when a brief finds a materially updated figure from a reliable source, update this table (and the PDF) and note the change in that day's brief.
 
-_Last updated: July 31, 2026_
+_Last updated: August 6, 2026_
+
+**Aug 6 addition:** MOTIE extended the strategic reserve swap program from its original April-May window through August, citing continued uncertainty on Hormuz normalization timing; roughly 21 million barrels have been swapped to date and are being repaid in stages, the first concrete throughput figure for an instrument this file previously flagged as untested at scale. See brief_2026-08-06 §3.1.
 
 **Jul 31 addition:** The war crossed a new threshold: CENTCOM struck Iranian territory directly for the first time since the pause collapsed, a "heavy wave" hitting dozens of IRGC targets across six provinces, roughly twice the scale of the prior bombardment, and Iran retaliated against Jordan (intercepted) and a Chinese company's building in Kuwait (one worker killed), the first casualty tied to Chinese interests in the war. Despite the escalation, Brent eased to $88.93 and Hormuz traffic held at 14 crossings; Qatar sent its first Ras Laffan LNG cargo through the strait in 19 days, the first concrete evidence the LNG freeze can break without a ceasefire. Treat Korean firms and personnel in Gulf host states, not just Iran-adjacent ones, as sitting inside the same exposure category the Kuwait strike just demonstrated; see brief_2026-07-31 §1.3, §3.2.
 
@@ -34,7 +36,7 @@ _Last updated: July 31, 2026_
 | Non-Hormuz crude secured (Kazakhstan, Oman, Saudi routes) | ~273 million barrels, delivery through end 2026 (~3 months of consumption) | Jul 2026 | Presidential chief of staff via Asharq Al-Awsat, OilPrice |
 | Non-Hormuz naphtha secured | Up to 2.1 million tons | Apr 2026 | Bloomberg |
 | Naphtha export ban | In effect; naphtha designated an economic security item | Mar–Jul 2026 | UPI, CSIS |
-| Strategic reserve swap | MOTIE commitment (Jul 27) to "immediate implementation of the strategic reserve swap" if a crisis materialises; instrument never yet tested at scale, so throughput, recipients and notice period are unknown | Jul 27, 2026 | MOTIE (Yang Ki-wook) via Hankyung, Aju Business Daily, ZDNet Korea |
+| Strategic reserve swap | MOTIE commitment (Jul 27) to "immediate implementation of the strategic reserve swap" if a crisis materialises; program extended through August (from its original Apr-May window); ~21 million barrels swapped to date, being repaid in stages | Aug 2, 2026 | MOTIE (Yang Ki-wook) via Hankyung, Aju Business Daily, ZDNet Korea, Herald Corp |
 | Strategic reserve release | 22.5 million barrels via IEA coordination | Jun–Jul 2026 | CSIS |
 | Strategic reserve coverage remaining | ~26 days of actual consumption (estimate) | Jul 2026 | CSIS; treat as estimate, Medium confidence |
 | Supplementary budget | ~$17 billion passed | Jul 2026 | CSIS |
