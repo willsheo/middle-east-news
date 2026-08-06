@@ -396,3 +396,14 @@ _Last updated: 2026-08-05_
 | transit fee (Hormuz shipping arrangement) | 통항료 |
 | Iran Oman shipping route agreement | 이란-오만 항로 협정 |
 | record close (KOSPI) | 사상 최고치 마감 |
+| Majdal Zoun (south Lebanon village) | 마즈달 준 |
+| Marib (Yemen) | 마리브 |
+| Hadramaut (Yemen governorate) | 하드라마우트 |
+| Mohammad-Bagher Ghalibaf (Iranian parliament speaker) | 모하마드 바게르 갈리바프 (이란 국회의장) |
+| Behnam Saeedi (Iranian lawmaker) | 베흐남 사에디 (이란 국회의원) |
+| NCC Wafa (tanker) | NCC 와파호 |
+| Yemeni Emergency Forces / Homeland Shield Forces | 예멘 비상군 / 홈랜드 실드군 |
+| Abdul Malik al-Mekhlafi (Yemeni government deputy chairman) | 압둘 말리크 알메클라피 (예멘 정부 부의장) |
+| agreed in principle | 원칙적 합의 |
+| leaker (unauthorized disclosure) | 정보 유출자 |
+| distorts reality (Israeli PM office phrase) | 현실을 왜곡 |
