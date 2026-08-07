@@ -6,7 +6,7 @@ Pinned Korean renderings for recurring terms, so the Korean edition uses identic
 
 Register: analytical written style, 한다체 (plain reportive). Numbers in Arabic numerals with Korean units where natural (약 8,470만 배럴, 10억 달러). Outlet names stay in their original form ([Al Jazeera](...), [Bloomberg](...)); links unchanged. Confidence ratings: **신뢰도: 높음 / 중간 / 낮음**.
 
-_Last updated: 2026-08-05_
+_Last updated: 2026-08-08_
 
 ---
 
@@ -407,3 +407,13 @@ _Last updated: 2026-08-05_
 | agreed in principle | 원칙적 합의 |
 | leaker (unauthorized disclosure) | 정보 유출자 |
 | distorts reality (Israeli PM office phrase) | 현실을 왜곡 |
+| THAAD (Terminal High Altitude Area Defense) | 사드(THAAD) |
+| two-pronged (coordinated) attack | 양면(협공) 공격 |
+| mine clearance (Hormuz) | 기뢰 제거 |
+| verification force shortlist (Hezbollah disarmament) | 검증군 후보 국가 명단 |
+| general framework (agreement stage short of final text) | 일반 틀(총괄 프레임워크) |
+| Ahmad Nafisi (Hormozgan deputy governor) | 아흐마드 나피시 (호르모즈간 부지사) |
+| Ahmed Nagi (Yemen analyst) | 아흐메드 나지 (예멘 분석가) |
+| Adel Dashela (Yemen researcher) | 아델 다셸라 (예멘 연구자) |
+| Nissos Kea (VLCC) | 니소스 케아호 |
+| Seongju THAAD battery (Korea) | 성주 사드 포대 |
