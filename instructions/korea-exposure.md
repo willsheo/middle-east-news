@@ -4,7 +4,9 @@
 
 Standing reference for South Korea's structural exposure to the Middle East, so daily briefs cite consistent baseline numbers instead of re-deriving them. Cite this file's values with their as-of dates; when a brief finds a materially updated figure from a reliable source, update this table (and the PDF) and note the change in that day's brief.
 
-_Last updated: August 6, 2026_
+_Last updated: August 9, 2026_
+
+**Aug 9 addition:** Two structural shifts this week bear on Korea's risk model even though neither has a direct Korea clause. First, Saudi Arabia, Turkey and Pakistan signed the Mecca Joint Defence Agreement (Aug 7), a NATO Article 5 style mutual-defense pact putting a nuclear-armed state inside a formal collective-defense structure with one of Korea's largest crude suppliers; any future Saudi-directed crisis now carries a wider set of formal allies whose own responses Korea would need to track. Second, Yemen's government forces abandoned "calibrated restraint" for their own multi-axis counteroffensive against Houthi positions (Aug 8), a shift from a Houthi-only front to an active two-sided war that the UN's Hans Grundberg called the highest conflict risk since the 2022 truce; treat the Red Sea/Yanbu corridor's risk premium as trending toward structural rather than episodic. See brief_2026-08-09 §1.2, §1.3, §3.2.
 
 **Aug 6 addition:** MOTIE extended the strategic reserve swap program from its original April-May window through August, citing continued uncertainty on Hormuz normalization timing; roughly 21 million barrels have been swapped to date and are being repaid in stages, the first concrete throughput figure for an instrument this file previously flagged as untested at scale. See brief_2026-08-06 §3.1.
 

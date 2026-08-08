@@ -6,7 +6,7 @@ Pinned Korean renderings for recurring terms, so the Korean edition uses identic
 
 Register: analytical written style, 한다체 (plain reportive). Numbers in Arabic numerals with Korean units where natural (약 8,470만 배럴, 10억 달러). Outlet names stay in their original form ([Al Jazeera](...), [Bloomberg](...)); links unchanged. Confidence ratings: **신뢰도: 높음 / 중간 / 낮음**.
 
-_Last updated: 2026-08-08_
+_Last updated: 2026-08-09_
 
 ---
 
@@ -417,3 +417,14 @@ _Last updated: 2026-08-08_
 | Adel Dashela (Yemen researcher) | 아델 다셸라 (예멘 연구자) |
 | Nissos Kea (VLCC) | 니소스 케아호 |
 | Seongju THAAD battery (Korea) | 성주 사드 포대 |
+| Supreme National Security Council (Iran) | 최고국가안보회의 |
+| Mohammad Bagher Zolghadr (SNSC secretary) | 모하마드 바게르 졸가드르 (최고국가안보회의 사무총장) |
+| Mecca Joint Defence Agreement | 메카 공동방위협정 |
+| Najran (Saudi Arabia) | 나즈란 |
+| Mecca | 메카 |
+| Barak Ravid (Axios/Channel 12 correspondent) | 바라크 라비드 (액시오스·이스라엘 12채널 특파원) |
+| Recep Tayyip Erdogan (Turkish president) | 레제프 타이이프 에르도안 (튀르키예 대통령) |
+| Gideon Saar (Israeli foreign minister) | 기데온 사르 (이스라엘 외무장관) |
+| Hakan Fidan (Turkish foreign minister) | 하칸 피단 (튀르키예 외무장관) |
+| Naftali Bennett (former Israeli PM) | 나프탈리 베네트 (전 이스라엘 총리) |
+| Gadi Eizenkot (Israeli opposition figure) | 가디 에이젠코트 (이스라엘 야권 인사) |
