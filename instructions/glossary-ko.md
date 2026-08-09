@@ -6,7 +6,7 @@ Pinned Korean renderings for recurring terms, so the Korean edition uses identic
 
 Register: analytical written style, 한다체 (plain reportive). Numbers in Arabic numerals with Korean units where natural (약 8,470만 배럴, 10억 달러). Outlet names stay in their original form ([Al Jazeera](...), [Bloomberg](...)); links unchanged. Confidence ratings: **신뢰도: 높음 / 중간 / 낮음**.
 
-_Last updated: 2026-08-09_
+_Last updated: 2026-08-10_
 
 ---
 
@@ -428,3 +428,13 @@ _Last updated: 2026-08-09_
 | Hakan Fidan (Turkish foreign minister) | 하칸 피단 (튀르키예 외무장관) |
 | Naftali Bennett (former Israeli PM) | 나프탈리 베네트 (전 이스라엘 총리) |
 | Gadi Eizenkot (Israeli opposition figure) | 가디 에이젠코트 (이스라엘 야권 인사) |
+| fifteen point Gaza plan / 15-point document (Board of Peace) | 15개항 가자 계획(평화이사회) |
+| genuine disarmament (vs fictitious disarmament) | 진정한 무장해제 (형식적 무장해제와 대비) |
+| Jazan (Saudi Arabia) | 자잔 |
+| Mokha (Yemen) | 모카 |
+| Hebron / Wadi Rahim (West Bank) | 헤브론 / 와디 라힘 |
+| Idna (West Bank village) | 이드나 |
+| Bethlehem | 베들레헴 |
+| Mohsen al-Omari (Yemen Transport Minister) | 모센 알오마리 (예멘 교통부 장관) |
+| Eyal Zamir (IDF Chief of Staff) | 에이알 자미르 (이스라엘군 참모총장) |
+| John Ratcliffe (CIA Director) | 존 랫클리프 (CIA 국장) |
