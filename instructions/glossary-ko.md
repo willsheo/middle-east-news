@@ -6,7 +6,7 @@ Pinned Korean renderings for recurring terms, so the Korean edition uses identic
 
 Register: analytical written style, 한다체 (plain reportive). Numbers in Arabic numerals with Korean units where natural (약 8,470만 배럴, 10억 달러). Outlet names stay in their original form ([Al Jazeera](...), [Bloomberg](...)); links unchanged. Confidence ratings: **신뢰도: 높음 / 중간 / 낮음**.
 
-_Last updated: 2026-08-10_
+_Last updated: 2026-08-11_
 
 ---
 
@@ -438,3 +438,18 @@ _Last updated: 2026-08-10_
 | Mohsen al-Omari (Yemen Transport Minister) | 모센 알오마리 (예멘 교통부 장관) |
 | Eyal Zamir (IDF Chief of Staff) | 에이알 자미르 (이스라엘군 참모총장) |
 | John Ratcliffe (CIA Director) | 존 랫클리프 (CIA 국장) |
+| Mohsen Rezaei (SNSC secretary, former IRGC commander-in-chief) | 모흐센 레자에이 (최고국가안보회의 사무총장, 전 혁명수비대 총사령관) |
+| Ahmad Vahidi (IRGC commander-in-chief) | 아흐마드 바히디 (혁명수비대 총사령관) |
+| Ali Abdollahi (armed forces chief of staff) | 알리 압돌라히 (이란군 참모총장) |
+| Abdul Rahim Mousavi (former armed forces chief of staff, killed in strikes) | 압둘 라힘 무사비 (전 참모총장, 개전 초 공습으로 사망) |
+| semi-negotiating | 반쯤 협상 중 |
+| economic pressure (over military action) | 군사행동 대신 경제적 압박 |
+| not imminent (Hormuz reopening) | 임박하지 않음 |
+| closed military zone | 군사 폐쇄 구역 |
+| Taybeh (West Bank village) | 타이베 (서안지구 마을) |
+| Shabwa (Yemen governorate) | 샤브와 (예멘 주) |
+| Shabwa Defense Forces (Yemen) | 샤브와 방위군 |
+| Green Rafah (IDF-controlled reconstruction zone) | 그린 라파 (이스라엘군 통제 재건구역) |
+| abnormally strong (blast force finding) | 비정상적으로 강한 (폭발력 판정) |
+| Harel Birenstock (Israeli reservist, killed) | 하렐 비렌스토크 (이스라엘 예비군, 전사) |
+| Tamir Vaknin (Israeli reservist, killed) | 타미르 바크닌 (이스라엘 예비군, 전사) |
