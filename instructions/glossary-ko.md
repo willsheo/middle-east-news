@@ -453,3 +453,12 @@ _Last updated: 2026-08-11_
 | abnormally strong (blast force finding) | 비정상적으로 강한 (폭발력 판정) |
 | Harel Birenstock (Israeli reservist, killed) | 하렐 비렌스토크 (이스라엘 예비군, 전사) |
 | Tamir Vaknin (Israeli reservist, killed) | 타미르 바크닌 (이스라엘 예비군, 전사) |
+| conflict compensation (Trump's demand on Iran) | 분쟁 배상금 |
+| decommission and store (Hamas weapons language) | 무장해제 후 보관 |
+| Vela Nova (Panamanian-flagged blockade runner) | 벨라 노바호 |
+| Gulf of Oman | 오만 만 |
+| blockade runner | 봉쇄 위반 선박 |
+| Syrian Atomic Energy Commission | 시리아 원자력위원회 |
+| significant progress (Syria nuclear file, IAEA phrase) | 중대한 진전 |
+| al-Makha (alternate spelling of Mokha) | 알마카(모카) |
+| Al Hadath (Saudi state media) | 알하다스 (사우디 국영매체) |

@@ -4,7 +4,9 @@
 
 Standing reference for South Korea's structural exposure to the Middle East, so daily briefs cite consistent baseline numbers instead of re-deriving them. Cite this file's values with their as-of dates; when a brief finds a materially updated figure from a reliable source, update this table (and the PDF) and note the change in that day's brief.
 
-_Last updated: August 10, 2026_
+_Last updated: August 12, 2026_
+
+**Aug 12 addition:** KNOC data for May to July 2026 shows Korea's crude-source mix has structurally shifted rather than just temporarily diversified: the non-Middle East share reached 51.5% (up 19.6 points from 31.9% a year earlier) while the Middle East share fell from 69.1% to 48.5%, per Asia Business Daily. This is the first time this file has recorded the non-Middle East share crossing 50%, consistent with the government's stated strategy of prioritizing US, Central/South American and African crude, and worth treating as the new working baseline rather than a war-driven anomaly that reverts once Hormuz normalizes. See brief_2026-08-12 §3.1.
 
 **Aug 10 addition:** Yemen's widening war now threatens Korea's Red Sea workaround from both ends of the corridor rather than one. Houthis struck Saudi Aramco's Jazan refinery (already mid-recovery from a July 27 attack) and separately bombed Mokha, a Yemeni government Red Sea port along the same Bab el-Mandeb route Korean-bound Yanbu cargoes transit, killing 7 and wounding 35; treat both the Saudi loading side and the Bab el-Mandeb transit side of the workaround as live risk rather than only the strait itself. Separately, three Hormuz-deal indicators this ledger tracked toward an August 10 deadline (a Kharg Island strike, a public Iran-Oman mechanism, US acceptance of its terms) all lapsed unresolved the same day an Iranian missile struck a UAE ADNOC tanker in the strait, so Korean refiners and KNOC still have no concrete, US accepted transit framework to plan around a full week after Iran's foreign minister first called talks "final stages." See brief_2026-08-10 §1.2, §1.3, §3.2.
 
