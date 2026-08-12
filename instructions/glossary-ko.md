@@ -462,3 +462,13 @@ _Last updated: 2026-08-11_
 | significant progress (Syria nuclear file, IAEA phrase) | 중대한 진전 |
 | al-Makha (alternate spelling of Mokha) | 알마카(모카) |
 | Al Hadath (Saudi state media) | 알하다스 (사우디 국영매체) |
+| double tap strike (attack targeting rescuers after an initial hit) | 이중 타격(구조대 표적 공격) |
+| Tihamah (Egyptian owned cargo ship) | 티하마호 |
+| Ishaq Dar (Pakistan Deputy PM and Foreign Minister) | 이샤크 다르 (파키스탄 부총리 겸 외무장관) |
+| Khawaja Asif (Pakistan Defense Minister) | 코와자 아시프 (파키스탄 국방장관) |
+| Mohsin Naqvi (Pakistan Interior Minister) | 모신 나크비 (파키스탄 내무장관) |
+| Qusra (West Bank village) | 쿠스라 (서안지구 마을) |
+| breaking point (UN West Bank warning) | 한계점 |
+| Ramiz Alakbarov (UN Deputy Special Coordinator for the Middle East Peace Process) | 라미즈 알라크바로프 (유엔 중동평화프로세스 부특별조정관) |
+| National Resistance Forces (Yemen, Tareq Saleh aligned) | 국민저항군(NRF) |
+| Sheikh Naim Mahdi School (Eastern Zawtar) | 셰이크 나임 마흐디 학교 |

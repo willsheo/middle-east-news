@@ -4,7 +4,9 @@
 
 Standing reference for South Korea's structural exposure to the Middle East, so daily briefs cite consistent baseline numbers instead of re-deriving them. Cite this file's values with their as-of dates; when a brief finds a materially updated figure from a reliable source, update this table (and the PDF) and note the change in that day's brief.
 
-_Last updated: August 12, 2026_
+_Last updated: August 13, 2026_
+
+**Aug 13 addition:** The Bab el-Mandeb leg of Korea's Yanbu Red Sea workaround absorbed the war's first double-tap strike: Houthi forces hit the cargo ship Tihamah, then struck the rescue operation itself minutes later, killing six (4 crew, 2 Yemeni rescuers) and wounding 10, the campaign's first fatal attack on commercial shipping since the war began. Pakistan and Indonesia both formally condemned the strike within hours. Treat this as a step change in the corridor's risk profile, not just a further data point on its frequency: a stricken vessel's own rescue operation is now demonstrably a target, which route changes alone cannot hedge against. See brief_2026-08-13 §1.1, §3.1.
 
 **Aug 12 addition:** KNOC data for May to July 2026 shows Korea's crude-source mix has structurally shifted rather than just temporarily diversified: the non-Middle East share reached 51.5% (up 19.6 points from 31.9% a year earlier) while the Middle East share fell from 69.1% to 48.5%, per Asia Business Daily. This is the first time this file has recorded the non-Middle East share crossing 50%, consistent with the government's stated strategy of prioritizing US, Central/South American and African crude, and worth treating as the new working baseline rather than a war-driven anomaly that reverts once Hormuz normalizes. See brief_2026-08-12 §3.1.
 
