@@ -6,7 +6,7 @@ Pinned Korean renderings for recurring terms, so the Korean edition uses identic
 
 Register: analytical written style, 한다체 (plain reportive). Numbers in Arabic numerals with Korean units where natural (약 8,470만 배럴, 10억 달러). Outlet names stay in their original form ([Al Jazeera](...), [Bloomberg](...)); links unchanged. Confidence ratings: **신뢰도: 높음 / 중간 / 낮음**.
 
-_Last updated: 2026-08-11_
+_Last updated: 2026-08-14_
 
 ---
 
@@ -472,3 +472,14 @@ _Last updated: 2026-08-11_
 | Ramiz Alakbarov (UN Deputy Special Coordinator for the Middle East Peace Process) | 라미즈 알라크바로프 (유엔 중동평화프로세스 부특별조정관) |
 | National Resistance Forces (Yemen, Tareq Saleh aligned) | 국민저항군(NRF) |
 | Sheikh Naim Mahdi School (Eastern Zawtar) | 셰이크 나임 마흐디 학교 |
+| Persian Gulf Strait Authority (Iran's shipping control body) | 페르시아만 해협청(PGSA) |
+| Mike Huckabee (US Ambassador to Israel) | 마이크 허커비 (주이스라엘 미국대사) |
+| Hans Grundberg (UN Special Envoy for Yemen) | 한스 그룬드베리 (유엔 예멘 특사) |
+| Jared Kushner (Board of Peace) | 재러드 쿠슈너 (평화이사회) |
+| shadow fleet (sanctioned tanker fleet) | 그림자 선단 |
+| Caroline Bezengi (grounded tanker off Oman) | 캐롤라인 베젠기호 |
+| Ras Madrakah (Oman coast) | 라스 마드라카 (오만 해안) |
+| Taiz (Yemen governorate) | 타이즈 (예멘) |
+| toll free window (Hormuz MOU 60 day term) | 통행료 면제 기간 |
+| Yisrael Ganz (settlement leader) | 이스라엘 간츠 (정착촌 지도자) |
+| Jamal Mahmoud Abu Kamil (Hamas commander killed in Gaza City) | 자말 마흐무드 아부 카밀 (가자시티에서 사살된 하마스 지휘관) |

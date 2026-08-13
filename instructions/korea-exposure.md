@@ -4,7 +4,9 @@
 
 Standing reference for South Korea's structural exposure to the Middle East, so daily briefs cite consistent baseline numbers instead of re-deriving them. Cite this file's values with their as-of dates; when a brief finds a materially updated figure from a reliable source, update this table (and the PDF) and note the change in that day's brief.
 
-_Last updated: August 13, 2026_
+_Last updated: August 14, 2026_
+
+**Aug 14 addition:** Lloyd's List Intelligence reports Yanbu crude exports to the four main Asian buyers absorbing the Red Sea workaround, India, Japan, China and South Korea, have surged to roughly 4 million barrels a day, up from under 1 million bpd in the same period a year earlier, as VLCCs increasingly reduce cargo at load or partially discharge at Egypt's Ain Sukhna to meet Suez Canal draught limits before topping up via the Sumed pipeline. This is the first specific volume figure this file has recorded for the workaround's actual scale rather than just its existence, and confirms the route has become a structural, high-volume artery rather than a marginal contingency measure. See brief_2026-08-14 §3.1.
 
 **Aug 13 addition:** The Bab el-Mandeb leg of Korea's Yanbu Red Sea workaround absorbed the war's first double-tap strike: Houthi forces hit the cargo ship Tihamah, then struck the rescue operation itself minutes later, killing six (4 crew, 2 Yemeni rescuers) and wounding 10, the campaign's first fatal attack on commercial shipping since the war began. Pakistan and Indonesia both formally condemned the strike within hours. Treat this as a step change in the corridor's risk profile, not just a further data point on its frequency: a stricken vessel's own rescue operation is now demonstrably a target, which route changes alone cannot hedge against. See brief_2026-08-13 §1.1, §3.1.
 
