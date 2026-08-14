@@ -150,3 +150,7 @@ wti,2026-08-13,81.25,settle,"WTI settle -2.4% (-$2.02) to 81.25, same catalyst a
 kospi,2026-08-13,6813.34,close,"KOSPI +3.56% (+234.3) to a record 6813.34, fourth straight gain on continued foreign chip buying (Korea Times; Seoul Economic Daily)"
 usdkrw,2026-08-13,1419.4,close,"won 1419.4, easing slightly after three straight days of strengthening"
 hormuz_transits,2026-08-12,3,daily_count,"Windward Daily Intelligence: 3 vessels transited Hormuz in the 24 hours ending August 12 (2 inbound, 1 outbound, all AIS), a different counting methodology than Kpler's; Kpler's own 5-day average stood near 13 on August 11, near a 3-month low"
+brent,2026-08-14,88.52,settle,"Brent settle +1.7% (+$1.45) to 88.52, first gain in three sessions, as Bessent vowed 'never seen' economic isolation of Iran and Hegseth reaffirmed the naval blockade can continue indefinitely (CNBC)"
+wti,2026-08-14,82.40,settle,"WTI settle +1.4% (+$1.15) to 82.40, same catalyst as Brent; both benchmarks up more than 5% for the week (CNBC)"
+kospi,2026-08-14,6977.94,close,"KOSPI +2.42% (+164.60) to 6977.94, a fifth straight gain, briefly topping 7,010 intraday on foreign chip buying (SandDisk investor-day optimism) and softer US PPI (Korea Times; Asia Business Daily)"
+usdkrw,2026-08-14,1418.3,close,"won 1418.3, essentially flat, easing marginally from Thursday's 1419.4"

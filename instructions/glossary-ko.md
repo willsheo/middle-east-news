@@ -6,7 +6,7 @@ Pinned Korean renderings for recurring terms, so the Korean edition uses identic
 
 Register: analytical written style, 한다체 (plain reportive). Numbers in Arabic numerals with Korean units where natural (약 8,470만 배럴, 10억 달러). Outlet names stay in their original form ([Al Jazeera](...), [Bloomberg](...)); links unchanged. Confidence ratings: **신뢰도: 높음 / 중간 / 낮음**.
 
-_Last updated: 2026-08-14_
+_Last updated: 2026-08-15_
 
 ---
 
@@ -482,4 +482,16 @@ _Last updated: 2026-08-14_
 | Taiz (Yemen governorate) | 타이즈 (예멘) |
 | toll free window (Hormuz MOU 60 day term) | 통행료 면제 기간 |
 | Yisrael Ganz (settlement leader) | 이스라엘 간츠 (정착촌 지도자) |
+| declare (a strait/territory) US territory | (해협·영토를) 미국 영토로 선언하다 |
+| strategic defeat | 전략적 패배 |
+| economic isolation (sanctions campaign) | 경제적 고립 |
+| civilian law enforcement (West Bank, IDF to police handover) | 민간 치안 (군에서 경찰로 이양) |
+| salvage operation (tanker) | 구조(샐비지) 작업 |
+| Ed Wollaston (Ambrey director of global response) | 에드 월러스턴 (앰브레이 글로벌 대응 담당 이사) |
+| Ambrey (maritime risk firm) | 앰브레이 (해상 리스크 자문사) |
+| Tasnim News Agency | 타스님 통신 |
+| Islamic Resistance in Iraq (Iran-aligned militia coalition) | 이라크 이슬람저항군 |
+| Popular Mobilization Forces (PMF, Iraq) | 이라크 인민동원군(PMF) |
+| al-Makha / Mokha (Yemen port) | 알마카/모카 (예멘 항구) |
+| Presidential Leadership Council (Yemen) | 예멘 대통령지도위원회 |
 | Jamal Mahmoud Abu Kamil (Hamas commander killed in Gaza City) | 자말 마흐무드 아부 카밀 (가자시티에서 사살된 하마스 지휘관) |
