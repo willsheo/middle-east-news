@@ -6,7 +6,7 @@ Pinned Korean renderings for recurring terms, so the Korean edition uses identic
 
 Register: analytical written style, 한다체 (plain reportive). Numbers in Arabic numerals with Korean units where natural (약 8,470만 배럴, 10억 달러). Outlet names stay in their original form ([Al Jazeera](...), [Bloomberg](...)); links unchanged. Confidence ratings: **신뢰도: 높음 / 중간 / 낮음**.
 
-_Last updated: 2026-08-15_
+_Last updated: 2026-08-16_
 
 ---
 
@@ -495,3 +495,13 @@ _Last updated: 2026-08-15_
 | al-Makha / Mokha (Yemen port) | 알마카/모카 (예멘 항구) |
 | Presidential Leadership Council (Yemen) | 예멘 대통령지도위원회 |
 | Jamal Mahmoud Abu Kamil (Hamas commander killed in Gaza City) | 자말 마흐무드 아부 카밀 (가자시티에서 사살된 하마스 지휘관) |
+| Ansar (south Lebanon village) | 안사르 (레바논 남부 마을) |
+| Deir al-Zahrani (south Lebanon village) | 데이르 알자흐라니 (레바논 남부 마을) |
+| Ali Taher Ridge (south Lebanon) | 알리 타헤르 능선 |
+| Radwan Force (Hezbollah elite unit) | 라드완 부대 (헤즈볼라 정예부대) |
+| Yahalom (IDF combat engineering unit) | 야할롬 부대 (이스라엘군 공병부대) |
+| Ali Samir Al-Haj Hassan (Radwan Force commander killed in Ansar strike) | 알리 사미르 알하지 하산 (안사르 공습에서 사망한 라드완 부대 지휘관) |
+| Doron Spielman (Netanyahu spokesman) | 도론 스필먼 (네타냐후 대변인) |
+| Umm al-Khair (Masafer Yatta hamlet) | 움알헤이르 (마사페르 야타 마을) |
+| Masafer Yatta (South Hebron Hills) | 마사페르 야타 (헤브론 남부) |
+| shipping traffic map (Hormuz) | 해상교통지도 |
