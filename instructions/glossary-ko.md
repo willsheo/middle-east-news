@@ -6,7 +6,7 @@ Pinned Korean renderings for recurring terms, so the Korean edition uses identic
 
 Register: analytical written style, 한다체 (plain reportive). Numbers in Arabic numerals with Korean units where natural (약 8,470만 배럴, 10억 달러). Outlet names stay in their original form ([Al Jazeera](...), [Bloomberg](...)); links unchanged. Confidence ratings: **신뢰도: 높음 / 중간 / 낮음**.
 
-_Last updated: 2026-08-16_
+_Last updated: 2026-08-17_
 
 ---
 
@@ -505,3 +505,15 @@ _Last updated: 2026-08-16_
 | Umm al-Khair (Masafer Yatta hamlet) | 움알헤이르 (마사페르 야타 마을) |
 | Masafer Yatta (South Hebron Hills) | 마사페르 야타 (헤브론 남부) |
 | shipping traffic map (Hormuz) | 해상교통지도 |
+| El Alamein (Egypt) | 엘알라메인 |
+| Khalil al-Hayya (Hamas political leader) | 칼릴 알하야 (하마스 정치국장) |
+| Hassan Rashad (Egyptian intelligence chief) | 하산 라샤드 (이집트 정보국장) |
+| Tony Blair (former UK Prime Minister) | 토니 블레어 (전 영국 총리) |
+| Gholam-Hossein Mohseni-Ejei (Iranian judiciary head) | 골람호세인 모흐세니에제이 (이란 사법부 수장) |
+| Nabih Berri (Lebanese Parliament Speaker) | 나비 베리 (레바논 국회의장) |
+| Pope Leo XIV | 교황 레오 14세 |
+| ADNOC (Abu Dhabi National Oil Company) | 아부다비국영석유회사(ADNOC) |
+| Abyan (Yemen governorate) | 아비안 (예멘) |
+| Al-Dhalea (Yemen governorate) | 달리 (예멘) |
+| Jabas (Taybeh outskirts) | 자바스 |
+| Majid Abdullah al-Nuzaili (Yemeni military spokesman) | 마지드 압둘라 알누자일리 (예멘군 대변인) |
