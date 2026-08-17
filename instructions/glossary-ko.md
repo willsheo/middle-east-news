@@ -6,7 +6,7 @@ Pinned Korean renderings for recurring terms, so the Korean edition uses identic
 
 Register: analytical written style, 한다체 (plain reportive). Numbers in Arabic numerals with Korean units where natural (약 8,470만 배럴, 10억 달러). Outlet names stay in their original form ([Al Jazeera](...), [Bloomberg](...)); links unchanged. Confidence ratings: **신뢰도: 높음 / 중간 / 낮음**.
 
-_Last updated: 2026-08-17_
+_Last updated: 2026-08-18_
 
 ---
 
@@ -259,6 +259,8 @@ _Last updated: 2026-08-17_
 | Islamabad memorandum of understanding | 이슬라마바드 양해각서 |
 | Naqoura (Lebanon) | 나쿠라 |
 | Beaufort Castle / Kfar Tebnit / Arnoun / Yuhmor / Al-Bayada (Lebanon) | 보포르 성 / 카프르 테브니트 / 아르눈 / 유흐무르 / 알바야다 |
+| Ali al-Taher ridge (Hezbollah underground command hub, south Lebanon) | 알리 알타헤르 능선 |
+| demilitarization / demilitarization working group | 비무장화 / 비무장화 실무그룹 |
 | Defense Casualty Analysis System (DCAS) | 국방부 사상자 분석 시스템(DCAS) |
 | emergency / supplemental funding (US Congress) | 긴급 예산(추가 예산) |
 | aircraft hangar / drone storage site | 항공기 격납고 / 드론 저장 시설 |
