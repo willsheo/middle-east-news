@@ -390,6 +390,7 @@ _Last updated: 2026-08-18_
 | Scott Bessent (US Treasury Secretary) | 스콧 베센트 (미국 재무장관) |
 | Bezalel Smotrich (Israeli finance minister) | 베잘렐 스모트리치 (이스라엘 재무장관) |
 | Minoan Pioneer (bulk carrier) | 미노안 파이어니어호 |
+| Minoan Dignity (bulk carrier) | 미노안 디그니티호 |
 | disarm-first (revised Gaza withdrawal sequencing) | 무장해제 선행 방식 |
 | Ghazi Hamad (Hamas negotiator) | 가지 함마드 (하마스 협상 담당자) |
 | Anwar Gargash (UAE diplomatic advisor) | 안와르 가르가시 (UAE 외교담당 고문) |
