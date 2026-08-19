@@ -104,6 +104,7 @@ _Last updated: 2026-08-18_
 | supplementary budget | 추가경정예산(추경) |
 | won-dollar rate / KRW/USD exchange rate | 원-달러 환율 (user-pinned 2026-07-16; use this form in prose and chart titles) |
 | KOSPI / Kosdaq | 코스피 / 코스닥 |
+| 30-year US Treasury yield | 30년물 미국 국채 금리 |
 | base rate (BOK policy rate) | 기준금리 |
 | Monetary Policy Board meeting | 금융통화위원회(금통위) |
 | Black Thursday (2026-07-16 rout) | 검은 목요일 |
