@@ -6,7 +6,7 @@ Pinned Korean renderings for recurring terms, so the Korean edition uses identic
 
 Register: analytical written style, 한다체 (plain reportive). Numbers in Arabic numerals with Korean units where natural (약 8,470만 배럴, 10억 달러). Outlet names stay in their original form ([Al Jazeera](...), [Bloomberg](...)); links unchanged. Confidence ratings: **신뢰도: 높음 / 중간 / 낮음**.
 
-_Last updated: 2026-08-18_
+_Last updated: 2026-08-22_
 
 ---
 
@@ -521,3 +521,8 @@ _Last updated: 2026-08-18_
 | Al-Dhalea (Yemen governorate) | 달리 (예멘) |
 | Jabas (Taybeh outskirts) | 자바스 |
 | Majid Abdullah al-Nuzaili (Yemeni military spokesman) | 마지드 압둘라 알누자일리 (예멘군 대변인) |
+| World Central Kitchen (WCK) | 월드 센트럴 키친(WCK) |
+| Somali piracy / pirates | 소말리아 해적 |
+| hijacking (of a vessel) | (선박) 납치 |
+| Sibu 1 / Seamull (tanker) | 시부 1호(구 시멀호) |
+| Kwon Min-su (BOK Deputy Governor) | 권민수 (한국은행 부총재보) |
