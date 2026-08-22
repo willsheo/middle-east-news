@@ -6,7 +6,7 @@ Pinned Korean renderings for recurring terms, so the Korean edition uses identic
 
 Register: analytical written style, 한다체 (plain reportive). Numbers in Arabic numerals with Korean units where natural (약 8,470만 배럴, 10억 달러). Outlet names stay in their original form ([Al Jazeera](...), [Bloomberg](...)); links unchanged. Confidence ratings: **신뢰도: 높음 / 중간 / 낮음**.
 
-_Last updated: 2026-08-22_
+_Last updated: 2026-08-23_
 
 ---
 
@@ -526,3 +526,9 @@ _Last updated: 2026-08-22_
 | hijacking (of a vessel) | (선박) 납치 |
 | Sibu 1 / Seamull (tanker) | 시부 1호(구 시멀호) |
 | Kwon Min-su (BOK Deputy Governor) | 권민수 (한국은행 부총재보) |
+| Tom Barrack (US envoy to Syria, ambassador to Turkey) | 톰 배럭 (미국 시리아 특사 겸 튀르키예 대사) |
+| Ramallah (West Bank) | 라말라 (서안지구) |
+| Abu al-Duhur (Idlib, Syria) | 아부 알두후르 (시리아 이들리브) |
+| bait (to provoke into a clash) | 미끼로 이용하다 (충돌을 유도하다) |
+| Nizar Amedi (Iraqi president) | 니자르 아미디 (이라크 대통령) |
+| Sharif al-Hasanat (Hamas Deir al-Balah commander) | 샤리프 알하사나트 (하마스 데이르알발라 대대 지휘관) |
