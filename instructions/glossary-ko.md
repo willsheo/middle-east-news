@@ -6,7 +6,7 @@ Pinned Korean renderings for recurring terms, so the Korean edition uses identic
 
 Register: analytical written style, 한다체 (plain reportive). Numbers in Arabic numerals with Korean units where natural (약 8,470만 배럴, 10억 달러). Outlet names stay in their original form ([Al Jazeera](...), [Bloomberg](...)); links unchanged. Confidence ratings: **신뢰도: 높음 / 중간 / 낮음**.
 
-_Last updated: 2026-08-23_
+_Last updated: 2026-08-24_
 
 ---
 
@@ -532,3 +532,15 @@ _Last updated: 2026-08-23_
 | bait (to provoke into a clash) | 미끼로 이용하다 (충돌을 유도하다) |
 | Nizar Amedi (Iraqi president) | 니자르 아미디 (이라크 대통령) |
 | Sharif al-Hasanat (Hamas Deir al-Balah commander) | 샤리프 알하사나트 (하마스 데이르알발라 대대 지휘관) |
+| Golan Heights | 골란고원 |
+| Nablus | 나블루스 |
+| Osarin (West Bank village) | 오사린 (서안지구 마을) |
+| Jordan Valley (West Bank) | 요르단 계곡 (서안지구) |
+| Al-Dhabab front (Taiz, Yemen) | 알다바브 전선 (예멘 타이즈) |
+| Al-Zawayda (central Gaza) | 알자와이다 (가자 중부) |
+| kite launch (incendiary/signal device from Gaza) | 연 발사 (가자발 소이·신호용) |
+| Rick Scott (US Senator, Florida) | 릭 스콧 (미국 상원의원, 플로리다) |
+| E1 (West Bank settlement corridor) | E1 구역 (서안지구 정착촌 회랑) |
+| Ra'am (Israeli Arab party) | 라암 (이스라엘 아랍 정당) |
+| Mansour Abbas (Ra'am party leader) | 만수르 아바스 (라암 대표) |
+| Badr Abdelatty (Egyptian foreign minister) | 바드르 압델아티 (이집트 외무장관) |
