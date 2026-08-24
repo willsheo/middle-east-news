@@ -6,7 +6,7 @@ Pinned Korean renderings for recurring terms, so the Korean edition uses identic
 
 Register: analytical written style, 한다체 (plain reportive). Numbers in Arabic numerals with Korean units where natural (약 8,470만 배럴, 10억 달러). Outlet names stay in their original form ([Al Jazeera](...), [Bloomberg](...)); links unchanged. Confidence ratings: **신뢰도: 높음 / 중간 / 낮음**.
 
-_Last updated: 2026-08-24_
+_Last updated: 2026-08-25_
 
 ---
 
@@ -544,3 +544,23 @@ _Last updated: 2026-08-24_
 | Ra'am (Israeli Arab party) | 라암 (이스라엘 아랍 정당) |
 | Mansour Abbas (Ra'am party leader) | 만수르 아바스 (라암 대표) |
 | Badr Abdelatty (Egyptian foreign minister) | 바드르 압델아티 (이집트 외무장관) |
+| Operation Economic Outcast (Aug 24 sanctions campaign) | 이코노믹 아웃캐스트 작전 |
+| OFAC (Office of Foreign Assets Control) | 미 재무부 해외자산통제국(OFAC) |
+| secondary sanctions | 2차 제재 |
+| cure period (sanctions compliance grace period) | 유예 기간 |
+| Bank Melli (Iran) | 이란 멜리은행 |
+| shareholder return (plan) | 주주환원(계획) |
+| buyback and cancel (share buyback program) | 자사주 매입·소각 |
+| Samsung Electronics | 삼성전자 |
+| SK hynix | SK하이닉스 |
+| West Bank | 서안지구 |
+| settler / settlers | 정착민 |
+| amputee | 절단 장애인 |
+| mosque | 모스크 |
+| weapons storage facility / cache | 무기 저장고 |
+| Bureij (Gaza refugee camp) | 부레이지 난민촌 (가자) |
+| Sheikh Radwan (Gaza City neighborhood) | 셰이크 라드완 (가자시티) |
+| Sheikh Saeed al-Amour (Masafer Yatta amputee assault victim) | 셰이크 사이드 알아무르 (마사페르 야타 폭행 피해자) |
+| Khirbet Al-Rakeez (Masafer Yatta hamlet) | 키르베트 알라키즈 (마사페르 야타) |
+| Avigayil (Hebron-area settlement) | 아비가일 (헤브론 인근 정착촌) |
+| Amal Abu Khater (Khan Younis child killed) | 아말 아부 카터 (칸유니스에서 사망한 어린이) |
