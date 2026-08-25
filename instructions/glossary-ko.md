@@ -564,3 +564,19 @@ _Last updated: 2026-08-25_
 | Khirbet Al-Rakeez (Masafer Yatta hamlet) | 키르베트 알라키즈 (마사페르 야타) |
 | Avigayil (Hebron-area settlement) | 아비가일 (헤브론 인근 정착촌) |
 | Amal Abu Khater (Khan Younis child killed) | 아말 아부 카터 (칸유니스에서 사망한 어린이) |
+| Kazem Gharibabadi (Iran deputy foreign minister) | 카젬 가리바바디 (이란 외교부 부장관) |
+| temporary shipping route (Hormuz) | 임시 항로 (호르무즈) |
+| demining / mine clearance | 기뢰 제거 |
+| zero tolerance policy | 무관용 정책 |
+| Asim Munir (Pakistan army chief) | 아심 무니르 (파키스탄군 참모총장) |
+| diplomat return / re-staffing (embassies) | 외교관 복귀 (재배치) |
+| Rashad al-Alimi (Yemen Presidential Leadership Council chairman) | 라샤드 알알리미 (예멘 대통령지도위원회 의장) |
+| painful strikes (Yemen government vow) | 뼈아픈 타격 |
+| Bethlehem | 베들레헴 |
+| Jannatah (West Bank village) | 자나타 (서안지구 마을) |
+| Rabbis for Human Rights | 인권을 위한 랍비들 |
+| Kochav Yehuda (outpost) | 코하브 예후다 (전초기지) |
+| Beit Lahia (northern Gaza) | 베이트라히아 (가자 북부) |
+| Al-Mawasi (Khan Younis area) | 알마와시 (칸유니스 지역) |
+| Wadi Gaza Bridge | 와디가자 다리 |
+| Ash Shishah (Oman) | 아시샤 (오만) |
