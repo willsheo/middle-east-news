@@ -580,3 +580,6 @@ _Last updated: 2026-08-25_
 | Al-Mawasi (Khan Younis area) | 알마와시 (칸유니스 지역) |
 | Wadi Gaza Bridge | 와디가자 다리 |
 | Ash Shishah (Oman) | 아시샤 (오만) |
+| point of no return | 돌아올 수 없는 지점 |
+| Kalabah front (Taiz, Yemen) | 칼라바 전선 (예멘 타이즈) |
+| Al-Safa area (Taiz, Yemen) | 알사파 지역 (예멘 타이즈) |
