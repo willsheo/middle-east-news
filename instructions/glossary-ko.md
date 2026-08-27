@@ -6,7 +6,7 @@ Pinned Korean renderings for recurring terms, so the Korean edition uses identic
 
 Register: analytical written style, 한다체 (plain reportive). Numbers in Arabic numerals with Korean units where natural (약 8,470만 배럴, 10억 달러). Outlet names stay in their original form ([Al Jazeera](...), [Bloomberg](...)); links unchanged. Confidence ratings: **신뢰도: 높음 / 중간 / 낮음**.
 
-_Last updated: 2026-08-25_
+_Last updated: 2026-08-28_
 
 ---
 
@@ -583,3 +583,8 @@ _Last updated: 2026-08-25_
 | point of no return | 돌아올 수 없는 지점 |
 | Kalabah front (Taiz, Yemen) | 칼라바 전선 (예멘 타이즈) |
 | Al-Safa area (Taiz, Yemen) | 알사파 지역 (예멘 타이즈) |
+| Quneitra (Syria) | 쿠네이트라 (시리아) |
+| 1974 armistice line | 1974년 정전선 |
+| Nabatieh (Lebanon) | 나바티예 (레바논) |
+| privileged resolution (US Senate) | 특권 결의안 (미 상원) |
+| Chris Van Hollen (US Senator) | 크리스 밴홀런 (미 상원의원) |

@@ -195,9 +195,20 @@ def main():
         ha = "right" if side == "left" else "left"
         dx = -0.55 if side == "left" else 0.55
         ly = lat
-        for pside, py in placed:
-            if pside == side and abs(py - ly) < min_dy:
-                ly = py - min_dy
+        # Re-scan on every nudge so resolving one collision can't reopen
+        # another already-cleared one (a single pass could nudge a label
+        # straight into an earlier label it had already passed). Guard with
+        # an epsilon and an iteration cap: floating point rounding can put
+        # a recomputed ly exactly on the min_dy boundary, which would
+        # otherwise re-trigger the same no-op nudge forever.
+        for _ in range(len(placed) + 1):
+            moved = False
+            for pside, py in placed:
+                if pside == side and abs(py - ly) < min_dy - 1e-9:
+                    ly = py - min_dy
+                    moved = True
+            if not moved:
+                break
         placed.append((side, ly))
         # Faint leader from the dot to its (possibly nudged) label anchor.
         ax.plot([lon, lon + dx], [lat, ly], color="#8a857a", linewidth=0.4,
