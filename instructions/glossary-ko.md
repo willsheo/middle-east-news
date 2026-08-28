@@ -6,7 +6,7 @@ Pinned Korean renderings for recurring terms, so the Korean edition uses identic
 
 Register: analytical written style, 한다체 (plain reportive). Numbers in Arabic numerals with Korean units where natural (약 8,470만 배럴, 10억 달러). Outlet names stay in their original form ([Al Jazeera](...), [Bloomberg](...)); links unchanged. Confidence ratings: **신뢰도: 높음 / 중간 / 낮음**.
 
-_Last updated: 2026-08-28_
+_Last updated: 2026-08-29_
 
 ---
 
@@ -588,3 +588,9 @@ _Last updated: 2026-08-28_
 | Nabatieh (Lebanon) | 나바티예 (레바논) |
 | privileged resolution (US Senate) | 특권 결의안 (미 상원) |
 | Chris Van Hollen (US Senator) | 크리스 밴홀런 (미 상원의원) |
+| Jenin (West Bank) | 제닌 (서안지구) |
+| Qais Bitwani (Jenin Hamas operative) | 카이스 비트와니 (제닌 하마스 조직원) |
+| Banque Misr (Egyptian state bank) | 방크미스르 (이집트 국영은행) |
+| correspondent banking access | 코레스은행 접근권 |
+| FinCEN Section 311 (US Treasury) | 미 재무부 금융범죄단속국(FinCEN) 311조 |
+| shadow banking network (sanctions evasion) | 그림자 금융망 |
