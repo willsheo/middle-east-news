@@ -6,7 +6,7 @@ Pinned Korean renderings for recurring terms, so the Korean edition uses identic
 
 Register: analytical written style, 한다체 (plain reportive). Numbers in Arabic numerals with Korean units where natural (약 8,470만 배럴, 10억 달러). Outlet names stay in their original form ([Al Jazeera](...), [Bloomberg](...)); links unchanged. Confidence ratings: **신뢰도: 높음 / 중간 / 낮음**.
 
-_Last updated: 2026-08-30_
+_Last updated: 2026-08-31_
 
 ---
 
@@ -598,3 +598,13 @@ _Last updated: 2026-08-30_
 | IDF Southern Command | 이스라엘군 남부사령부 |
 | Nahal Oz (kibbutz, Gaza border) | 나할오즈 (가자 접경 키부츠) |
 | complete control (IRGC Hormuz claim) | 완전한 통제 |
+| Larak Island (Iran) | 라라크섬 (이란) |
+| sea mine | 해상 기뢰 |
+| rocket launcher | 로켓 발사대 |
+| force posture | 전력 태세 |
+| non-concur (military dissent, still executes order) | 반대 의견 (명령은 이행) |
+| Secretary of Defense Orders Book | 국방장관 명령서 |
+| Daryl Caudle (US Chief of Naval Operations) | 대릴 코들 (미 해군참모총장) |
+| destroyer (deployable readiness) | 구축함 (배치 가능 태세) |
+| al-Mughayyir (West Bank village) | 알무가이르 (서안지구 마을) |
+| joint settler soldier raid | 정착민 군인 합동 습격 |
