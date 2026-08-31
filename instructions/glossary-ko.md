@@ -6,7 +6,7 @@ Pinned Korean renderings for recurring terms, so the Korean edition uses identic
 
 Register: analytical written style, 한다체 (plain reportive). Numbers in Arabic numerals with Korean units where natural (약 8,470만 배럴, 10억 달러). Outlet names stay in their original form ([Al Jazeera](...), [Bloomberg](...)); links unchanged. Confidence ratings: **신뢰도: 높음 / 중간 / 낮음**.
 
-_Last updated: 2026-08-31_
+_Last updated: 2026-09-01_
 
 ---
 
@@ -608,3 +608,10 @@ _Last updated: 2026-08-31_
 | destroyer (deployable readiness) | 구축함 (배치 가능 태세) |
 | al-Mughayyir (West Bank village) | 알무가이르 (서안지구 마을) |
 | joint settler soldier raid | 정착민 군인 합동 습격 |
+| Punishment of the Aggressor (IRGC operation name) | 침략자 응징 작전 |
+| Al Minhad Air Base (UAE) | 알민하드 공군기지 (아랍에미리트) |
+| Muwaffaq Salti Air Base / Azraq (Jordan) | 무와파크 살티 공군기지 / 아즈라크 (요르단) |
+| Prince Hassan Air Base / King Hussein Air Base (Jordan) | 프린스 하산 공군기지 / 킹후세인 공군기지 (요르단) |
+| Burqa (West Bank village) | 부르카 (서안지구 마을) |
+| Masoud Pezeshkian (Iran president) | 마수드 페제시키안 (이란 대통령) |
+| Shanghai Cooperation Organisation (SCO) summit | 상하이협력기구(SCO) 정상회의 |
