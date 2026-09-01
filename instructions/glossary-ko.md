@@ -615,3 +615,9 @@ _Last updated: 2026-09-01_
 | Burqa (West Bank village) | 부르카 (서안지구 마을) |
 | Masoud Pezeshkian (Iran president) | 마수드 페제시키안 (이란 대통령) |
 | Shanghai Cooperation Organisation (SCO) summit | 상하이협력기구(SCO) 정상회의 |
+| Camp Titin (US Marine camp, Jordan) | 캠프 티틴 (요르단 주둔 미 해병대 기지) |
+| decisive operation (IRGC term) | 결정적 작전 |
+| Sinokor (Korean shipping operator) | 시노코 (한국 해운사) |
+| Senegal Prosperity (tanker) | 세네갈 프로스퍼리티호 |
+| Bizzariya (West Bank village) | 비자리야 (서안지구 마을) |
+| Muein al-Arabid (Hamas internal security chief) | 무에인 알아라비드 (하마스 내부보안 책임자) |
