@@ -621,3 +621,11 @@ _Last updated: 2026-09-01_
 | Senegal Prosperity (tanker) | 세네갈 프로스퍼리티호 |
 | Bizzariya (West Bank village) | 비자리야 (서안지구 마을) |
 | Muein al-Arabid (Hamas internal security chief) | 무에인 알아라비드 (하마스 내부보안 책임자) |
+| Bahri (Saudi state shipping company) | 바흐리 (사우디 국영해운사) |
+| Sidr (tanker) | 시드르호 |
+| Kuhestak (Hormozgan, Iran) | 쿠헤스타크 (이란 호르모즈간주) |
+| Janggeum Shipping (Sinokor's Korean corporate name) | 장금상선 (시노코의 한국 법인명) |
+| Filipino seafarer | 필리핀 국적 선원 |
+| war crime (accusation) | 전쟁범죄 |
+| voluntary emigration plan (Gaza) | 자발적 이주 계획 |
+| frozen (policy, not scrapped) | 동결 (백지화 아님) |
