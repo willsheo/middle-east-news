@@ -217,3 +217,7 @@ brent,2026-09-02,94.86,close,"Brent traded near 95 through the Sept 2 session as
 wti,2026-09-02,90.63,settle,"WTI (October contract) settled +0.45% to 90.63 Wednesday, extending Tuesday's roughly 4% gain (Yahoo Finance market wrap, Sept 2 close data)"
 kospi,2026-09-02,6562.72,close,"KOSPI fell 3.99% to 6562.72, its steepest drop in weeks, as the oil shock compounded a separate run-up in US Treasury yields (10-year touched 4.814%), partly cushioned by corporate buybacks (Seoul Economic Daily; Asia Business Daily)"
 usdkrw,2026-09-02,1368.7,close,"won held nearly flat, easing to 1368.7 at the Seoul close, 1.7 won stronger than Tuesday, diverging from the equity selloff (Seoul Economic Daily)"
+brent,2026-09-03,95.26,settle,"Brent settled -0.4% to 95.26 Thursday, snapping a three-day rally as investors weighed Trump's signal the renewed Iran strikes would not be prolonged against a 4.5 million barrel US crude inventory draw, the first since late July (AP via Local10/WSLS)"
+wti,2026-09-03,90.84,settle,"WTI settled -0.1% to 90.84 Thursday, same de-escalation-signal catalyst as Brent (AP via Local10/WSLS)"
+kospi,2026-09-03,6579.48,close,"KOSPI +0.26% to 6579.48 Thursday, a sharp reversal after plunging roughly 3% in the first ten minutes of trading, as corporate buybacks offset renewed pressure from oil and global bond yields (Seoul Economic Daily)"
+usdkrw,2026-09-03,1359.3,close,"won firmed 9.4 won to 1359.3 at the Seoul close Thursday (Money Today)"

@@ -6,7 +6,7 @@ Pinned Korean renderings for recurring terms, so the Korean edition uses identic
 
 Register: analytical written style, 한다체 (plain reportive). Numbers in Arabic numerals with Korean units where natural (약 8,470만 배럴, 10억 달러). Outlet names stay in their original form ([Al Jazeera](...), [Bloomberg](...)); links unchanged. Confidence ratings: **신뢰도: 높음 / 중간 / 낮음**.
 
-_Last updated: 2026-09-01_
+_Last updated: 2026-09-04_
 
 ---
 
@@ -629,3 +629,10 @@ _Last updated: 2026-09-01_
 | war crime (accusation) | 전쟁범죄 |
 | voluntary emigration plan (Gaza) | 자발적 이주 계획 |
 | frozen (policy, not scrapped) | 동결 (백지화 아님) |
+| regime change (Iran, as declared war aim) | 정권교체 |
+| central mission (Israel's stated Iran war aim) | 중심 임무 |
+| tanker for tanker policy | 탱커 대 탱커 정책 |
+| diminishing asset (Vance on Iran's Hormuz control) | 소멸해가는 자산 |
+| Disengagement 710 (Ben Gvir's Gaza plan) | 디스인게이지먼트 710 |
+| Ben Gvir (National Security Minister) | 벤그비르 (국가안보장관) |
+| Yellow Line (Gaza ceasefire demarcation) | 옐로우 라인 (가자 정전 경계선) |
