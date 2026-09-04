@@ -6,7 +6,7 @@ Pinned Korean renderings for recurring terms, so the Korean edition uses identic
 
 Register: analytical written style, 한다체 (plain reportive). Numbers in Arabic numerals with Korean units where natural (약 8,470만 배럴, 10억 달러). Outlet names stay in their original form ([Al Jazeera](...), [Bloomberg](...)); links unchanged. Confidence ratings: **신뢰도: 높음 / 중간 / 낮음**.
 
-_Last updated: 2026-09-04_
+_Last updated: 2026-09-05_
 
 ---
 
@@ -636,3 +636,6 @@ _Last updated: 2026-09-04_
 | Disengagement 710 (Ben Gvir's Gaza plan) | 디스인게이지먼트 710 |
 | Ben Gvir (National Security Minister) | 벤그비르 (국가안보장관) |
 | Yellow Line (Gaza ceasefire demarcation) | 옐로우 라인 (가자 정전 경계선) |
+| Howard Lutnick (US Commerce Secretary) | 하워드 러트닉 (미 상무장관) |
+| Christopher Waller (Fed Governor) | 크리스토퍼 월러 (연준 이사) |
+| Bab el-Mandeb offensive (Houthi, Sept 2026) | 바브엘만데브 공세 |
