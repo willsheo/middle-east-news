@@ -6,7 +6,7 @@ Pinned Korean renderings for recurring terms, so the Korean edition uses identic
 
 Register: analytical written style, 한다체 (plain reportive). Numbers in Arabic numerals with Korean units where natural (약 8,470만 배럴, 10억 달러). Outlet names stay in their original form ([Al Jazeera](...), [Bloomberg](...)); links unchanged. Confidence ratings: **신뢰도: 높음 / 중간 / 낮음**.
 
-_Last updated: 2026-09-05_
+_Last updated: 2026-09-06_
 
 ---
 
@@ -639,3 +639,16 @@ _Last updated: 2026-09-05_
 | Howard Lutnick (US Commerce Secretary) | 하워드 러트닉 (미 상무장관) |
 | Christopher Waller (Fed Governor) | 크리스토퍼 월러 (연준 이사) |
 | Bab el-Mandeb offensive (Houthi, Sept 2026) | 바브엘만데브 공세 |
+| Chicago Rules (CENTCOM escalation doctrine) | 시카고 룰 (중부사령부 확전 대응 원칙) |
+| Lee Jae-myung (South Korean President) | 이재명 (대한민국 대통령) |
+| National Assembly (South Korea) | 국회 |
+| Democratic Party of Korea | 더불어민주당 |
+| Rebuilding Korea Party | 조국혁신당 |
+| Progressive Party (Korea) | 진보당 |
+| Lee Ki-heon (Democratic Party lawmaker) | 이기헌 (더불어민주당 의원) |
+| Jung Hye-kyung (Progressive Party lawmaker) | 정혜경 (진보당 의원) |
+| Kim Joon-hyung (Rebuilding Korea Party floor leader) | 김준형 (조국혁신당 원내대표) |
+| ROKS Soyang (Korean support ship) | 소양함 (한국 해군 지원함) |
+| P-8A Poseidon (patrol aircraft) | P-8A 포세이돈 (해상초계기) |
+| Hejah al-Abd road (Taiz, Yemen) | 헤이자 알아브드 도로 (예멘 타이즈) |
+| M/T Downy / M/T Stark 1 / M/T Kylo (tankers) | 다우니호 / 스타크 1호 / 카일로호 (유조선) |
