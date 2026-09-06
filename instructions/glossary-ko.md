@@ -6,7 +6,7 @@ Pinned Korean renderings for recurring terms, so the Korean edition uses identic
 
 Register: analytical written style, 한다체 (plain reportive). Numbers in Arabic numerals with Korean units where natural (약 8,470만 배럴, 10억 달러). Outlet names stay in their original form ([Al Jazeera](...), [Bloomberg](...)); links unchanged. Confidence ratings: **신뢰도: 높음 / 중간 / 낮음**.
 
-_Last updated: 2026-09-06_
+_Last updated: 2026-09-07_
 
 ---
 
@@ -652,3 +652,15 @@ _Last updated: 2026-09-06_
 | P-8A Poseidon (patrol aircraft) | P-8A 포세이돈 (해상초계기) |
 | Hejah al-Abd road (Taiz, Yemen) | 헤이자 알아브드 도로 (예멘 타이즈) |
 | M/T Downy / M/T Stark 1 / M/T Kylo (tankers) | 다우니호 / 스타크 1호 / 카일로호 (유조선) |
+| era of proportionate responses is over (Ghalibaf) | 비례적 대응의 시대는 끝났다 |
+| faster, heavier, more painful (Ghalibaf's threat) | 더 빠르고 더 무겁고 더 고통스러운 |
+| Arab Salim (south Lebanon village) | 아랍 살림 (레바논 남부 마을) |
+| Nabatieh al-Fawqa (south Lebanon town) | 나바티예 알파우카 (레바논 남부 마을) |
+| Kfar Rumman (south Lebanon town) | 크파르 루만 (레바논 남부 마을) |
+| Hays (Hodeidah district, Yemen) | 하이스 (예멘 호데이다주) |
+| al-Jarrahi (Hodeidah district, Yemen) | 알자라히 (예멘 호데이다주) |
+| Emmanuel Macron (French president) | 에마뉘엘 마크롱 (프랑스 대통령) |
+| Lumiere Summit (film industry summit, France) | 뤼미에르 정상회의 |
+| Ahn Cheol-soo (People Power Party lawmaker) | 안철수 (국민의힘 의원) |
+| Jo Yong-sool (presidential spokesman) | 조용술 (대통령실 대변인) |
+| a little irrational (Kushner on Netanyahu's government) | 다소 비이성적 |
