@@ -6,7 +6,7 @@ Pinned Korean renderings for recurring terms, so the Korean edition uses identic
 
 Register: analytical written style, 한다체 (plain reportive). Numbers in Arabic numerals with Korean units where natural (약 8,470만 배럴, 10억 달러). Outlet names stay in their original form ([Al Jazeera](...), [Bloomberg](...)); links unchanged. Confidence ratings: **신뢰도: 높음 / 중간 / 낮음**.
 
-_Last updated: 2026-09-07_
+_Last updated: 2026-09-08_
 
 ---
 
@@ -662,5 +662,12 @@ _Last updated: 2026-09-07_
 | Emmanuel Macron (French president) | 에마뉘엘 마크롱 (프랑스 대통령) |
 | Lumiere Summit (film industry summit, France) | 뤼미에르 정상회의 |
 | Ahn Cheol-soo (People Power Party lawmaker) | 안철수 (국민의힘 의원) |
-| Jo Yong-sool (presidential spokesman) | 조용술 (대통령실 대변인) |
+| Jo Yong-sool (People Power Party spokesperson) | 조용술 (국민의힘 대변인) — **correction 2026-09-08:** the Sept 7 brief misidentified him as a presidential/government spokesman; he is an opposition PPP spokesperson |
 | a little irrational (Kushner on Netanyahu's government) | 다소 비이성적 |
+| Kfar Rumman (south Lebanon town) | 크파르 루만 — pinned rendering; supersedes the earlier "카프르 룸만" used before this town recurred |
+| Al-Jawf (Yemen province) | 알자우프주 (예멘) |
+| Hajja (West Bank village) | 하자 (요르단강 서안 마을) |
+| Maoz Yehuda (West Bank outpost) | 마오즈 예후다 (요르단강 서안 전초기지) |
+| Ghandour Hospital (Nabatieh, Lebanon) | 간두르 병원 (레바논 나바티예) |
+| Khatam al-Anbiya (IRGC joint command) | 하탐 알안비야 (혁명수비대 합동사령부) |
+| unmanned military vessel | 무인 군용 선박 |
