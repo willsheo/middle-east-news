@@ -6,7 +6,7 @@ Pinned Korean renderings for recurring terms, so the Korean edition uses identic
 
 Register: analytical written style, 한다체 (plain reportive). Numbers in Arabic numerals with Korean units where natural (약 8,470만 배럴, 10억 달러). Outlet names stay in their original form ([Al Jazeera](...), [Bloomberg](...)); links unchanged. Confidence ratings: **신뢰도: 높음 / 중간 / 낮음**.
 
-_Last updated: 2026-09-08_
+_Last updated: 2026-09-09_
 
 ---
 
@@ -671,3 +671,19 @@ _Last updated: 2026-09-08_
 | Ghandour Hospital (Nabatieh, Lebanon) | 간두르 병원 (레바논 나바티예) |
 | Khatam al-Anbiya (IRGC joint command) | 하탐 알안비야 (혁명수비대 합동사령부) |
 | unmanned military vessel | 무인 군용 선박 |
+| Al-Bayda (Yemen governorate) | 알바이다주 (예멘) |
+| al-Hazm (Yemen, al-Jawf capital) | 알하즘 (예멘 알자우프주) |
+| Khamis Mushait (Saudi Arabia) | 카미스 무샤이트 (사우디아라비아) |
+| King Khalid Air Base (Saudi Arabia) | 킹칼리드 공군기지 (사우디아라비아) |
+| Samir Al-Sabri (Yemen deputy defense minister) | 사미르 알사브리 (예멘 국방차관) |
+| Faisal bin Farhan (Saudi foreign minister) | 파이살 빈 파르한 (사우디 외무장관) |
+| Joint Forces Command (Saudi-led coalition) | 합동군사령부 (사우디 주도 연합군) |
+| unmanned underwater vehicle (UUV) | 무인잠수정(UUV) |
+| Dive-LD (Anduril UUV model) | 다이브-LD (안두릴社 무인잠수정) |
+| Anduril Industries | 안두릴 인더스트리스 |
+| Ed Miliband (UK foreign secretary) | 에드 밀리밴드 (영국 외무장관) |
+| ethnic cleansing (UK characterization of settler violence) | 인종 청소 |
+| settler terrorists (Miliband's phrase) | 정착민 테러리스트 |
+| consulate closure (diplomatic retaliation) | 영사관 폐쇄 |
+| Gaza Support Center | 가자 지원센터 |
+| Elysee Palace (Paris) | 엘리제궁 (파리) |
