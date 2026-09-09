@@ -687,3 +687,16 @@ _Last updated: 2026-09-09_
 | consulate closure (diplomatic retaliation) | 영사관 폐쇄 |
 | Gaza Support Center | 가자 지원센터 |
 | Elysee Palace (Paris) | 엘리제궁 (파리) |
+| Han Seong-sook (South Korea prime minister) | 한성숙 (대한민국 국무총리) |
+| Wi Sung-lac (South Korea national security adviser) | 위성락 (국가안보실장) |
+| on-site assessment team (Hormuz) | 현장 점검단 (호르무즈) |
+| Muwaffaq Salti Air Base attack, second strike | 무와파크 살티 공군기지 2차 피격 |
+| Yatma (Yemen, Al-Jawf) | 야트마 (예멘 알자우프주) |
+| Dhi Na'im (Yemen, Al-Bayda) | 디 나임 (예멘 알바이다주) |
+| al-Labanat mountains (Yemen) | 알라바나트 산악지대 (예멘) |
+| midterm elections (US) | 중간선거 (미국) |
+| National Security Council (South Korea) | 국가안전보장회의 |
+| Jordanian Armed Forces | 요르단군 |
+| Sheikh Ijlin (Gaza City neighborhood) | 셰이크 이즐린 (가자시티) |
+| Nigel Farage | 나이절 패라지 |
+| Farah Hamed (2011 Shalit-exchange releasee) | 파라 하메드 (2011년 샬리트 교환 석방자) |
