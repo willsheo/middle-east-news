@@ -244,3 +244,7 @@ brent,2026-09-09,101.21,settle,"Confirmed NYMEX/ICE settle for Wednesday Sept 9'
 wti,2026-09-09,96.05,settle,"Confirmed settle for the same Sept 9 session, up 3.25% and the highest close since late May; supersedes the prior day's intraday read of 94.92 (CNBC)"
 kospi,2026-09-10,7033.92,close,"KOSPI eased 17.72 points (-0.25%) to 7033.92, pulling back from Wednesday's 33-session high above 7,000 (Asiae; Money Today)"
 usdkrw,2026-09-10,1339.2,close,"Won weakened 3.1 won to 1339.2 at the Seoul close, giving back part of Wednesday's 23-month strength (Financial News/fnnews.com)"
+brent,2026-09-11,104.61,settle,"Confirmed Friday Sept 11 settle, down 2.8% on the day after Iran's foreign ministry said it would meet Gulf Cooperation Council states and Iraq in Salalah, Oman on Monday to discuss the Strait of Hormuz, a de-escalatory signal; still up 8.7% for the week, the sharpest weekly gain of the war (CNBC)"
+wti,2026-09-11,100.05,settle,"Confirmed Friday Sept 11 settle, down 2.4% on the day on the same Oman-talks signal; up 9.4% for the week (CNBC)"
+kospi,2026-09-11,6909.91,close,"KOSPI fell 1.76% to 6909.91 as rising oil prices and global bond yields weighed on sentiment, giving back part of the week's earlier AI-rally gains (Korea Times; Seoul Economic Daily)"
+usdkrw,2026-09-11,1345.9,close,"Won weakened to 1345.9 at the Seoul close as oil-driven inflation concern outweighed exporter dollar selling (Korea Times)"

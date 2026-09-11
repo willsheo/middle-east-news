@@ -6,7 +6,7 @@ Pinned Korean renderings for recurring terms, so the Korean edition uses identic
 
 Register: analytical written style, 한다체 (plain reportive). Numbers in Arabic numerals with Korean units where natural (약 8,470만 배럴, 10억 달러). Outlet names stay in their original form ([Al Jazeera](...), [Bloomberg](...)); links unchanged. Confidence ratings: **신뢰도: 높음 / 중간 / 낮음**.
 
-_Last updated: 2026-09-09_
+_Last updated: 2026-09-12_
 
 ---
 
@@ -700,3 +700,16 @@ _Last updated: 2026-09-09_
 | Sheikh Ijlin (Gaza City neighborhood) | 셰이크 이즐린 (가자시티) |
 | Nigel Farage | 나이절 패라지 |
 | Farah Hamed (2011 Shalit-exchange releasee) | 파라 하메드 (2011년 샬리트 교환 석방자) |
+| Perim Island (Mayun) | 페림섬(마윤) |
+| Gulf Cooperation Council (GCC) | 걸프협력회의(GCC) |
+| IAEA Board of Governors | IAEA 이사회 |
+| Salalah (Oman) | 살랄라 (오만) |
+| Pentagon | 펜타곤 (미국 국방부) |
+| Pete Hegseth (US defense secretary) | 피트 헤그세스 (미국 국방장관) |
+| Cho Hyun (South Korea foreign minister) | 조현 (외교부 장관) |
+| Lee Doo-hee (South Korea vice defense minister) | 이두희 (국방부 차관) |
+| settler violence | 정착민 폭력 |
+| National Assembly interpellation session | 국회 대정부질문 |
+| Border Police (Israel, West Bank) | 국경경찰 |
+| war on terror | 테러와의 전쟁 |
+| freedom of navigation | 항행의 자유 |
