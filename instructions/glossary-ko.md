@@ -6,7 +6,7 @@ Pinned Korean renderings for recurring terms, so the Korean edition uses identic
 
 Register: analytical written style, 한다체 (plain reportive). Numbers in Arabic numerals with Korean units where natural (약 8,470만 배럴, 10억 달러). Outlet names stay in their original form ([Al Jazeera](...), [Bloomberg](...)); links unchanged. Confidence ratings: **신뢰도: 높음 / 중간 / 낮음**.
 
-_Last updated: 2026-09-14_
+_Last updated: 2026-09-15_
 
 ---
 
@@ -722,3 +722,10 @@ _Last updated: 2026-09-14_
 | Sharurah (Najran, Saudi Arabia) | 샤루라 (사우디아라비아 나즈란) |
 | al-Tawwal (Saudi Arabia, Yemen border) | 알타왈 (사우디아라비아, 예멘 접경) |
 | Gallup Korea | 한국갤럽 |
+| BRICS summit | 브릭스(BRICS) 정상회의 |
+| New Delhi | 뉴델리 |
+| false pretext | 거짓 구실 |
+| triple threat (KOSPI: oil, Fed rate, AI slowdown) | 삼중고 |
+| AI development pace-control debate | AI 개발 속도조절론 |
+| core Consumer Price Index (core CPI) | 근원 소비자물가지수(CPI) |
+| Federal Open Market Committee (FOMC) | 연방공개시장위원회(FOMC) |
