@@ -6,7 +6,7 @@ Pinned Korean renderings for recurring terms, so the Korean edition uses identic
 
 Register: analytical written style, 한다체 (plain reportive). Numbers in Arabic numerals with Korean units where natural (약 8,470만 배럴, 10억 달러). Outlet names stay in their original form ([Al Jazeera](...), [Bloomberg](...)); links unchanged. Confidence ratings: **신뢰도: 높음 / 중간 / 낮음**.
 
-_Last updated: 2026-09-15_
+_Last updated: 2026-09-16_
 
 ---
 
@@ -729,3 +729,9 @@ _Last updated: 2026-09-15_
 | AI development pace-control debate | AI 개발 속도조절론 |
 | core Consumer Price Index (core CPI) | 근원 소비자물가지수(CPI) |
 | Federal Open Market Committee (FOMC) | 연방공개시장위원회(FOMC) |
+| Hanish Island | 하니시섬 |
+| Wang Yi (China, director of the Office of the Central Commission for Foreign Affairs and Foreign Minister) | 왕이 (중국 중앙외사판공실 주임 겸 외교부장) |
+| Korea-US Integrated Defense Dialogue (KIDD) | 한미 통합국방협의체(KIDD) |
+| Supreme National Security Council (Iran) | 최고국가안보회의 |
+| "quickly and badly" (Trump on Iran's wish for a deal) | "빠르고 절박하게" |
+| "No talks until Iran's conditions are met. Period!" (Rezaei) | "이란의 조건이 충족될 때까지 협상은 없다. 끝!" |
