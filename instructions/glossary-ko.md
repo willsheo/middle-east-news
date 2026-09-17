@@ -741,3 +741,7 @@ _Last updated: 2026-09-17_
 | crude inventory build | 원유 재고 증가 |
 | pumping station (pipeline) | 펌프장 |
 | Poten & Partners (shipping analytics firm) | 포텐앤파트너스 |
+| World Food Programme (WFP) | 세계식량계획(WFP) |
+| Windward (maritime intelligence firm) | 윈드워드(해상정보 분석업체) |
+| Federal Reserve rate hike | 연방준비제도 금리 인상 |
+| "direct talks" (Trump's characterization of contact with Iran) | "직접 대화" |
