@@ -6,7 +6,7 @@ Pinned Korean renderings for recurring terms, so the Korean edition uses identic
 
 Register: analytical written style, 한다체 (plain reportive). Numbers in Arabic numerals with Korean units where natural (약 8,470만 배럴, 10억 달러). Outlet names stay in their original form ([Al Jazeera](...), [Bloomberg](...)); links unchanged. Confidence ratings: **신뢰도: 높음 / 중간 / 낮음**.
 
-_Last updated: 2026-09-17_
+_Last updated: 2026-09-19_
 
 ---
 
@@ -745,3 +745,11 @@ _Last updated: 2026-09-17_
 | Windward (maritime intelligence firm) | 윈드워드(해상정보 분석업체) |
 | Federal Reserve rate hike | 연방준비제도 금리 인상 |
 | "direct talks" (Trump's characterization of contact with Iran) | "직접 대화" |
+| Kevin Warsh (Federal Reserve Chair) | 케빈 워시 (연준 의장) |
+| Independent International Fact-Finding Mission on Iran (UN) | 유엔 이란 독립국제진상조사단 |
+| reasonable grounds (war crimes finding standard) | 합리적 근거 |
+| recklessness (legal standard, UN mission finding) | 무모함 |
+| Trend (Togo-flagged tanker) | 트렌드호 |
+| Cheonghae Unit (Korean navy anti-piracy unit) | 청해부대 |
+| Minab (Iran, Hormozgan province) | 미나브 (이란 호르모즈간주) |
+| Lamerd (Iran, Fars province) | 라메르드 (이란 파르스주) |
