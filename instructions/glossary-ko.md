@@ -753,3 +753,11 @@ _Last updated: 2026-09-19_
 | Cheonghae Unit (Korean navy anti-piracy unit) | 청해부대 |
 | Minab (Iran, Hormozgan province) | 미나브 (이란 호르모즈간주) |
 | Lamerd (Iran, Fars province) | 라메르드 (이란 파르스주) |
+| Riyadh | 리야드 |
+| King Khalid International Airport (Riyadh) | 킹칼리드 국제공항 (리야드) |
+| UN Human Rights Council | 유엔 인권이사회 |
+| State Department (US) | 미 국무부 |
+| White House | 백악관 |
+| UNHCR (UN refugee agency) | 유엔난민기구(UNHCR) |
+| UN General Assembly | 유엔총회 |
+| postwar strategy (US, on Iran) | 전후 전략 |
