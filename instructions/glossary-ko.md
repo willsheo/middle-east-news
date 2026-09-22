@@ -764,5 +764,7 @@ _Last updated: 2026-09-19_
 | Camp David | 캠프 데이비드 |
 | Alex Plitsas (CNN national security analyst) | 알렉스 플리차스 (CNN 국가안보 분석가) |
 | Sardar Muhammad Yousuf (Pakistan Religious Affairs Minister) | 사르다르 무함마드 유수프 (파키스탄 종교부 장관) |
-| Ensinal gas-fired power plant (Texas) | 앤시널 가스복합화력발전소 (텍사스) |
+| Encinal gas-fired power plant (Texas) | 엔시널 가스복합화력발전소 (텍사스) |
 | substantive contribution (Korea, Hormuz) | 실질적 기여 |
+| Steve Witkoff (US special envoy) | 스티브 위트코프 (미국 특사) |
+| "annihilate" (Trump's threat to Iran) | "섬멸하다" |
