@@ -6,7 +6,7 @@ Pinned Korean renderings for recurring terms, so the Korean edition uses identic
 
 Register: analytical written style, 한다체 (plain reportive). Numbers in Arabic numerals with Korean units where natural (약 8,470만 배럴, 10억 달러). Outlet names stay in their original form ([Al Jazeera](...), [Bloomberg](...)); links unchanged. Confidence ratings: **신뢰도: 높음 / 중간 / 낮음**.
 
-_Last updated: 2026-09-19_
+_Last updated: 2026-09-25_
 
 ---
 
@@ -768,3 +768,10 @@ _Last updated: 2026-09-19_
 | substantive contribution (Korea, Hormuz) | 실질적 기여 |
 | Steve Witkoff (US special envoy) | 스티브 위트코프 (미국 특사) |
 | "annihilate" (Trump's threat to Iran) | "섬멸하다" |
+| road map (Iran's ceasefire/Hormuz proposal) | 로드맵 |
+| impeachment motion (Araghchi) | 탄핵소추안 |
+| Amirhossein Sabeti (Iranian MP) | 아미르호세인 사베티 (이란 국회의원) |
+| Yahya Rahim Safavi (adviser to Khamenei) | 야흐야 라힘 사파비 (하메네이 자문관) |
+| Indian Ocean (potential war expansion) | 인도양 |
+| Taif (Saudi Arabia) | 타이프 (사우디아라비아) |
+| National Security and Foreign Policy Commission (Iran parliament) | 국가안보외교정책위원회 (이란 의회) |
