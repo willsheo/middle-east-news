@@ -775,3 +775,7 @@ _Last updated: 2026-09-25_
 | Indian Ocean (potential war expansion) | 인도양 |
 | Taif (Saudi Arabia) | 타이프 (사우디아라비아) |
 | National Security and Foreign Policy Commission (Iran parliament) | 국가안보외교정책위원회 (이란 의회) |
+| Lahj (Yemen) | 라지 (예멘) |
+| Taiz-Aden-Lahj corridor | 타이즈-아덴-라지 회랑 |
+| Selcuk Bayraktaroglu (Turkish Chief of General Staff) | 셀추크 바이락타로을루 (튀르키예군 참모총장) |
+| Nauman Mahmood (Mecca pact secretary general, retired Pakistani Lt. Gen.) | 나우만 마흐무드 (메카협정 사무총장, 파키스탄 예비역 중장) |
