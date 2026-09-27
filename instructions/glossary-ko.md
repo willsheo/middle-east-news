@@ -779,3 +779,7 @@ _Last updated: 2026-09-25_
 | Taiz-Aden-Lahj corridor | 타이즈-아덴-라지 회랑 |
 | Selcuk Bayraktaroglu (Turkish Chief of General Staff) | 셀추크 바이락타로을루 (튀르키예군 참모총장) |
 | Nauman Mahmood (Mecca pact secretary general, retired Pakistani Lt. Gen.) | 나우만 마흐무드 (메카협정 사무총장, 파키스탄 예비역 중장) |
+| Amir Hatami (Iran Army Commander in Chief) | 아미르 하타미 (이란 육군 참모총장) |
+| Remus 600 (US Navy UUV model) | 레무스 600 (미 해군 무인잠수정 기종) |
+| Tim Hawkins (CENTCOM spokesman) | 팀 호킨스 (중부사령부 대변인) |
+| Mawiyah (Taiz market/junction) | 마위야 (타이즈 시장/교차로) |
