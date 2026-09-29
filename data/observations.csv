@@ -298,3 +298,6 @@ brent,2026-09-28,105.28,settle,"Brent settled at $105.28 (+96 cents, about +0.9%
 wti,2026-09-28,92.6,settle,WTI settled at $92.60 (+19 cents) Monday on the same drivers (Reuters via WMBD/Lufkin Daily News).
 kospi,2026-09-28,6889.74,close,"KOSPI fell 191.18 points (-2.70%) to 6889.74 in the first session after Chuseok, below 7,000, as Samsung Electronics (-5.43%) and SK Hynix (-5.05%) sold off on US tech weakness and rate worries; foreigners net sold 3.2 trillion won (Seoul Economic Daily; Businesskorea; News1)."
 usdkrw,2026-09-28,1365.1,close,"Won closed at 1365.1 per dollar, weaker by 7.6 won, on foreign equity selling and dollar strength (Businesskorea; News1)."
+brent,2026-09-29,102.67,intraday,Trading Economics quote about $102.67 (-2.48%) on Sept 29 after US SPR exchange offer of up to 40 million barrels and Saudi East West pipeline recovery; settle not confirmed and another aggregator snippet showed ~105.31.
+kospi,2026-09-29,6870.81,close,"KOSPI fell 18.93 points (-0.27%) to 6870.81, foreigners net sold about 2.9 trillion won (Seoul Economic Daily; Digital Today; Aju Press)."
+usdkrw,2026-09-29,1356.7,close,Won strengthened 8.4 to close at 1356.7 per dollar at 3:30 p.m. (SBS; Seoul Economic Daily).
