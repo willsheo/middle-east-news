@@ -75,6 +75,9 @@ _Last updated: 2026-09-25_
 | withdrawal (military) | 철군 |
 | Board of Peace | 평화이사회(Board of Peace) |
 | Operation Aspides (EU) | 아스피데스 작전 |
+| carrier strike group | 항공모함 전단 |
+| amphibious group | 상륙전단 |
+| flydubai | 플라이두바이 |
 | Knesset dissolution / early elections | 크네세트(이스라엘 의회) 해산 / 조기 총선 |
 | Joint Maritime Information Center (JMIC) | 합동해양정보센터(JMIC) |
 | Yellow Line | 옐로 라인 |

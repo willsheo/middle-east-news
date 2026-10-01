@@ -304,3 +304,8 @@ usdkrw,2026-09-29,1356.7,close,Won strengthened 8.4 to close at 1356.7 per dolla
 brent,2026-09-30,102.59,settle,"Brent fell 2.6% to $102.59 on Tuesday Sept 30 as Saudi pipeline flows recovered; rose 0.7% to $103.30 early Wednesday after Trump denied easing Iran sanctions (Al Jazeera; Reuters via Arab News/Business Recorder). A Trading Economics page showed ~97.9 on a different basis and is not used."
 kospi,2026-09-30,6838.04,close,"KOSPI fell 32.77 points (-0.48%) to 6838.04, a third straight decline and Q3 -19.3% (worst quarter since Q1 2020); foreigners net sold about 9 trillion won over three sessions (Seoul Economic Daily; Asia Business Daily)."
 usdkrw,2026-09-30,1352.8,close,"Won closed at 1352.8 per dollar at 3:30 p.m., stronger by 3.9 won (Asia Economy; Money Today; Newspim)."
+brent,2026-10-01,102.31,settle,Brent December contract rose 4.4% to settle at $102.31 on Thursday Oct 1 after a report the US is sending a third carrier strike group (CNBC). Note the Sept 30 expiring November contract settled $103.50 and December $98.03 (Rio Times); Oct 1 is on the December contract.
+wti,2026-10-01,92.87,settle,WTI rose 2.7% to settle at $92.87 on Oct 1 (CNBC); Sept 30 settle was $90.42 (Rio Times).
+wti,2026-09-30,90.42,settle,"WTI settled $90.42 on Sept 30, up $1.04 (Rio Times)."
+kospi,2026-10-01,6971.35,close,KOSPI rose 133.31 points (+1.95%) to 6971.35 after record September chip exports; KOSDAQ +4.48% to 894.29 (Seoul Economic Daily; Yahoo Finance).
+usdkrw,2026-10-01,1358.4,close,"Won closed at 1358.4 per dollar, weaker by 5.6 won (Seoul Economic Daily)."
