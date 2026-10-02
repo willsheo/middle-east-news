@@ -309,3 +309,7 @@ wti,2026-10-01,92.87,settle,WTI rose 2.7% to settle at $92.87 on Oct 1 (CNBC); S
 wti,2026-09-30,90.42,settle,"WTI settled $90.42 on Sept 30, up $1.04 (Rio Times)."
 kospi,2026-10-01,6971.35,close,KOSPI rose 133.31 points (+1.95%) to 6971.35 after record September chip exports; KOSDAQ +4.48% to 894.29 (Seoul Economic Daily; Yahoo Finance).
 usdkrw,2026-10-01,1358.4,close,"Won closed at 1358.4 per dollar, weaker by 5.6 won (Seoul Economic Daily)."
+brent,2026-10-02,102.25,settle,"Brent December settled at $102.25, down 6 cents, on Oct 2 (Rigzone; NBC News); early session dipped near $99 on G7 stock release talk (The National)."
+wti,2026-10-02,91.11,settle,"WTI November settled at $91.11, down 1.9%, on Oct 2 (Rigzone; CNBC via search summary)."
+kospi,2026-10-02,7003.74,close,"KOSPI rose 32.39 points (+0.45%) to 7003.74, reclaiming 7000 after five sessions (Korea JoongAng Daily)."
+usdkrw,2026-10-02,1350.6,close,"Won strengthened 7.8 won to 1350.6 per dollar at the 3:30 pm close (Korea JoongAng Daily; News1)."
