@@ -11,19 +11,19 @@ Persistent register of every testable, falsifiable indicator defined in the dail
 - Every daily run checks each Open indicator against the day's research and updates the row with a dated note. Resolutions are announced in that day's brief.
 - Do not edit the definition of an indicator after opening it. If the threshold needs refining, supersede it with a new ID so the record stays honest.
 
-_Last updated: 2026-10-02_
+_Last updated: 2026-10-04_
 
 ## Scoreboard
 
 | | Count |
 |---|---|
-| Open | 46 |
-| Confirmed | 62 |
+| Open | 49 |
+| Confirmed | 65 |
 | Falsified | 100 |
 | Expired | 5 |
 | Superseded | 2 |
 
-_Scoreboard updated 2026-10-02: two new IND-20261002 rows opened, no resolutions this run (215 rows total)._
+_Scoreboard updated 2026-10-04: two new IND-20261004 rows opened, no resolutions this run (221 rows total)._
 
 ## Ledger
 
@@ -248,3 +248,5 @@ _Scoreboard updated 2026-10-02: two new IND-20261002 rows opened, no resolutions
 | IND-20261002-2 | 2026-10-02 | The 2.5 million barrel supertanker reported burning off Oman after an unknown projectile strike either is attributed by a government or UKMTO follow up, or stays unattributed | A named perpetrator in an official or UKMTO statement | Attribution by ~2026-10-09 confirms the strike enters the escalation record; no attribution by the same date falsifies it as an ambiguous incident | ~2026-10-09 | Open | | Opened after Fars reported the tanker hit about 8 km off Oman and UKMTO cited an unknown projectile (brief 2026-10-02, §1.3, §3). 2026-10-03: UKMTO reported another tanker hit by unknown projectile in Hormuz; still unattributed. Open (brief 2026-10-03, §1.3). |
 | IND-20261003-1 | 2026-10-03 | Reports that Saudi Arabia is planning an offensive, led by Yemeni forces with Saudi air support, to reverse the Houthi hold on the Bab el-Mandeb coast and Mokha either lead to a publicly launched ground offensive within three weeks or stay a planning story | Public announcement or multi-outlet confirmation of a ground offensive on Houthi held Red Sea coast positions | A launched offensive by ~2026-10-23 confirms; none by that date falsifies | ~2026-10-23 | Open | | Opened after Times of Israel and Yahoo News UK reports; US offers intelligence and targeting help but no direct strikes (brief 2026-10-03, §1.2, §3). |
 | IND-20261003-2 | 2026-10-03 | The G7 release of up to 100 million barrels over four months, with diesel frontloaded in 20 days, either pushes Brent below $95 or leaves the war risk premium intact | ICE Brent front month (December) daily settle | Any settle below $95 by ~2026-10-16 confirms the release overrides the premium; no such settle falsifies | ~2026-10-16 | Open | | Opened after Brent settled $102.25 on Oct 2, down only 6 cents despite an intraday dip near $99 (brief 2026-10-03, §1.1, §3). |
+| IND-20261004-1 | 2026-10-04 | The Houthi claim of a missile and drone strike on an Aramco oil facility south of Riyadh, with reports of smoke but no Saudi or Aramco confirmation, either is confirmed with damage or fire acknowledged by Saudi Arabia, Aramco or independent imagery, or fades unconfirmed | Saudi, Aramco or credible independent confirmation | Confirmation by ~2026-10-11 confirms; silence or an explicit denial by that date falsifies | ~2026-10-11 | Open | | Opened after the Oct 3 claim (brief 2026-10-04, §1.1, §3). |
+| IND-20261004-2 | 2026-10-04 | The USS Theodore Roosevelt carrier strike group and USS Makin Island amphibious group, reported heading to the Middle East with about 9,000 personnel, either arrive in the CENTCOM area of operations or are diverted | Official or major outlet report of arrival in the region | A report of arrival by ~2026-10-25 confirms; a reported diversion or no arrival report falsifies | ~2026-10-25 | Open | | Opened after CBS reported the deployment (brief 2026-10-04, §1.2, §3). |
