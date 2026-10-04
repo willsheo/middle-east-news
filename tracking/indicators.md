@@ -17,7 +17,7 @@ _Last updated: 2026-10-04_
 
 | | Count |
 |---|---|
-| Open | 49 |
+| Open | 50 |
 | Confirmed | 65 |
 | Falsified | 100 |
 | Expired | 5 |
@@ -250,3 +250,4 @@ _Scoreboard updated 2026-10-04: two new IND-20261004 rows opened, no resolutions
 | IND-20261003-2 | 2026-10-03 | The G7 release of up to 100 million barrels over four months, with diesel frontloaded in 20 days, either pushes Brent below $95 or leaves the war risk premium intact | ICE Brent front month (December) daily settle | Any settle below $95 by ~2026-10-16 confirms the release overrides the premium; no such settle falsifies | ~2026-10-16 | Open | | Opened after Brent settled $102.25 on Oct 2, down only 6 cents despite an intraday dip near $99 (brief 2026-10-03, §1.1, §3). |
 | IND-20261004-1 | 2026-10-04 | The Houthi claim of a missile and drone strike on an Aramco oil facility south of Riyadh, with reports of smoke but no Saudi or Aramco confirmation, either is confirmed with damage or fire acknowledged by Saudi Arabia, Aramco or independent imagery, or fades unconfirmed | Saudi, Aramco or credible independent confirmation | Confirmation by ~2026-10-11 confirms; silence or an explicit denial by that date falsifies | ~2026-10-11 | Open | | Opened after the Oct 3 claim (brief 2026-10-04, §1.1, §3). |
 | IND-20261004-2 | 2026-10-04 | The USS Theodore Roosevelt carrier strike group and USS Makin Island amphibious group, reported heading to the Middle East with about 9,000 personnel, either arrive in the CENTCOM area of operations or are diverted | Official or major outlet report of arrival in the region | A report of arrival by ~2026-10-25 confirms; a reported diversion or no arrival report falsifies | ~2026-10-25 | Open | | Opened after CBS reported the deployment (brief 2026-10-04, §1.2, §3). |
+| IND-20261005-1 | 2026-10-05 | Houthi claims of strikes on Aramco sites near Riyadh and at Khurais, with fires reported but no Saudi confirmation, either gain confirmation or an oil price reaction, or fade | Saudi Arabia, Aramco or independent imagery confirms Khurais damage, or a Brent settle above $105 | By ~2026-10-12 either confirms; an explicit denial, or no confirmation with Brent below $105, falsifies | ~2026-10-12 | Open | | Opened 2026-10-05. |

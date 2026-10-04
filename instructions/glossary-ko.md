@@ -786,3 +786,7 @@ _Last updated: 2026-09-25_
 | Remus 600 (US Navy UUV model) | 레무스 600 (미 해군 무인잠수정 기종) |
 | Tim Hawkins (CENTCOM spokesman) | 팀 호킨스 (중부사령부 대변인) |
 | Mawiyah (Taiz market/junction) | 마위야 (타이즈 시장/교차로) |
+| Khurais (Saudi oil field) | 쿠라이스 (사우디 유전) |
+| Rashad al-Alimi (head of Yemen Presidential Leadership Council) | 라샤드 알알리미 (예멘 대통령지도위원회 의장) |
+| Saada (Yemeni city) | 사다 (예멘 도시) |
+| USS Makin Island (amphibious assault ship) | 마킨 아일랜드함 (상륙강습함) |
