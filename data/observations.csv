@@ -313,3 +313,6 @@ brent,2026-10-02,102.25,settle,"Brent December settled at $102.25, down 6 cents,
 wti,2026-10-02,91.11,settle,"WTI November settled at $91.11, down 1.9%, on Oct 2 (Rigzone; CNBC via search summary)."
 kospi,2026-10-02,7003.74,close,"KOSPI rose 32.39 points (+0.45%) to 7003.74, reclaiming 7000 after five sessions (Korea JoongAng Daily)."
 usdkrw,2026-10-02,1350.6,close,"Won strengthened 7.8 won to 1350.6 per dollar at the 3:30 pm close (Korea JoongAng Daily; News1)."
+brent,2026-10-05,100.32,settle,"Brent fell 1.9% to settle at $100.32 on Oct 5 as Saudi Aramco's deep Asia price cut and rising Gulf exports outweighed Yemen risk (CNBC; investinglive)."
+wti,2026-10-05,89.43,settle,"WTI settled at $89.43, down about 1.8%, on Oct 5 (CNBC)."
+hormuz_transits,2026-10-03,4,daily_count,"Backfilled: Kpler counted 4 commodity carriers transiting Hormuz on Oct 3, against a recent 10 day average of 15 (Korean press citing Kpler); commodity vessel basis."
