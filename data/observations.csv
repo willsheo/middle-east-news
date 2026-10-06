@@ -316,3 +316,8 @@ usdkrw,2026-10-02,1350.6,close,"Won strengthened 7.8 won to 1350.6 per dollar at
 brent,2026-10-05,100.32,settle,"Brent fell 1.9% to settle at $100.32 on Oct 5 as Saudi Aramco's deep Asia price cut and rising Gulf exports outweighed Yemen risk (CNBC; investinglive)."
 wti,2026-10-05,89.43,settle,"WTI settled at $89.43, down about 1.8%, on Oct 5 (CNBC)."
 hormuz_transits,2026-10-03,4,daily_count,"Backfilled: Kpler counted 4 commodity carriers transiting Hormuz on Oct 3, against a recent 10 day average of 15 (Korean press citing Kpler); commodity vessel basis."
+brent,2026-10-06,100.58,settle,"Brent December settled $100.58, up 0.3%, after dipping as much as 3.3% (Rigzone/Bloomberg)."
+wti,2026-10-06,89.44,settle,"WTI November settled $89.44, essentially flat (Rigzone)."
+kospi,2026-10-06,6941.39,close,"KOSPI fell 62.35 points (0.89%) to 6941.39 on first session after holiday; KOSDAQ +2.98% to 919.92 (Newspim)."
+usdkrw,2026-10-06,1343.6,close,"Won closed at 1343.6 per dollar at the afternoon close (Newspim); article's -0.4 won comparison does not match the 1350.6 Oct 2 close."
+hormuz_transits,2026-10-04,4,daily_count,"Straits.live counted 4 transits on Oct 4 vs pre crisis baseline of 85; transit basis, similar to Oct 3 Kpler commodity carrier count of 4."
