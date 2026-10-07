@@ -321,3 +321,7 @@ wti,2026-10-06,89.44,settle,"WTI November settled $89.44, essentially flat (Rigz
 kospi,2026-10-06,6941.39,close,"KOSPI fell 62.35 points (0.89%) to 6941.39 on first session after holiday; KOSDAQ +2.98% to 919.92 (Newspim)."
 usdkrw,2026-10-06,1343.6,close,"Won closed at 1343.6 per dollar at the afternoon close (Newspim); article's -0.4 won comparison does not match the 1350.6 Oct 2 close."
 hormuz_transits,2026-10-04,4,daily_count,"Straits.live counted 4 transits on Oct 4 vs pre crisis baseline of 85; transit basis, similar to Oct 3 Kpler commodity carrier count of 4."
+brent,2026-10-07,101.49,intraday,"Brent intraday ~101.49 on renewed Houthi attacks on Saudi infrastructure; no settle found (OilPrice)."
+wti,2026-10-07,90.14,intraday,"WTI intraday ~90.14 (OilPrice); no settle found."
+kospi,2026-10-07,6803.90,close,"KOSPI fell 137.49 points (1.98%) to 6803.90; KOSDAQ -2.34% to 898.43; foreigners net sold 3.11tn won (Newspim; Financial News)."
+usdkrw,2026-10-07,1340.4,close,"Won closed at 1340.4 per dollar, 3.2 won stronger (Newspim)."
