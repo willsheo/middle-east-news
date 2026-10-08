@@ -790,3 +790,5 @@ _Last updated: 2026-09-25_
 | Rashad al-Alimi (head of Yemen Presidential Leadership Council) | 라샤드 알알리미 (예멘 대통령지도위원회 의장) |
 | Saada (Yemeni city) | 사다 (예멘 도시) |
 | USS Makin Island (amphibious assault ship) | 마킨 아일랜드함 (상륙강습함) |
+| Hangul Day (market holiday) | 한글날(휴장) |
+| Hurricane Isaias | 허리케인 아이사이아스 |
