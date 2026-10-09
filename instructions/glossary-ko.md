@@ -792,3 +792,5 @@ _Last updated: 2026-09-25_
 | USS Makin Island (amphibious assault ship) | 마킨 아일랜드함 (상륙강습함) |
 | Hangul Day (market holiday) | 한글날(휴장) |
 | Hurricane Isaias | 허리케인 아이사이아스 |
+| Hangul Day (Oct 9 holiday) | 한글날 |
+| LPG carrier | LPG 운반선 |
