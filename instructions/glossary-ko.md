@@ -794,3 +794,5 @@ _Last updated: 2026-09-25_
 | Hurricane Isaias | 허리케인 아이사이아스 |
 | Hangul Day (Oct 9 holiday) | 한글날 |
 | LPG carrier | LPG 운반선 |
+| Mayyun Island (Mayun) | 마이윤 섬 |
+| Baghaei (Iranian Foreign Ministry spokesman) | 바가이 (이란 외무부 대변인) |
