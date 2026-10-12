@@ -336,3 +336,7 @@ wti,2026-10-08,91.49,settle,"WTI +3.6% to settle at $91.49 (CNBC, Oct 8, via sea
 brent,2026-10-09,103.0,morning_quote,"Brent eased to about $103 on Friday after Trump pledge (CBS live updates); no settle found."
 brent,2026-10-09,104.72,settle,"Brent settle about $104.72 (weekly summary; Bloomberg near $105, Trading Economics 104.43); sources differ by ~0.6, search summaries."
 wti,2026-10-09,91.85,settle,"WTI $91.85 on Oct 9 (Oil Monitor weekly summary via search)."
+brent,2026-10-12,106.65,settle,"Brent settled $106.65, +$1.93, highest close since Sep 15 (Reuters via CNBC)."
+wti,2026-10-12,93.74,settle,"WTI settled $93.74, about +2% (Reuters via CNBC)."
+kospi,2026-10-12,6384.24,close,KOSPI -3.65% to 6384.24; foreigners net sold ~2.02tn won (FN News).
+usdkrw,2026-10-12,1335.1,close,Won closed ~1335.1 per dollar (FN News); Trading Economics 1333.91.
