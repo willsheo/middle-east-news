@@ -344,3 +344,7 @@ brent,2026-10-13,105.69,settle,"Brent settled ~$105.69, -$0.96 (Reuters/CNBC via
 wti,2026-10-13,94.14,settle,"WTI settled $94.14, +$0.40."
 kospi,2026-10-13,6035.35,close,"KOSPI -5.46% to 6035.35 (low 5911); foreigners net sold ~4.51tn won; SK hynix -10.09%, Samsung -7.39% (Korea Times)."
 usdkrw,2026-10-13,1345.1,close,"Won weakened ~10 won to ~1345.1 per dollar (Korea Times)."
+kospi,2026-10-14,6008.81,close,"KOSPI -0.44% to 6008.81, sixth straight decline; foreigners net sold ~1.18tn won (Businesskorea, News1)."
+usdkrw,2026-10-14,1338.3,close,"Won closed 1338.3 per dollar, -6.8 won (Businesskorea, Newspim)."
+brent,2026-10-14,106.56,settle,"Brent +0.82% to 106.56 (Korea Times, Reuters based)."
+wti,2026-10-14,95.6,settle,"WTI +1.55% to 95.60, three week high (Korea Times, Reuters based)."

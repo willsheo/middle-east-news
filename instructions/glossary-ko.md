@@ -796,3 +796,5 @@ _Last updated: 2026-09-25_
 | LPG carrier | LPG 운반선 |
 | Mayyun Island (Mayun) | 마이윤 섬 |
 | Baghaei (Iranian Foreign Ministry spokesman) | 바가이 (이란 외무부 대변인) |
+| Dhahran (Saudi Eastern Province city, Aramco hub) | 다흐란 |
+| Aramco administrative building | 아람코 행정동 |
