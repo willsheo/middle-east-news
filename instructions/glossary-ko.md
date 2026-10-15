@@ -6,7 +6,7 @@ Pinned Korean renderings for recurring terms, so the Korean edition uses identic
 
 Register: analytical written style, 한다체 (plain reportive). Numbers in Arabic numerals with Korean units where natural (약 8,470만 배럴, 10억 달러). Outlet names stay in their original form ([Al Jazeera](...), [Bloomberg](...)); links unchanged. Confidence ratings: **신뢰도: 높음 / 중간 / 낮음**.
 
-_Last updated: 2026-09-25_
+_Last updated: 2026-10-16_
 
 ---
 
@@ -798,3 +798,14 @@ _Last updated: 2026-09-25_
 | Baghaei (Iranian Foreign Ministry spokesman) | 바가이 (이란 외무부 대변인) |
 | Dhahran (Saudi Eastern Province city, Aramco hub) | 다흐란 |
 | Aramco administrative building | 아람코 행정동 |
+
+## Additions 2026-10-16
+
+| English | Korean |
+|---|---|
+| M/V GFS Pride (container ship sunk near Hormuz) | GFS 프라이드호 |
+| Al-Maashiq presidential palace (Aden) | 알마아시크 대통령궁 (아덴) |
+| Financial Services Commission (FSC) | 금융위원회 |
+| emergency market review meeting | 증시상황 긴급 점검회의 |
+| contingency plan (market) | 컨틴전시 플랜 |
+| GBU-43/B "Mother of All Bombs" (MOAB) | GBU-43/B "모든 폭탄의 어머니"(MOAB) |
