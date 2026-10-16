@@ -352,3 +352,6 @@ kospi,2026-10-15,5554.22,close,"KOSPI -7.57% to 5554.22, seventh straight fall, 
 usdkrw,2026-10-15,1344.6,close,"Won closed 1344.6 per dollar, -2.3 won (UPI/Yonhap)."
 brent,2026-10-15,105.92,settle,"Dec Brent -14c to 105.92 (CNBC, Globe and Mail)."
 wti,2026-10-15,97.97,settle,"Nov WTI +2.88 to 97.97 on large US crude draw (CNBC)."
+kospi,2026-10-16,5668.05,close,"KOSPI +2.05% to 5668.05 ends seven-session fall; foreigners net bought ~345bn won first time in nine sessions (Etoday, Korea Report)."
+brent,2026-10-16,105.45,intraday,"Brent about 105.45 to 106.28 intraday Friday, settle not confirmed (Gulf News, Business Recorder)."
+wti,2026-10-16,97.35,intraday,"WTI about 97.35 to 97.78 intraday Friday, settle not confirmed."
