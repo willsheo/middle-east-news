@@ -355,3 +355,6 @@ wti,2026-10-15,97.97,settle,"Nov WTI +2.88 to 97.97 on large US crude draw (CNBC
 kospi,2026-10-16,5668.05,close,"KOSPI +2.05% to 5668.05 ends seven-session fall; foreigners net bought ~345bn won first time in nine sessions (Etoday, Korea Report)."
 brent,2026-10-16,105.45,intraday,"Brent about 105.45 to 106.28 intraday Friday, settle not confirmed (Gulf News, Business Recorder)."
 wti,2026-10-16,97.35,intraday,"WTI about 97.35 to 97.78 intraday Friday, settle not confirmed."
+brent,2026-10-16,109.86,settle,"Brent settled $109.86, +3.7%, session high $110 first since May (CNBC, Bloomberg via Rigzone, Yahoo); supersedes the intraday 105.45 row, which was wrong."
+wti,2026-10-16,101.41,settle,"WTI settled $101.41, +3.5%; +10% on the week (CNBC)."
+usdkrw,2026-10-16,1331.4,close,"Won closed 1331.4 per dollar, -13.2 won (Businesskorea, Seoul FX/Yonhap Infomax fixing 1331.40)."

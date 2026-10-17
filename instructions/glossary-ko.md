@@ -809,3 +809,14 @@ _Last updated: 2026-10-17_
 | emergency market review meeting | 증시상황 긴급 점검회의 |
 | contingency plan (market) | 컨틴전시 플랜 |
 | GBU-43/B "Mother of All Bombs" (MOAB) | GBU-43/B "모든 폭탄의 어머니"(MOAB) |
+
+## Additions 2026-10-18
+
+| English | Korean |
+|---|---|
+| Jubail (Saudi Gulf port) | 주바일 |
+| Egyptian President Sisi | 압델 파타 알시시 이집트 대통령 (시시) |
+| Organization of Islamic Cooperation (OIC) | 이슬람협력기구(OIC) |
+| RPG (rocket-propelled grenade) | RPG(로켓추진수류탄) |
+| Deputy Finance Minister Kwon Dae-young | 권대영 재정경제부 1차관 |
+| joint market review meeting | 관계기관 합동 시장상황점검회의 |
