@@ -11,19 +11,19 @@ Persistent register of every testable, falsifiable indicator defined in the dail
 - Every daily run checks each Open indicator against the day's research and updates the row with a dated note. Resolutions are announced in that day's brief.
 - Do not edit the definition of an indicator after opening it. If the threshold needs refining, supersede it with a new ID so the record stays honest.
 
-_Last updated: 2026-10-13_
+_Last updated: 2026-10-19_
 
 ## Scoreboard
 
 | | Count |
 |---|---|
-| Open | 55 |
-| Confirmed | 72 |
-| Falsified | 107 |
+| Open | 56 |
+| Confirmed | 78 |
+| Falsified | 115 |
 | Expired | 7 |
 | Superseded | 2 |
 
-_Scoreboard updated 2026-10-13: four new IND-20261013 rows opened; IND-20261011-3, IND-20261008-1 and IND-20260927-3 confirmed, IND-20261010-1 falsified, IND-20261005-1 expired (recounted from rows; 243 rows total)._
+_Scoreboard recounted from rows 2026-10-19 (IND-20261012-2 falsified, three IND-20261019 rows opened). Previous note, 2026-10-13: four new IND-20261013 rows opened; IND-20261011-3, IND-20261008-1 and IND-20260927-3 confirmed, IND-20261010-1 falsified, IND-20261005-1 expired (recounted from rows; 243 rows total)._
 
 ## Ledger
 
@@ -267,7 +267,7 @@ _Scoreboard updated 2026-10-13: four new IND-20261013 rows opened; IND-20261011-
 | IND-20261011-2 | 2026-10-11 | Riyadh's King Khalid airport, closed after repeated Houthi attacks with 324 flights cancelled on Oct 10, either resumes scheduled commercial departures or stays closed | Saudi GACA, FlightAware or airline notices | Resumed scheduled commercial departures by ~2026-10-18 confirms; none falsifies | ~2026-10-18 | Confirmed | 2026-10-18 | Opened 2026-10-11 (brief §1.1, §3). 2026-10-18: Scheduled departures operate again (Cirium: 626 of 1,178 Saudi departures operated Oct 15; Riyadh still targeted by drones Oct 17), though at reduced levels. |
 | IND-20261011-3 | 2026-10-11 | South Korea's response to Western embassy warnings on Riyadh, either a raised Korean travel advisory or evacuation advisory, or no change | Korean Foreign Ministry (mofa.go.kr) travel advisory notice for Saudi Arabia or Riyadh | A raised advisory or evacuation notice by ~2026-10-25 confirms; none falsifies | ~2026-10-25 | **Confirmed** | 2026-10-13 | Opened 2026-10-11 (brief §3). 2026-10-13: Foreign Ministry raised all of Saudi Arabia to a departure recommendation (level 3 of 4) at 10 p.m. KST Oct 11. Confirmed (brief 2026-10-13, §3). |
 | IND-20261012-1 | 2026-10-12 | Houthi campaign against Saudi Arabia, so far airports with a claimed Rabigh refinery fire, either reaches confirmed damage to Aramco oil infrastructure or stays on airports | Saudi authorities, Aramco or independent confirmation of damage to an Aramco facility from a Houthi attack | Confirmation by ~2026-10-26 confirms; none falsifies | **Confirmed** | 2026-10-15 | | Opened 2026-10-12 (brief §1.3, §3). 2026-10-15: Saudi Energy Ministry confirmed damage and a limited fire at an Aramco administrative building in Dhahran. Confirmed on the stated test (damage to an Aramco facility); no production impact reported (brief 2026-10-15, §1.1, §3). |
-| IND-20261012-2 | 2026-10-12 | IRGC claim that an unnamed supertanker hit a mine in Hormuz on Oct 10, either independently identified and confirmed or left uncorroborated | UKMTO, ship owner, flag state or CENTCOM identification of the vessel and cause | Identification and confirmation by ~2026-10-19 confirms; none falsifies | ~2026-10-19 | Open | | Opened 2026-10-12 (brief §1.4, §3). |
+| IND-20261012-2 | 2026-10-12 | IRGC claim that an unnamed supertanker hit a mine in Hormuz on Oct 10, either independently identified and confirmed or left uncorroborated | UKMTO, ship owner, flag state or CENTCOM identification of the vessel and cause | Identification and confirmation by ~2026-10-19 confirms; none falsifies | ~2026-10-19 | Falsified | 2026-10-19 | Opened 2026-10-12 (brief §1.4, §3). 2026-10-19: no identification of the Oct 10 vessel found by the deadline; the later IRGC claim (Oct 17) is likewise unverified. |
 | IND-20261013-1 | 2026-10-13 | The Saudi led coalition's vow of a "decisive" response to the Riyadh airport attacks either becomes announced strikes on Houthi airports or ports, or stays rhetoric | Coalition or Saudi statement of strikes on Sanaa airport or Hodeidah port | Announced strikes by ~2026-10-20 confirms; none falsifies | ~2026-10-20 | **Confirmed** | 2026-10-14 | Opened 2026-10-13 (brief §3). 2026-10-14: coalition announced strikes on Al Sabahah fuel station in Sanaa and fuel loading piers at Hodeidah port (The National, AP). Confirmed (brief 2026-10-14, §1.1, §3). |
 | IND-20261013-2 | 2026-10-13 | KOSPI's 3.65% fall to 6,384.24 on 2.02tn won foreign selling either deepens or stabilizes | KOSPI daily close | A close below 6,200 by ~2026-10-16 confirms deepening sell off; none falsifies | ~2026-10-16 | **Confirmed** | 2026-10-14 | Opened 2026-10-13 (brief §3). 2026-10-14: KOSPI closed 6,035.35 (-5.46%) on Oct 13, below 6,200. Confirmed (brief 2026-10-14, §1.4, §3). |
 | IND-20261013-3 | 2026-10-13 | Iran's statement that the US Hormuz reply is insufficient and talks are off either gives way to a disclosed formal Iranian reply or US Iran exchange, or diplomacy stays frozen | Iranian or US official disclosure of a reply, text exchange or meeting | Disclosure by ~2026-10-20 confirms; none falsifies | ~2026-10-20 | Open | | Opened 2026-10-13 (brief §3). 2026-10-18: UKMTO/CBS: record weekly attack total; IRGC says the Strait is "closed" (Oct 17); no US reply disclosed. |
@@ -286,3 +286,6 @@ _Scoreboard updated 2026-10-13: four new IND-20261013 rows opened; IND-20261011-
 | IND-20261018-1 | 2026-10-18 | UKMTO weekly tally of vessels attacked at or near Hormuz after a record week (10 to 12 in the week to Oct 16, 23 since Oct 1) | UKMTO reports as relayed by CBS, Fox, Gulf News | A weekly tally of 10 or more for Oct 17 to 23 confirms the campaign is holding at record pace; fewer than 10 falsifies | ~2026-10-24 | Open | | Opened 2026-10-18 (brief §1.1, §3). |
 | IND-20261018-2 | 2026-10-18 | Egyptian President Sisi saying Egypt is ready to defend Saudi Arabia "if requested," pending parliamentary approval | Egyptian parliament vote or official announcement | Parliamentary approval or an announced Egyptian deployment by ~2026-11-01 confirms; none falsifies | ~2026-11-01 | Open | | Opened 2026-10-18 (brief §1.3, §3). |
 | IND-20261018-3 | 2026-10-18 | KOSPI after Friday's 2.05% rebound to 5,668.05, with Brent back at $109.86 | KRX close Monday Oct 19 | A KOSPI close above 5,668.05 on Oct 19 confirms the rebound holds; at or below falsifies | ~2026-10-19 | Open | | Opened 2026-10-18 (brief §1.4, §3). Related to IND-20261017-2. |
+| IND-20261019-1 | 2026-10-19 | A US reply to Iran's seven point plan (Hormuz reopens day six, talks day seven; conditions reportedly include ending the blockade and lifting oil sanctions) | Disclosed US response or direct US Iran exchange (CBS, Reuters, AP) | A disclosed formal US reply or direct exchange by ~2026-10-26 confirms; none falsifies | ~2026-10-26 | Open | | Opened 2026-10-19 (brief §1, §3). |
+| IND-20261019-2 | 2026-10-19 | US weighing partial easing of shadow fleet tanker sanctions to cut freight rates (Reuters, Oct 15) | Treasury license, guidance or announcement | A formal Treasury license, guidance or announcement by ~2026-11-02 confirms; none falsifies | ~2026-11-02 | Open | | Opened 2026-10-19 (brief §1, §3). |
+| IND-20261019-3 | 2026-10-19 | KOSPI after a roughly 15% weekly drop, brokers guiding to a 5,100 to 6,100 range for the week | KRX closes Oct 19 to 23 | Every close at or above 5,100 confirms the low end holds; any close below 5,100 falsifies | ~2026-10-23 | Open | | Opened 2026-10-19 (brief §1, §3). |
