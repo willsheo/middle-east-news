@@ -11,19 +11,19 @@ Persistent register of every testable, falsifiable indicator defined in the dail
 - Every daily run checks each Open indicator against the day's research and updates the row with a dated note. Resolutions are announced in that day's brief.
 - Do not edit the definition of an indicator after opening it. If the threshold needs refining, supersede it with a new ID so the record stays honest.
 
-_Last updated: 2026-10-19_
+_Last updated: 2026-10-20_
 
 ## Scoreboard
 
 | | Count |
 |---|---|
-| Open | 56 |
-| Confirmed | 78 |
+| Open | 58 |
+| Confirmed | 79 |
 | Falsified | 115 |
 | Expired | 7 |
 | Superseded | 2 |
 
-_Scoreboard recounted from rows 2026-10-19 (IND-20261012-2 falsified, three IND-20261019 rows opened). Previous note, 2026-10-13: four new IND-20261013 rows opened; IND-20261011-3, IND-20261008-1 and IND-20260927-3 confirmed, IND-20261010-1 falsified, IND-20261005-1 expired (recounted from rows; 243 rows total)._
+_Scoreboard 2026-10-20: IND-20261018-3 confirmed, three IND-20261020 rows opened (56-1+3=58 open). Previous: recounted from rows 2026-10-19 (IND-20261012-2 falsified, three IND-20261019 rows opened). Previous note, 2026-10-13: four new IND-20261013 rows opened; IND-20261011-3, IND-20261008-1 and IND-20260927-3 confirmed, IND-20261010-1 falsified, IND-20261005-1 expired (recounted from rows; 243 rows total)._
 
 ## Ledger
 
@@ -285,7 +285,10 @@ _Scoreboard recounted from rows 2026-10-19 (IND-20261012-2 falsified, three IND-
 | IND-20261017-2 | 2026-10-17 | Foreigners' first net buying of KOSPI in nine sessions (345bn won on Oct 16) either persists or was a one day bounce | KRX foreign net flow, regular KOSPI session, Oct 19 to 23 | Net buying on at least three of five sessions confirms; fewer falsifies | ~2026-10-23 | Open | | Opened 2026-10-17 (brief §1.4, §3). Related to IND-20261016-1. |
 | IND-20261018-1 | 2026-10-18 | UKMTO weekly tally of vessels attacked at or near Hormuz after a record week (10 to 12 in the week to Oct 16, 23 since Oct 1) | UKMTO reports as relayed by CBS, Fox, Gulf News | A weekly tally of 10 or more for Oct 17 to 23 confirms the campaign is holding at record pace; fewer than 10 falsifies | ~2026-10-24 | Open | | Opened 2026-10-18 (brief §1.1, §3). |
 | IND-20261018-2 | 2026-10-18 | Egyptian President Sisi saying Egypt is ready to defend Saudi Arabia "if requested," pending parliamentary approval | Egyptian parliament vote or official announcement | Parliamentary approval or an announced Egyptian deployment by ~2026-11-01 confirms; none falsifies | ~2026-11-01 | Open | | Opened 2026-10-18 (brief §1.3, §3). |
-| IND-20261018-3 | 2026-10-18 | KOSPI after Friday's 2.05% rebound to 5,668.05, with Brent back at $109.86 | KRX close Monday Oct 19 | A KOSPI close above 5,668.05 on Oct 19 confirms the rebound holds; at or below falsifies | ~2026-10-19 | Open | | Opened 2026-10-18 (brief §1.4, §3). Related to IND-20261017-2. |
+| IND-20261018-3 | 2026-10-18 | KOSPI after Friday's 2.05% rebound to 5,668.05, with Brent back at $109.86 | KRX close Monday Oct 19 | A KOSPI close above 5,668.05 on Oct 19 confirms the rebound holds; at or below falsifies | ~2026-10-19 | **Confirmed** | 2026-10-20 | Opened 2026-10-18 (brief §1.4, §3). Related to IND-20261017-2. 2026-10-20: KOSPI closed Oct 19 at 5,768.01 (+1.76%) after opening 3% lower (Korea Times, Seoul Economic Daily). Confirmed (brief 2026-10-20, §1.4, §3). |
 | IND-20261019-1 | 2026-10-19 | A US reply to Iran's seven point plan (Hormuz reopens day six, talks day seven; conditions reportedly include ending the blockade and lifting oil sanctions) | Disclosed US response or direct US Iran exchange (CBS, Reuters, AP) | A disclosed formal US reply or direct exchange by ~2026-10-26 confirms; none falsifies | ~2026-10-26 | Open | | Opened 2026-10-19 (brief §1, §3). |
 | IND-20261019-2 | 2026-10-19 | US weighing partial easing of shadow fleet tanker sanctions to cut freight rates (Reuters, Oct 15) | Treasury license, guidance or announcement | A formal Treasury license, guidance or announcement by ~2026-11-02 confirms; none falsifies | ~2026-11-02 | Open | | Opened 2026-10-19 (brief §1, §3). |
 | IND-20261019-3 | 2026-10-19 | KOSPI after a roughly 15% weekly drop, brokers guiding to a 5,100 to 6,100 range for the week | KRX closes Oct 19 to 23 | Every close at or above 5,100 confirms the low end holds; any close below 5,100 falsifies | ~2026-10-23 | Open | | Opened 2026-10-19 (brief §1, §3). |
+| IND-20261020-1 | 2026-10-20 | Wright's claim that Gulf flows are about 80% of pre war against Kpler's 7 day average of 8.5 million bpd | Kpler weekly average Hormuz flow (via Reuters, Bloomberg, OilPrice.com) | A weekly average above 12 million bpd by ~2026-10-27 confirms recovery; none falsifies | ~2026-10-27 | Open | | Opened 2026-10-20 (brief §1.1, §3). |
+| IND-20261020-2 | 2026-10-20 | Egypt's parliament postponed its vote on Sisi's request to authorize military support for Saudi Arabia | Egyptian parliament or presidency announcement (AFP, Ahram) | Approval by ~2026-10-27 confirms; rejection or no vote falsifies | ~2026-10-27 | Open | | Opened 2026-10-20 (brief §1.3, §3). Related to IND-20261018-2. |
+| IND-20261020-3 | 2026-10-20 | Bank of Korea decision on October 22 after KOSPI's 15% weekly drop and a won at a two year high | Bank of Korea announcement | Policy rate held at 3.00% confirms; any change falsifies | 2026-10-22 | Open | | Opened 2026-10-20 (brief §3). Hold expectation from a single outlet. |

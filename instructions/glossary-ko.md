@@ -820,3 +820,5 @@ _Last updated: 2026-10-17_
 | RPG (rocket-propelled grenade) | RPG(로켓추진수류탄) |
 | Deputy Finance Minister Kwon Dae-young | 권대영 재정경제부 1차관 |
 | joint market review meeting | 관계기관 합동 시장상황점검회의 |
+| Dated Brent | 두바이드 브렌트(현물) |
+| NXT (alternative exchange) | 대체거래소 NXT |
