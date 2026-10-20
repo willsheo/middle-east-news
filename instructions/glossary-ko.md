@@ -822,3 +822,13 @@ _Last updated: 2026-10-17_
 | joint market review meeting | 관계기관 합동 시장상황점검회의 |
 | Dated Brent | 두바이드 브렌트(현물) |
 | NXT (alternative exchange) | 대체거래소 NXT |
+
+## Additions 2026-10-21
+
+| English | Korean |
+|---|---|
+| Shaybah oilfield | 샤이바 유전 |
+| Shabwa (Yemen) | 샤브와 |
+| Russia GCC strategic dialogue | 러시아·걸프협력회의(GCC) 전략대화 |
+| CTAs (trend following funds) | 추세추종 펀드(CTA) |
+| National Defence Council (Egypt) | 이집트 국방위원회 |
