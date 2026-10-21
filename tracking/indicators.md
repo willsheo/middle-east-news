@@ -11,19 +11,19 @@ Persistent register of every testable, falsifiable indicator defined in the dail
 - Every daily run checks each Open indicator against the day's research and updates the row with a dated note. Resolutions are announced in that day's brief.
 - Do not edit the definition of an indicator after opening it. If the threshold needs refining, supersede it with a new ID so the record stays honest.
 
-_Last updated: 2026-10-20_
+_Last updated: 2026-10-22_
 
 ## Scoreboard
 
 | | Count |
 |---|---|
-| Open | 58 |
+| Open | 61 |
 | Confirmed | 79 |
 | Falsified | 115 |
 | Expired | 7 |
 | Superseded | 2 |
 
-_Scoreboard 2026-10-20: IND-20261018-3 confirmed, three IND-20261020 rows opened (56-1+3=58 open). Previous: recounted from rows 2026-10-19 (IND-20261012-2 falsified, three IND-20261019 rows opened). Previous note, 2026-10-13: four new IND-20261013 rows opened; IND-20261011-3, IND-20261008-1 and IND-20260927-3 confirmed, IND-20261010-1 falsified, IND-20261005-1 expired (recounted from rows; 243 rows total)._
+_Scoreboard 2026-10-22: no resolutions, three IND-20261022 rows opened (58+3=61 open). Previous, 2026-10-20: IND-20261018-3 confirmed, three IND-20261020 rows opened (56-1+3=58 open). Previous: recounted from rows 2026-10-19 (IND-20261012-2 falsified, three IND-20261019 rows opened). Previous note, 2026-10-13: four new IND-20261013 rows opened; IND-20261011-3, IND-20261008-1 and IND-20260927-3 confirmed, IND-20261010-1 falsified, IND-20261005-1 expired (recounted from rows; 243 rows total)._
 
 ## Ledger
 
@@ -295,3 +295,6 @@ _Scoreboard 2026-10-20: IND-20261018-3 confirmed, three IND-20261020 rows opened
 | IND-20261021-1 | 2026-10-21 | Houthi claims of Oct 19 strikes on Aramco Yanbu and the Shaybah oilfield, unconfirmed by Riyadh | Saudi authorities, Aramco or independent imagery confirming damage | Confirmed damage at either site by ~2026-10-28 confirms; none falsifies | ~2026-10-28 | Open | | Opened 2026-10-21 (brief §1.3, §3). Related to IND-20261015-1. |
 | IND-20261021-2 | 2026-10-21 | Qatar says US Iran talks are still on, while Bloomberg says deal claims are inaccurate | Either government or a mediator (Qatar, Pakistan) disclosing a negotiating session | A disclosed session by ~2026-10-28 confirms; none falsifies | ~2026-10-28 | Open | | Opened 2026-10-21 (brief §1.2, §3). Related to IND-20261019-1. |
 | IND-20261021-3 | 2026-10-21 | KOSPI after a 3.73% fall to 5,552.74 on AI funding fears, ahead of Meta earnings | KRX close Oct 22 | A close above 5,552.74 on Oct 22 confirms rebound; at or below falsifies | 2026-10-22 | Open | | Opened 2026-10-21 (brief §1.4, §3). |
+| IND-20261022-1 | 2026-10-22 | US ordered departure of non-emergency staff and families from Saudi Arabia after Houthi attacks and a deadly drone at Shaybah | South Korea Ministry of Foreign Affairs travel advisory or staff order (Yonhap) | Advisory raised above level 3 or staff departure ordered by ~2026-10-29 confirms; no change falsifies | ~2026-10-29 | Open | | Opened 2026-10-22 (brief §1.1, §3). |
+| IND-20261022-2 | 2026-10-22 | FT report that Trump blocked an Israeli strike campaign on Iran; Netanyahu vows regime change | Government acknowledgement of a US or Israeli strike on Iranian territory (Reuters, AP) | An acknowledged strike by ~2026-10-29 confirms; none falsifies | ~2026-10-29 | Open | | Opened 2026-10-22 (brief §1.2, §3). |
+| IND-20261022-3 | 2026-10-22 | Brent pinned near $109 with record Hormuz attack counts | ICE Brent front month settlement (Bloomberg, Reuters) | Any settle above $112 by ~2026-10-29 confirms; none falsifies | ~2026-10-29 | Open | | Opened 2026-10-22 (brief §1.3, §3). |

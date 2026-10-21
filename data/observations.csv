@@ -366,3 +366,7 @@ brent,2026-10-20,108.79,settle,"Brent Dec settled $108.79, -0.7% (Bloomberg via 
 wti,2026-10-20,101.79,settle,"WTI Nov (expired Oct 20) settled $101.79, -1.8%; Dec 97.82 (Bloomberg via Rigzone)"
 kospi,2026-10-20,5552.74,close,"KOSPI -3.73% on AI profitability worries (Seoul Economic Daily, Topstar News)"
 usdkrw,2026-10-20,1328.1,close,"Won 1328.1 at 15:30 day session close, -2.2 (Topstar News)"
+brent,2026-10-21,108.82,settle,"Brent Dec settled $108.82, little changed (Bloomberg via Rigzone)"
+wti,2026-10-21,97.15,settle,"WTI Dec settled $97.15 (Bloomberg via Rigzone)"
+kospi,2026-10-21,5736,close,"KOSPI +3.3% (+183) on chip rebound; rounded as reported (ad-hoc-news)"
+usdkrw,2026-10-21,1325.2,close,"Won 1325.2 at 15:30 close (ad-hoc-news)"
