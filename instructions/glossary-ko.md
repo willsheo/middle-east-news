@@ -6,7 +6,7 @@ Pinned Korean renderings for recurring terms, so the Korean edition uses identic
 
 Register: analytical written style, 한다체 (plain reportive). Numbers in Arabic numerals with Korean units where natural (약 8,470만 배럴, 10억 달러). Outlet names stay in their original form ([Al Jazeera](...), [Bloomberg](...)); links unchanged. Confidence ratings: **신뢰도: 높음 / 중간 / 낮음**.
 
-_Last updated: 2026-10-17_
+_Last updated: 2026-10-23_
 
 ---
 
@@ -832,3 +832,6 @@ _Last updated: 2026-10-17_
 | Russia GCC strategic dialogue | 러시아·걸프협력회의(GCC) 전략대화 |
 | CTAs (trend following funds) | 추세추종 펀드(CTA) |
 | National Defence Council (Egypt) | 이집트 국방위원회 |
+| Dammam (Saudi Eastern Province city) | 담맘 |
+| King Fahd International Airport (Dammam) | 담맘 킹파흐드 국제공항 |
+| hawkish hold (central bank) | 매파적 동결 |

@@ -370,3 +370,7 @@ brent,2026-10-21,108.82,settle,"Brent Dec settled $108.82, little changed (Bloom
 wti,2026-10-21,97.15,settle,"WTI Dec settled $97.15 (Bloomberg via Rigzone)"
 kospi,2026-10-21,5736,close,"KOSPI +3.3% (+183) on chip rebound; rounded as reported (ad-hoc-news)"
 usdkrw,2026-10-21,1325.2,close,"Won 1325.2 at 15:30 close (ad-hoc-news)"
+brent,2026-10-22,112.01,intraday,"Brent afternoon print $112.01, high $112.68, highest since May 18; settle not found (RTE)"
+wti,2026-10-22,99.56,intraday,"WTI afternoon print $99.56, high $100.09; settle not found (RTE)"
+kospi,2026-10-22,5533.77,close,KOSPI -3.52% after BOK hold with hawkish signal (Aju Press)
+usdkrw,2026-10-22,1323.7,intraday,Won 1323.7 per Aju Press; stated change does not tie to prior close
