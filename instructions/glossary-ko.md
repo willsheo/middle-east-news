@@ -840,3 +840,7 @@ _Last updated: 2026-10-25_
 | Ali Abdollahi (Iranian armed forces chief of staff) | 알리 압돌라히 (이란 군 합참의장) |
 | bunker buster | 벙커버스터 |
 | undersea cable (Gulf internet) | 해저 케이블 |
+| dead hand doctrine (Iran) | 데드핸드 독트린(자동 보복 체계) |
+| Operation Epic Fury | 에픽 퓨리 작전 |
+| West Bank lockdown | 서안지구 봉쇄 |
+| R4 group (Saudi Arabia, Turkey, Egypt, Pakistan) | R4(사우디·튀르키예·이집트·파키스탄) |

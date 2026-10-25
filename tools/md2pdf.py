@@ -83,7 +83,7 @@ def inline_images(html: str, base_dir: pathlib.Path) -> str:
 
 
 def find_chromium() -> str:
-    candidates = glob.glob("/opt/pw-browsers/chromium*/chrome-linux/chrome")
+    candidates = glob.glob("/opt/pw-browsers/chromium*/chrome-linux*/chrome")
     if candidates:
         return sorted(candidates)[-1]
     for name in ("chromium", "chromium-browser", "google-chrome"):
