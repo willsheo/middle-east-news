@@ -380,3 +380,7 @@ kospi,2026-10-23,5550.30,close,KOSPI +0.30% after -4.12% intraday low (Korea Joo
 usdkrw,2026-10-23,1324.6,close,Won 1324.6 at 3:30pm close (Korea JoongAng Daily/Yonhap)
 brent,2026-10-23,116.72,settle,"Brent settled $116.72, +$3.55 (+3.14%), highest settle since Apr 29, about +6% on week (Reuters via FinanceFeeds/CNBC Africa; Bloomberg: settled below 117); supersedes the 117.20 intraday row"
 wti,2026-10-23,103.27,settle,"WTI settled $103.27, +$3.80 (+3.8%) (Reuters via FinanceFeeds); supersedes the 103.0 intraday row"
+brent,2026-10-26,115.81,settle,"Brent settled $115.81, -$0.91 (-0.8%), after briefly topping $117 (Reuters via Yahoo Finance)"
+wti,2026-10-26,101.76,settle,"WTI settled $101.76, -$1.51 (-1.46%) (Reuters via Yahoo Finance)"
+kospi,2026-10-26,5469.47,close,"KOSPI -1.46% (-80.83), lowest close since Apr 6; foreigners net sold 6.955tn won (Korea Times, SBS, Seoul Economic Daily)"
+usdkrw,2026-10-26,1323.1,close,"Won 1323.1 at 3:30pm close, +1.5 won stronger (Korea JoongAng Daily/Yonhap)"
