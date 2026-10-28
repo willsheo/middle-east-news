@@ -844,3 +844,9 @@ _Last updated: 2026-10-25_
 | Operation Epic Fury | 에픽 퓨리 작전 |
 | West Bank lockdown | 서안지구 봉쇄 |
 | R4 group (Saudi Arabia, Turkey, Egypt, Pakistan) | R4(사우디·튀르키예·이집트·파키스탄) |
+| Korea Shipowners' Association | 한국해운협회 |
+| Yashar! (Eisenkot's party) | 야샤르(아이젠코트 정당) |
+| Avigdor Liberman (Yisrael Beytenu leader) | 아비그도르 리베르만 (이스라엘 베이테누 대표) |
+| Lisa Cook / Beth Hammack (FOMC dissenters favoring a hike) | 리사 쿡 / 베스 해맥 (금리 인상을 주장한 연준 위원) |
+| seven day plan (Araghchi, to end war and reopen Hormuz) | 7일 계획 |
+| guarantor states | 보증국 |
