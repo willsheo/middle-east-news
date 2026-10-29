@@ -850,3 +850,6 @@ _Last updated: 2026-10-25_
 | Lisa Cook / Beth Hammack (FOMC dissenters favoring a hike) | 리사 쿡 / 베스 해맥 (금리 인상을 주장한 연준 위원) |
 | seven day plan (Araghchi, to end war and reopen Hormuz) | 7일 계획 |
 | guarantor states | 보증국 |
+| southern route (Hormuz, US promoted) | 남쪽 항로 |
+| sea mine | 기뢰 |
+| Brad Cooper (CENTCOM commander) | 브래드 쿠퍼 (미 중부사령관) |
