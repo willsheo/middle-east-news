@@ -853,3 +853,5 @@ _Last updated: 2026-10-25_
 | southern route (Hormuz, US promoted) | 남쪽 항로 |
 | sea mine | 기뢰 |
 | Brad Cooper (CENTCOM commander) | 브래드 쿠퍼 (미 중부사령관) |
+| limpet mine | 흡착 기뢰 |
+| Khasab | 카사브 |

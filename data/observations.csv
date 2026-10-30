@@ -395,3 +395,6 @@ usdkrw,2026-10-28,1337.7,close,"Won 1337.7 at 3:30pm close, +14.0 won weaker (Al
 brent,2026-10-29,114.10,morning_quote,"Brent about 114.10 at 03:51 GMT Oct 29, -1.1%; settle not found (oil price wires via search summary; another report 114.50)"
 wti,2026-10-29,101.45,morning_quote,"WTI about 101.45 at 03:51 GMT Oct 29, -1.3%; settle not found"
 kospi,2026-10-29,5937.66,close,"KOSPI -1.24% (-74.78) to 5937.66 after Samsung record Q3 but thin buyback details; intraday low 5817.92 (Hankook Ilbo, G-Enews)"
+kospi,2026-10-30,5730.74,close,"KOSPI -3.48% (-206.92) to 5730.74 on Alphabet-driven AI spending worries; sell sidecar 10:04; foreigners net sold 1.62tn won; SK Hynix -7.08%, Samsung -3.02% (Hankyung, Nate News, Seoul Shinmun)"
+usdkrw,2026-10-30,1334.3,close,"Won 1334.3 at daytime close, -2.5 won (Hankyung)"
+brent,2026-10-30,117.62,intraday,"Brent futures about 117.62 Friday Oct 30, up nearly 14% on the month; settle not found (Fox News live blog)"
