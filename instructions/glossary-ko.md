@@ -6,7 +6,7 @@ Pinned Korean renderings for recurring terms, so the Korean edition uses identic
 
 Register: analytical written style, 한다체 (plain reportive). Numbers in Arabic numerals with Korean units where natural (약 8,470만 배럴, 10억 달러). Outlet names stay in their original form ([Al Jazeera](...), [Bloomberg](...)); links unchanged. Confidence ratings: **신뢰도: 높음 / 중간 / 낮음**.
 
-_Last updated: 2026-10-25_
+_Last updated: 2026-11-01_
 
 ---
 
@@ -855,3 +855,12 @@ _Last updated: 2026-10-25_
 | Brad Cooper (CENTCOM commander) | 브래드 쿠퍼 (미 중부사령관) |
 | limpet mine | 흡착 기뢰 |
 | Khasab | 카사브 |
+
+## Added 2026-11-01
+
+| English | Korean |
+|---|---|
+| unity government (Netanyahu and Eisenkot) | 통합 정부 |
+| unauthorised routes (IRGC term) | 허가되지 않은 항로 |
+| unrestricted response (Khamenei) | 무제한 대응 |
+| expiring contract / active contract (futures) | 만기 계약 / 활발한 계약 |

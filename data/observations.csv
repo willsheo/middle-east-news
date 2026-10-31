@@ -398,3 +398,5 @@ kospi,2026-10-29,5937.66,close,"KOSPI -1.24% (-74.78) to 5937.66 after Samsung r
 kospi,2026-10-30,5730.74,close,"KOSPI -3.48% (-206.92) to 5730.74 on Alphabet-driven AI spending worries; sell sidecar 10:04; foreigners net sold 1.62tn won; SK Hynix -7.08%, Samsung -3.02% (Hankyung, Nate News, Seoul Shinmun)"
 usdkrw,2026-10-30,1334.3,close,"Won 1334.3 at daytime close, -2.5 won (Hankyung)"
 brent,2026-10-30,117.62,intraday,"Brent futures about 117.62 Friday Oct 30, up nearly 14% on the month; settle not found (Fox News live blog)"
+brent,2026-10-30,117.64,settle,"Brent December contract expired Oct 30, settled +$2.76 (+2.4%) to $117.64; more active January contract $113.43 (+$2.63); October +13.6% (CNBC/Reuters); supersedes the 117.62 intraday"
+wti,2026-10-30,104.12,settle,"WTI settled +$2.12 (+2.08%) to $104.12; October +15.2% (CNBC)"
