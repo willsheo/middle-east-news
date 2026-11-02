@@ -400,3 +400,7 @@ usdkrw,2026-10-30,1334.3,close,"Won 1334.3 at daytime close, -2.5 won (Hankyung)
 brent,2026-10-30,117.62,intraday,"Brent futures about 117.62 Friday Oct 30, up nearly 14% on the month; settle not found (Fox News live blog)"
 brent,2026-10-30,117.64,settle,"Brent December contract expired Oct 30, settled +$2.76 (+2.4%) to $117.64; more active January contract $113.43 (+$2.63); October +13.6% (CNBC/Reuters); supersedes the 117.62 intraday"
 wti,2026-10-30,104.12,settle,"WTI settled +$2.12 (+2.08%) to $104.12; October +15.2% (CNBC)"
+brent,2026-11-02,104.77,settle,"Brent settled -7.6% to $104.77 on US-Iran diplomacy hopes before midterms (CNBC)"
+wti,2026-11-02,96.46,settle,"WTI closed -7.4% to $96.46, biggest daily loss since Jul 27 (CNBC)"
+kospi,2026-11-02,5859.08,close,"KOSPI +2.24% to 5859.08 after opening -1.62% (Yonhap via Korea Times; MoneyToday 5859.07)"
+usdkrw,2026-11-02,1343.8,close,"Won 1343.8 per dollar, 9.5 won weaker (Yonhap)"
