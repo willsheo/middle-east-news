@@ -404,3 +404,7 @@ brent,2026-11-02,104.77,settle,"Brent settled -7.6% to $104.77 on US-Iran diplom
 wti,2026-11-02,96.46,settle,"WTI closed -7.4% to $96.46, biggest daily loss since Jul 27 (CNBC)"
 kospi,2026-11-02,5859.08,close,"KOSPI +2.24% to 5859.08 after opening -1.62% (Yonhap via Korea Times; MoneyToday 5859.07)"
 usdkrw,2026-11-02,1343.8,close,"Won 1343.8 per dollar, 9.5 won weaker (Yonhap)"
+brent,2026-11-03,103.60,settle,"Brent settled -$1.17 to $103.60, second straight daily decline (CNBC)"
+wti,2026-11-03,96.09,settle,"WTI closed -37c to $96.09 after dipping below $95 (CNBC)"
+kospi,2026-11-03,5648.79,close,"KOSPI -3.59% (-210.29) to 5648.79 on AI spending fears; foreigners net sold 1.5tn won (JoongAng Daily; Seoul Economic Daily)"
+usdkrw,2026-11-03,1341.0,close,"Won 1341 per dollar at 3:30pm, 2.8 won stronger than 1343.8 by arithmetic (JoongAng Daily wording says weaker; sign inconsistent)"
