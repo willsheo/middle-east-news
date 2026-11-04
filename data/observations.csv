@@ -408,3 +408,7 @@ brent,2026-11-03,103.60,settle,"Brent settled -$1.17 to $103.60, second straight
 wti,2026-11-03,96.09,settle,"WTI closed -37c to $96.09 after dipping below $95 (CNBC)"
 kospi,2026-11-03,5648.79,close,"KOSPI -3.59% (-210.29) to 5648.79 on AI spending fears; foreigners net sold 1.5tn won (JoongAng Daily; Seoul Economic Daily)"
 usdkrw,2026-11-03,1341.0,close,"Won 1341 per dollar at 3:30pm, 2.8 won stronger than 1343.8 by arithmetic (JoongAng Daily wording says weaker; sign inconsistent)"
+brent,2026-11-04,94.62,settle,Brent settled about -9% at $94.62 on Democratic midterm sweep (MarketScreener/search summary; Jan 2027 contract $93.52)
+wti,2026-11-04,88.12,settle,"WTI settled $88.12, about -8% (search summary of Reuters-based reports)"
+kospi,2026-11-04,5683.80,close,"KOSPI +0.62% (+35.01) to 5683.80, intraday low 5421.72; foreigners net sold 2.5tn won (JoongAng Daily)"
+usdkrw,2026-11-04,1341.5,close,"Won 1341.5 per dollar at 3:30pm, 0.5 won weaker (JoongAng Daily)"

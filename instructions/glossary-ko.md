@@ -864,3 +864,6 @@ _Last updated: 2026-11-01_
 | unauthorised routes (IRGC term) | 허가되지 않은 항로 |
 | unrestricted response (Khamenei) | 무제한 대응 |
 | expiring contract / active contract (futures) | 만기 계약 / 활발한 계약 |
+| Central Elections Committee (Israel) | 중앙선거관리위원회 (이스라엘) |
+| lame duck window (US) | 임기 말 공백기 |
+| Majed Al Ansari (Qatar spokesman) | 마제드 알안사리 (카타르 대변인) |
