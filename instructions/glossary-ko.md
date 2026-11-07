@@ -6,7 +6,7 @@ Pinned Korean renderings for recurring terms, so the Korean edition uses identic
 
 Register: analytical written style, 한다체 (plain reportive). Numbers in Arabic numerals with Korean units where natural (약 8,470만 배럴, 10억 달러). Outlet names stay in their original form ([Al Jazeera](...), [Bloomberg](...)); links unchanged. Confidence ratings: **신뢰도: 높음 / 중간 / 낮음**.
 
-_Last updated: 2026-11-01_
+_Last updated: 2026-11-08_
 
 ---
 
@@ -867,3 +867,6 @@ _Last updated: 2026-11-01_
 | Central Elections Committee (Israel) | 중앙선거관리위원회 (이스라엘) |
 | lame duck window (US) | 임기 말 공백기 |
 | Majed Al Ansari (Qatar spokesman) | 마제드 알안사리 (카타르 대변인) |
+| F4 (finance ministry, BOK, FSC, FSS heads' meeting) | F4 (경제·금융 수장 회의) |
+| margin loan collateral maintenance ratio | 신용융자 담보비율 유지의무 |
+| forced liquidation (margin call sales) | 반대매매 |

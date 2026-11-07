@@ -417,3 +417,5 @@ usdkrw,2026-11-05,1342.1,close,"Won 1342.1 per dollar at 3:30pm, +0.6 won (Finan
 brent,2026-11-05,98.29,settle,"Brent settled $98.29 Thursday, +3.9% (search summary of Reuters-based reports; consistent with $94.62 prior settle)"
 kospi,2026-11-06,5059.69,close,"KOSPI -6.02% (-324.11) to 5059.69, intraday low 4911.28, level 1 circuit breaker; foreigners net sold ~2.77tn won (Businesskorea, Newspim)"
 usdkrw,2026-11-06,1356.6,close,"Won 1356.6 per dollar at 3:30pm, +14.5 won weaker (News1, Seoul Finance, Betanews)"
+brent,2026-11-06,98.32,settle,"Brent January settled $98.32 Friday, +0.03%; week -13.2% (Rigzone, FinanceFeeds)"
+wti,2026-11-06,90.83,settle,"WTI December settled $90.83 Friday, +0.3% (Rigzone)"
