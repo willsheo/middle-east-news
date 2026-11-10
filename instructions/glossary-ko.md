@@ -870,3 +870,20 @@ _Last updated: 2026-11-08_
 | F4 (finance ministry, BOK, FSC, FSS heads' meeting) | F4 (경제·금융 수장 회의) |
 | margin loan collateral maintenance ratio | 신용융자 담보비율 유지의무 |
 | forced liquidation (margin call sales) | 반대매매 |
+
+## Added 2026-11-11
+
+| English | Korean |
+|---|---|
+| Khor Mor gas field (Iraqi Kurdistan) | 코르모르 가스전 (이라크 쿠르드 지역) |
+| Dana Gas (Khor Mor operator) | 다나 가스 (코르모르 운영사) |
+| Task Force Iron Gate (CENTCOM land and Caspian interdiction) | 아이언 게이트 태스크포스 |
+| "effectively over" (Trump on Iran war) | 사실상 끝났다 |
+| locked and loaded | 장전 완료 |
+| Ibrahim Kalin (Turkish intelligence chief) | 이브라힘 칼린 (튀르키예 정보청장) |
+| Matan Kahana (Yashar MK, speaker candidate) | 마탄 카하나 (야샤르 의원, 의장 후보) |
+| Amir Ohana (Knesset speaker, Likud) | 아미르 오하나 (크네세트 의장, 리쿠드) |
+| caretaker prime minister | 과도 총리 |
+| mandate to form a government (Israel) | 정부 구성권 |
+| 26th Knesset | 제26대 크네세트 |
+| Kataib Hezbollah | 카타이브 헤즈볼라 |
