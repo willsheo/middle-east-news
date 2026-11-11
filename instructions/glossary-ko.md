@@ -887,3 +887,18 @@ _Last updated: 2026-11-08_
 | mandate to form a government (Israel) | 정부 구성권 |
 | 26th Knesset | 제26대 크네세트 |
 | Kataib Hezbollah | 카타이브 헤즈볼라 |
+
+## Added 2026-11-12
+
+| English | Korean |
+|---|---|
+| unauthorized route (Iranian term for Hormuz lanes not coordinated with Iran) | 비인가 항로 |
+| seven conditions (Iran's preconditions for talks) | 7개 조건 |
+| Joint List (Israeli Arab party alliance) | 조인트 리스트 (이스라엘 아랍계 정당 연합) |
+| United Torah Judaism (UTJ) | 토라 유대교 연합(UTJ) |
+| Thomas Massie (US Representative) | 토머스 매시 (미 하원의원) |
+| refer to committee (impeachment) | 위원회 회부 |
+| explosive ordnance disposal (EOD) team | 폭발물처리(EOD)팀 |
+| backdoor deployment (Cheonghae Unit criticism) | 우회 파병 |
+| non-involvement, non-intervention principle | 전쟁 불개입·불간섭 원칙 |
+| Al Mayadeen (Lebanese broadcaster) | 알마야딘 (레바논 방송) |
