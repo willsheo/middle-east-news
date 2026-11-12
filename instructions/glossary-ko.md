@@ -902,3 +902,17 @@ _Last updated: 2026-11-08_
 | backdoor deployment (Cheonghae Unit criticism) | 우회 파병 |
 | non-involvement, non-intervention principle | 전쟁 불개입·불간섭 원칙 |
 | Al Mayadeen (Lebanese broadcaster) | 알마야딘 (레바논 방송) |
+
+## Added 2026-11-13
+
+| English | Korean |
+|---|---|
+| Assembly of Experts (Iran) | 전문가회의 (이란) |
+| Nuclear Non-Proliferation Treaty (NPT) | 핵확산금지조약(NPT) |
+| Basij (Iranian paramilitary force) | 바시지 (이란 민병대) |
+| Hossein Taeb (Basij chief) | 호세인 타에브 (바시지 사령관) |
+| Mohammad Bagher Qalibaf (Iran's chief negotiator) | 모하마드 바게르 갈리바프 (이란 수석 협상대표) |
+| Ras al-Khaimah (UAE emirate) | 라스알카이마 |
+| Knesset Arrangements Committee | 크네세트 조정위원회 |
+| options expiry day | 옵션 만기일 |
+| bypass route (around Hormuz) | 우회로 |
