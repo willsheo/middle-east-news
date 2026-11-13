@@ -435,3 +435,7 @@ brent,2026-11-12,95.82,settle,"Brent settled $95.82 Thursday, +$3.06 (+3.3%), on
 wti,2026-11-12,88.74,settle,"WTI settled $88.74 Thursday, +$2.21 (+2.6%) (Reuters via Central Oregon Daily)"
 kospi,2026-11-12,5342.73,close,"KOSPI -0.61% to 5342.73 after topping 5400 intraday; Nvidia CEO uncertainty and options expiry; foreigners net sold 427.2bn won (Seoul Economic Daily, Businesskorea, Namdo Ilbo)"
 usdkrw,2026-11-12,1330.7,close,"Won 1330.7 per dollar at 15:30, 2.9 won stronger (Nate/Yonhap)"
+brent,2026-11-13,95.84,settle,"Brent Jan settled $95.84 Friday, +2 cents; about -2% on the week; IEA sees Q4 surplus; IRGC Bahrain radar claim denied by CENTCOM (Bloomberg via Rigzone)"
+wti,2026-11-13,88.56,settle,"WTI Dec settled $88.56 Friday, -0.2% (Bloomberg via Rigzone)"
+kospi,2026-11-13,5290.53,close,"KOSPI -0.98% to 5290.53 after intraday high 5504.44; Nvidia CEO Jensen Huang steps down; foreigners net sold 703.3bn won (Sisa Journal e, Newspim)"
+usdkrw,2026-11-13,1336.7,close,"Won 1336.7 per dollar at 15:30, 6.0 won weaker, first rise in five sessions (News1, Seoul Economic Daily)"

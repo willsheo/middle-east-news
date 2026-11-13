@@ -916,3 +916,16 @@ _Last updated: 2026-11-08_
 | Knesset Arrangements Committee | 크네세트 조정위원회 |
 | options expiry day | 옵션 만기일 |
 | bypass route (around Hormuz) | 우회로 |
+
+## Added 2026-11-14
+
+| English | Korean |
+|---|---|
+| Mossad | 모사드 |
+| Roman Gofman (Mossad director) | 로만 고프만 (모사드 국장) |
+| early warning radar | 조기경보 레이더 |
+| one way attack drone | 일방향 공격 드론 |
+| LNG carrier | LNG 운반선 |
+| Channel 13 (Israeli broadcaster) | 채널13 (이스라엘 방송) |
+| Verisk Maplecroft (risk consultancy) | 베리스크 메이플크로프트 |
+| unlimited confrontation (IRGC phrase) | 무제한 대결 |
