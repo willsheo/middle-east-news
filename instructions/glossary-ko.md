@@ -929,3 +929,8 @@ _Last updated: 2026-11-08_
 | Channel 13 (Israeli broadcaster) | 채널13 (이스라엘 방송) |
 | Verisk Maplecroft (risk consultancy) | 베리스크 메이플크로프트 |
 | unlimited confrontation (IRGC phrase) | 무제한 대결 |
+| diversion of declared nuclear material (IAEA phrase) | 신고 핵물질의 전용 |
+| continuity of knowledge (IAEA safeguards term) | 지속적 파악(continuity of knowledge) |
+| Isfahan Fuel Enrichment Plant (IFEP) | 이스파한 농축시설(IFEP) |
+| down-blending (of enriched uranium) | 희석(다운블렌딩) |
+| prohibited zone (Iranian navy phrase, Hormuz) | 금지 구역 |
