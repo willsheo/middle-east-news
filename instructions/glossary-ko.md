@@ -934,3 +934,9 @@ _Last updated: 2026-11-08_
 | Isfahan Fuel Enrichment Plant (IFEP) | 이스파한 농축시설(IFEP) |
 | down-blending (of enriched uranium) | 희석(다운블렌딩) |
 | prohibited zone (Iranian navy phrase, Hormuz) | 금지 구역 |
+| Southern Armed Forces (Yemen, pro government) | 남부군 (예멘 정부 측) |
+| Dhubab (Taiz coast, Yemen) | 두바브 (예멘 타이즈 해안) |
+| Uvda (Channel 12 investigative programme) | 우브다 (채널12 탐사 프로그램) |
+| David Zini (Shin Bet director) | 다비드 지니 (신베트 국장) |
+| Badr Al Busaidi (Omani foreign minister) | 바드르 알부사이디 (오만 외무장관) |
+| Tommy Pigott (State Department spokesman) | 토미 피곳 (미 국무부 대변인) |
