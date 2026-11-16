@@ -940,3 +940,20 @@ _Last updated: 2026-11-08_
 | David Zini (Shin Bet director) | 다비드 지니 (신베트 국장) |
 | Badr Al Busaidi (Omani foreign minister) | 바드르 알부사이디 (오만 외무장관) |
 | Tommy Pigott (State Department spokesman) | 토미 피곳 (미 국무부 대변인) |
+
+## Added 2026-11-17
+
+| English | Korean |
+|---|---|
+| Jurf al-Sakhar (Kataib Hezbollah stronghold, Iraq) | 주르프 알사카르 (이라크, 카타이브 헤즈볼라 거점) |
+| Economic Cooperation Organization (ECO) | 경제협력기구(ECO) |
+| unknown projectile (UKMTO phrase) | 미상의 발사체 |
+| engine room fire | 기관실 화재 |
+| restricted zone (Iranian navy phrase, Hormuz) | 제한 구역 |
+| Khor Omairah (coast west of Aden) | 코르 오마이라 (아덴 서쪽 해안) |
+| Tor al-Baha (Lahj, Yemen) | 토르 알바하 (예멘 라히즈) |
+| Buraiqeh (district of Aden) | 부라이카 (아덴의 구역) |
+| Lahj (Yemeni governorate) | 라히즈주 |
+| Danny Levy (Israel Police commissioner) | 다니 레비 (이스라엘 경찰청장) |
+| USS Theodore Roosevelt (aircraft carrier) | 시어도어 루스벨트함 (항공모함) |
+| supply surplus (oil market) | 공급 과잉 |
