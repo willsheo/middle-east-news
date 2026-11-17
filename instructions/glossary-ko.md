@@ -957,3 +957,13 @@ _Last updated: 2026-11-08_
 | Danny Levy (Israel Police commissioner) | 다니 레비 (이스라엘 경찰청장) |
 | USS Theodore Roosevelt (aircraft carrier) | 시어도어 루스벨트함 (항공모함) |
 | supply surplus (oil market) | 공급 과잉 |
+| dirty bomb (radiological dispersal device) | 더티밤 (방사능 살포 폭탄) |
+| TARA GAS (Panama flagged LPG tanker) | TARA GAS (파나마 선적 LPG 운반선, 선명은 원문 표기) |
+| missile launch site | 미사일 발사 기지 |
+| Ofir Katz (Likud MK, speaker candidate) | 오피르 카츠 (리쿠드 의원, 의장 후보) |
+| Fayyad Al-Ruwaili (Saudi General Staff chief, Joint Forces commander) | 파야드 알루와일리 (사우디 총참모장, 합동군 사령관) |
+| Hussein al-Ezzi (senior Houthi official) | 후세인 알에지 (후티 고위 인사) |
+| Abu Taleb al-Saidi (Kataib Hezbollah commander) | 아부 탈레브 알사이디 (카타이브 헤즈볼라 지휘관) |
+| Al-Kharaz camp (Lahj, Yemen) | 알카라즈 캠프 (예멘 라지주) |
+| Esmail Qaani (IRGC Quds Force commander) | 에스마일 가아니 (혁명수비대 쿠드스군 사령관) |
+| Coordination Framework (Iraqi Shia bloc) | 조정 프레임워크 (이라크 시아파 연합) |
