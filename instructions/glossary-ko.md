@@ -967,3 +967,16 @@ _Last updated: 2026-11-08_
 | Al-Kharaz camp (Lahj, Yemen) | 알카라즈 캠프 (예멘 라지주) |
 | Esmail Qaani (IRGC Quds Force commander) | 에스마일 가아니 (혁명수비대 쿠드스군 사령관) |
 | Coordination Framework (Iraqi Shia bloc) | 조정 프레임워크 (이라크 시아파 연합) |
+
+## Added 2026-11-19
+
+| English | Korean |
+|---|---|
+| Patriot air defense system | 패트리엇 방공체계 |
+| cruise missile | 순항미사일 |
+| filibuster (Knesset) | 필리버스터 |
+| ADNOC L&S (ADNOC Logistics and Services) | ADNOC L&S (원문 표기) |
+| Abdolreza Masgarian (IRGC brigadier general, ambassador nominee to Baghdad) | 압돌레자 마스가리안 (혁명수비대 준장, 바그다드 주재 대사 지명자) |
+| Amran (Yemeni governorate) | 암란 (예멘) |
+| war risk insurance terms | 전쟁위험 보험 조건 |
+| host state (of US forces) | 주둔국 |
