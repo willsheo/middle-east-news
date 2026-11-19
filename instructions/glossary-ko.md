@@ -980,3 +980,11 @@ _Last updated: 2026-11-08_
 | Amran (Yemeni governorate) | 암란 (예멘) |
 | war risk insurance terms | 전쟁위험 보험 조건 |
 | host state (of US forces) | 주둔국 |
+| Public Investment Fund (PIF) tower, Riyadh | 공공투자펀드(PIF) 타워 (리야드) |
+| King Abdullah Financial District (KAFD) | 킹 압둘라 금융지구 |
+| joint operations centre (Jurf al-Sakhar) | 합동작전센터 |
+| Energy Police (Iraq) | 에너지경찰 (이라크) |
+| Hadi al-Amiri (Badr Organisation leader) | 하디 알아미리 (바드르 조직 지도자) |
+| Saad Maan (head of Iraq's security media cell) | 사드 만 (이라크 보안미디어실장) |
+| World Energy Outlook (IEA) | 세계에너지전망 |
+| Janta (Beqaa Valley, Lebanon) | 잔타 (레바논 베카 계곡) |
