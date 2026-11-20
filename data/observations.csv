@@ -457,3 +457,7 @@ brent,2026-11-19,91.98,settle,"Brent settled $91.98 Thursday, +3 cents (+0.03%),
 wti,2026-11-19,83.21,settle,"WTI settled $83.21 Thursday, -5 cents (-0.06%), lowest since Aug 26 (Reuters via Rallies)"
 kospi,2026-11-19,5137.89,close,"KOSPI +1.39% (+70.45) to 5137.89 after an intraday low of 4963.61; session shifted one hour for CSAT (16:30 close); foreigners net sold about 405bn won, institutions net bought about 19bn won (Sisa Journal e)"
 usdkrw,2026-11-19,1330.0,close,"Won 1330.0 per dollar at the daytime close (shifted one hour for CSAT), 3.0 won stronger; intraday low 1327.0; dollar index at a 19 month high (Sisa Journal e, Seoul Economic Daily)"
+brent,2026-11-20,92.57,settle,"Brent settled $92.57 Friday, +59 cents (+0.64%), on short covering before the US Thanksgiving holiday and Houthi threats to Saudi Red Sea ports; third weekly decline, about -4% (Reuters via Rallies)"
+wti,2026-11-20,83.98,settle,"WTI settled $83.98 Friday, +77 cents (+0.93%); December contract expired; third weekly decline, about -5% (Reuters via Rallies)"
+kospi,2026-11-20,4869.96,close,"KOSPI -5.21% (-267.93) to 4869.96, lowest close in about ten months, intraday low 4831.69; sell sidecar at 11:54; US tech and chip selloff (AMD -7.7%); foreigners net sold a sixth session, reports range 1.13tn to 1.73tn won; Samsung Electronics -7.01%, SK hynix -5.92% (Hankyung, Business Korea)"
+usdkrw,2026-11-20,1336.2,close,"Won 1336.2 per dollar at 15:30, 6.2 won weaker; intraday high 1340.3, low 1334.4 (News1, Business Korea)"

@@ -988,3 +988,13 @@ _Last updated: 2026-11-08_
 | Saad Maan (head of Iraq's security media cell) | 사드 만 (이라크 보안미디어실장) |
 | World Energy Outlook (IEA) | 세계에너지전망 |
 | Janta (Beqaa Valley, Lebanon) | 잔타 (레바논 베카 계곡) |
+| Jeddah (Saudi Red Sea port) | 지다 (사우디 홍해 항만) |
+| special operation (Saudi-led coalition, Nov 2026) | 특수작전 |
+| Turki al-Malki (Saudi-led coalition spokesman) | 투르키 알말리키 (사우디 주도 연합군 대변인) |
+| Ras al-Ara (Lahj coast, Yemen) | 라스 알아라 (예멘 라히즈 해안) |
+| ship to ship transfer | 선박 간 환적 |
+| United Against Nuclear Iran (UANI) | 이란핵반대연합(UANI) |
+| Ahmed Hatem Hamid (Iraqi Lt Gen) | 아흐메드 하템 하미드 (이라크 중장) |
+| Mohammad Mokhber (Iranian adviser) | 모하마드 모흐베르 (이란 고문) |
+| national emergency government (Israel) | 국가 비상 정부 / 비상정부 |
+| short covering | 숏커버링 (연휴 전 매수로 풀어 씀) |
