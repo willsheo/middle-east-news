@@ -998,3 +998,12 @@ _Last updated: 2026-11-08_
 | Mohammad Mokhber (Iranian adviser) | 모하마드 모흐베르 (이란 고문) |
 | national emergency government (Israel) | 국가 비상 정부 / 비상정부 |
 | short covering | 숏커버링 (연휴 전 매수로 풀어 씀) |
+| civilian industrial facility (Bahrain, Nov 2026) | 민간 산업시설 |
+| Awali (Bahrain) | 아왈리 |
+| tanker convoy (Kharg Island, blockade breaking) | 유조선 선단 |
+| act of war (Iranian description of the US blockade) | 전쟁 행위 |
+| rolling power cuts | 순환 정전 |
+| Tavanir (Iran's state power company) | 타바니르 (이란 국영 전력회사) |
+| marathon talks (Israeli coalition) | 마라톤 협상 |
+| permanent deal (Trump, Nov 2026) | 항구적 합의 |
+| security zones (Gaza, Lebanon, Syria; Likud condition) | 안보 구역 |
