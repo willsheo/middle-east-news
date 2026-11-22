@@ -1007,3 +1007,14 @@ _Last updated: 2026-11-08_
 | marathon talks (Israeli coalition) | 마라톤 협상 |
 | permanent deal (Trump, Nov 2026) | 항구적 합의 |
 | security zones (Gaza, Lebanon, Syria; Likud condition) | 안보 구역 |
+| Sitra (Bahrain industrial island) | 시트라 (바레인 산업 섬) |
+| Bapco (Bahrain state oil company) | 바프코 (바레인 국영 석유회사) |
+| Rabigh / Petro Rabigh (Saudi Red Sea refinery, Aramco and Sumitomo Chemical) | 라비그 / 페트로라비그 |
+| Sumitomo Chemical | 스미토모화학 |
+| Ghanam Island (east of Hormuz) | 가남섬 |
+| "professional tap dancers" (Trump on Iranian negotiators) | "프로 탭댄서들" |
+| incident involving a tanker and military forces (UKMTO wording) | 유조선과 군 병력이 관련된 사건 |
+| commodity carriers (Kpler transit basis) | 원자재 운반선 |
+| Military Intelligence (IDF) | 군 정보국 |
+| term limit bill (Israel) | 임기 제한 법안 |
+| company security officer (UKMTO reports) | 선사 보안책임자 |
