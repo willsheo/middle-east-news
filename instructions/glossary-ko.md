@@ -1018,3 +1018,15 @@ _Last updated: 2026-11-08_
 | Military Intelligence (IDF) | 군 정보국 |
 | term limit bill (Israel) | 임기 제한 법안 |
 | company security officer (UKMTO reports) | 선사 보안책임자 |
+| "all available means" (Baghaei on the blockade) | "가용한 모든 수단" |
+| "neither war nor peace" (Ghalibaf) | "전쟁도 평화도 아닌 상태" |
+| land blockade (of Iran) | 육상 봉쇄 |
+| exchange house (sanctions) | 환전소 |
+| front company | 위장 회사 |
+| attached opinion (National Assembly committee) | 부대의견 |
+| National Assembly defence committee | 국회 국방위원회 (국방위) |
+| LUCAS drone (US one way attack drone) | LUCAS 드론 |
+| David Barnea (former Mossad director) | 다비드 바르네아 (전 모사드 국장) |
+| Sharara pipeline (Libya) | 샤라라 송유관 |
+| AIS visible commercial ships (hormuz.now transit basis) | AIS 송출 상선 |
+| internationally recognised government (Yemen) | 국제사회가 인정하는 예멘 정부 |
