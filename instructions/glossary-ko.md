@@ -1030,3 +1030,18 @@ _Last updated: 2026-11-08_
 | Sharara pipeline (Libya) | 샤라라 송유관 |
 | AIS visible commercial ships (hormuz.now transit basis) | AIS 송출 상선 |
 | internationally recognised government (Yemen) | 국제사회가 인정하는 예멘 정부 |
+| Khor Fakkan (UAE east coast port) | 코르파칸 |
+| Dibba (UAE and Oman, Gulf of Oman coast) | 디바 |
+| Saudi Civil Defence | 사우디 민방위 당국 |
+| "firm response" (coalition on the Riyadh tower attack) | "단호한 대응" |
+| "cowardly terrorist attack" (coalition) | "비겁한 테러 공격" |
+| "increasingly closed day by day" (Hatami on Hormuz) | "날마다 더 닫힌 상태" |
+| chemical weapons (Katz claim on Iran) | 화학무기 |
+| preemptive strike | 선제 타격 |
+| "Iraq War-style propaganda" (Araghchi) | "이라크전식 선전" |
+| The Democrats (Israeli party led by Yair Golan) | 민주당 (이스라엘, 야이르 골란 대표) |
+| rotating premiership (Israeli coalition talks) | 총리직 순번제 |
+| buy sidecar (KRX) | 매수 사이드카 |
+| bulk carrier | 벌크선 |
+| Jensen Huang (Nvidia chief executive) | 젠슨 황 (엔비디아 최고경영자) |
+| committee staff review report (National Assembly) | 전문위원 검토보고서 |
