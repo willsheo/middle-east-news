@@ -1045,3 +1045,10 @@ _Last updated: 2026-11-08_
 | bulk carrier | 벌크선 |
 | Jensen Huang (Nvidia chief executive) | 젠슨 황 (엔비디아 최고경영자) |
 | committee staff review report (National Assembly) | 전문위원 검토보고서 |
+| Ras Tanura (Saudi Gulf coast refinery and export terminal) | 라스타누라 |
+| Non-Compliance List (Persian Gulf Strait Authority) | 비준수 목록 |
+| tugboat | 예인선 |
+| US Virtual Embassy in Iran | 미국 주이란 가상 대사관 |
+| Mohammad Reza Aref (Iranian first vice president) | 모하마드 레자 아레프 (이란 제1부통령) |
+| Tom Fletcher (UN humanitarian chief) | 톰 플레처 (유엔 인도주의 사무차장) |
+| berthing (LNG carrier at terminal) | 접안 |
