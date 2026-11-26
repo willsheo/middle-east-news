@@ -1052,3 +1052,13 @@ _Last updated: 2026-11-08_
 | Mohammad Reza Aref (Iranian first vice president) | 모하마드 레자 아레프 (이란 제1부통령) |
 | Tom Fletcher (UN humanitarian chief) | 톰 플레처 (유엔 인도주의 사무차장) |
 | berthing (LNG carrier at terminal) | 접안 |
+| Jazan refinery (Saudi Aramco, up to 400,000 b/d) | 자잔 정유소 |
+| Rheinmetall Italia | 라인메탈 이탈리아 |
+| Abolfazl Shekarchi (Iranian armed forces spokesman) | 아볼파즐 셰카르치 (이란군 대변인) |
+| Antonio Tajani (Italian foreign minister) | 안토니오 타야니 (이탈리아 외무장관) |
+| Effie Defrin (IDF spokesman) | 에피 데프린 (이스라엘군 대변인) |
+| Kang Shin-chul (Korean defence minister) | 강신철 (국방부 장관) |
+| Jin Sung-joon (National Assembly defence committee chair) | 진성준 (국방위원장) |
+| Akh Unit (Korean unit in the UAE) | 아크부대 |
+| dissenting opinion (Monetary Policy Board) | 소수의견 |
+| unmanned minesweeping equipment | 무인 소해장비 |
