@@ -6,7 +6,7 @@ Pinned Korean renderings for recurring terms, so the Korean edition uses identic
 
 Register: analytical written style, 한다체 (plain reportive). Numbers in Arabic numerals with Korean units where natural (약 8,470만 배럴, 10억 달러). Outlet names stay in their original form ([Al Jazeera](...), [Bloomberg](...)); links unchanged. Confidence ratings: **신뢰도: 높음 / 중간 / 낮음**.
 
-_Last updated: 2026-11-08_
+_Last updated: 2026-11-28_
 
 ---
 
@@ -1062,3 +1062,16 @@ _Last updated: 2026-11-08_
 | Akh Unit (Korean unit in the UAE) | 아크부대 |
 | dissenting opinion (Monetary Policy Board) | 소수의견 |
 | unmanned minesweeping equipment | 무인 소해장비 |
+| Pacific Archer (Palau flagged bulk carrier disabled by US forces) | 퍼시픽 아처호 |
+| disable (a vessel, blockade enforcement) | 무력화 |
+| Hengam Island (Iran, Strait of Hormuz) | 헹감섬 |
+| Al-Turba (Taiz, Yemen) | 알투르바 (예멘 타이즈) |
+| Majid Mousavi (IRGC Aerospace Force commander) | 마지드 무사비 (혁명수비대 항공우주군 사령관) |
+| Mohammad Totonji (Iranian ambassador to Kuwait) | 모하마드 토톤지 (주쿠웨이트 이란 대사) |
+| summon (an ambassador) / protest note | 초치 / 항의 서한 |
+| Saba (Houthi run news agency) | 사바 통신 |
+| Strategic Political and Defence Committee (Mecca pact) | 전략정치국방위원회 |
+| minority government (Israel) | 소수 정부 |
+| draft evaders (Israel) | 병역 기피자 |
+| market stabilisation fund (Korea) | 증시안정펀드 |
+| "victory at hand" (Trump) | "승리가 눈앞에" |
